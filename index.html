@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Archipelago Rhythm Game Manual</title>
+
+	<!-- CSS -->
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.blue.min.css">
+	<link rel="stylesheet" href="style.css">
+
+	<!-- Scripts -->
+	<script type="module" src="./scripts/utils.js" defer></script>
+	<script type="module" src="./scripts/loginManager.js" defer></script>
+	<script type="module" src="./scripts/archipelagoClient.js" defer></script>
+</head>
+<body>
+	<!-- Login Card -->
+	<article id="login-container">
+		<form>
+			<fieldset>
+				<label>
+					Server Address
+					<input type="text" name="server" value="archipelago.gg" required />
+				</label>
+				<label>
+					Port
+					<input type="number" name="port" required />
+				</label>
+				<label>
+					Slot Name
+					<input type="text" name="slot" required />
+				</label>
+				<label>
+					Password (if needed)
+					<input type="password" name="password" />
+				</label>
+				<label>
+					Game
+					<select name="game" required>
+						<option selected disabled>Select game</option>
+						<option value="Chunithm">CHUNITHM</option>
+						<option value="Maimai DX">maimai DX</option>
+						<option value="Wacca">WACCA</option>
+					</select>
+				</label>
+			</fieldset>
+			
+			<input type="submit" value="Connect" />
+		</form>
+	</article>
+
+	<!-- Main UI -->
+	<div id="main-ui" class="hidden">
+		<!-- Chat -->
+		<section id="chat-container">
+			<textarea id="log" readonly rows="5"></textarea>
+			<form id="chat-form">
+				<fieldset role="group">
+					<input type="text" id="chat-input" placeholder="Type your message..." />
+					<input type="submit" value="Send" />
+				</fieldset>
+			</form>
+		</section>
+
+		<!-- Tracker -->
+		<section>
+			<h3 id="tracker" style="text-align: center;">X / X Music Sheets to Goal.</h3>
+		</section>
+
+		<!-- Locations Table -->
+		<section class="overflow-auto">
+			<table>
+				<thead>
+					<tr>
+						<th scope="col">Song</th>
+						<th scope="col">Difficulty</th>
+						<th scope="col">Version</th>
+						<th scope="col">Category</th>
+					</tr>
+				</thead>
+				<tbody id="songs-list">
+					<tr id="goal-row">
+						<th scope="row">
+							<button id="goal-title" disabled><b>Goal:</b> Song Title</button>
+						</th>
+						<td id="goal-difficulty">Difficulty XX</td>
+						<td id="goal-version">Version</td>
+						<td id="goal-category">Category</td>
+					</tr>
+				</tbody>
+			</table>
+		</section>
+	</div>
+</body>
+</html>

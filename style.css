@@ -1,0 +1,15 @@
+/* Utility Styles */
+.hidden {
+	display: none;
+}
+
+body {
+	padding: 16px;
+	max-width: 64rem;
+	margin: auto;
+}
+
+#login-container {
+	max-width: 28rem;
+	margin: auto;
+}
