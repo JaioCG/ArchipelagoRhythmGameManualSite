@@ -1,1 +1,4340 @@
-{"Rainbow Dream": {"version": "WACCA", "category": "TANO*C\uff08\u30aa\u30ea\u30b8\u30ca\u30eb\uff09", "difficulties": [3, 8.7, 11.4, null]}, "Knight Rider": {"version": "WACCA", "category": "TANO*C\uff08\u30aa\u30ea\u30b8\u30ca\u30eb\uff09", "difficulties": [6, 10.9, 13.3, null]}, "Poseidon": {"version": "WACCA", "category": "TANO*C\uff08\u30aa\u30ea\u30b8\u30ca\u30eb\uff09", "difficulties": [5, 9.9, 13.8, null]}, "PARALLEL\u2605PRISM": {"version": "WACCA", "category": "TANO*C\uff08\u30aa\u30ea\u30b8\u30ca\u30eb\uff09", "difficulties": [3, 7.7, 10.8, 13.7, null]}, "\u5343\u672c\u685c": {"version": "WACCA", "category": "\u30dc\u30ab\u30ed", "difficulties": [2, 7.9, 10.4, null]}, "\u30b7\u30e5\u30ac\u30fc\u30bd\u30f3\u30b0\u3068\u30d3\u30bf\u30fc\u30b9\u30c6\u30c3\u30d7": {"version": "WACCA", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [2, 7, 10.4, null]}, "\u30d4\u30fc\u30b9\u30b5\u30a4\u30f3": {"version": "WACCA", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [2, 6.9, 9.8, null]}, "Singin'\u2606Shine\uff01": {"version": "WACCA", "category": "2.5\u6b21\u5143", "difficulties": [1, 5.3, 9.6, null]}, "MEMORiZE": {"version": "WACCA", "category": "TANO*C", "difficulties": [3, 8.1, 10, null]}, "illanai-assorted": {"version": "WACCA", "category": "TANO*C", "difficulties": [4, 8.9, 12.9, null]}, "\u30d5\u30a1\u30c6\u30a3\u30de": {"version": "WACCA", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [2, 6.8, 9.5, null]}, "Soldiers": {"version": "WACCA", "category": "TANO*C", "difficulties": [4, 8.8, 11.9, null]}, "Fight for the CORE feat. Daisuke": {"version": "WACCA", "category": "TANO*C", "difficulties": [4, 10.7, 12.6, null]}, "\u56de\u30ec\uff01\u96ea\u6708\u82b1": {"version": "WACCA", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [2, 8, 11, 13.8, null]}, "\u30a8\u30a4\u30ea\u30a2\u30f3\u30a8\u30a4\u30ea\u30a2\u30f3": {"version": "WACCA", "category": "\u30dc\u30ab\u30ed", "difficulties": [2, 6.7, 10.5, null]}, "\u7802\u306e\u60d1\u661f feat. \u521d\u97f3\u30df\u30af": {"version": "WACCA", "category": "\u30dc\u30ab\u30ed", "difficulties": [3, 8.7, 10.5, null]}, "\u30de\u30c8\u30ea\u30e7\u30b7\u30ab": {"version": "WACCA", "category": "\u30dc\u30ab\u30ed", "difficulties": [3, 8.2, 10.4, 13.8, null]}, "Let you DIVE!": {"version": "WACCA", "category": "\u30aa\u30ea\u30b8\u30ca\u30eb", "difficulties": [3, 9.7, 11.8, 13.4, null]}, "\u304b\u304f\u3057\u3093\u7684\u2606\u3081\u305f\u307e\u308b\u3075\u3049\uff5e\u305c\u3063!": {"version": "WACCA", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [1, 5.2, 9.5, null]}, "\u5f92\u82b1\u30cd\u30af\u30ed\u30de\u30f3\u30b7\u30fc": {"version": "WACCA", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [3, 6.9, 9.7, null]}, "POP TEAM EPIC": {"version": "WACCA", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [3, 7.8, 11.4, null]}, "\u3088\u3046\u3053\u305d\u30b8\u30e3\u30d1\u30ea\u30d1\u30fc\u30af\u3078": {"version": "WACCA", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [2, 7.6, 10.7, null]}, "\u30ed\u30ad": {"version": "WACCA", "category": "\u30dc\u30ab\u30ed", "difficulties": [4, 9.4, 11.6, null]}, "\u30a6\u30de\u30fc\u30d9\u30e9\u30b9": {"version": "WACCA", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [1, 6.8, 9.8, null]}, "\u30ae\u30df\u30c1\u30e7\u30b3!!": {"version": "WACCA", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [4, 10.3, 12.9, null]}, "\u30a6\u30df\u30e6\u30ea\u6d77\u5e95\u8b5a": {"version": "WACCA", "category": "\u30dc\u30ab\u30ed", "difficulties": [1, 7.1, 10.2, 12.9, null]}, "Seyana. \uff5e\u4f55\u3067\u3082\u8a00\u3046\u3053\u3068\u3092\u805e\u3044\u3066\u304f\u308c\u308b\u30a2\u30ab\u30cd\u30c1\u30e3\u30f3\uff5e": {"version": "WACCA", "category": "\u30dc\u30ab\u30ed", "difficulties": [2, 9.3, 11.7, null]}, "\u30d5\u30e9\u30b8\u30fc\u30eb": {"version": "WACCA", "category": "\u30dc\u30ab\u30ed", "difficulties": [1, 7, 10.3, null]}, "EZ DO DANCE -K.O.P. REMIX-": {"version": "WACCA", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [1, 6, 9.1, null]}, "\u30eb\u30fc\u30f3\u30d5\u30a1\u30af\u30c8\u30ea\u30fc\uff14\u30b9\u30da\u30b7\u30e3\u30eb\u3088\u308a\u300c\u3053\u306e\u60f3\u3044\u3092\u4e57\u305b\u3066\u300d": {"version": "WACCA", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [1, 5.6, 9, null]}, "LEVATEiN feat. \u91ce\u5bae\u3042\u3086\u307f": {"version": "WACCA", "category": "TANO*C\uff08\u30aa\u30ea\u30b8\u30ca\u30eb\uff09", "difficulties": [4, 9.1, 12.5, null]}, "BIG HEAD BANGING": {"version": "WACCA", "category": "TANO*C\uff08\u30aa\u30ea\u30b8\u30ca\u30eb\uff09", "difficulties": [6, 11, 13.8, null]}, "Quon": {"version": "WACCA", "category": "TANO*C\uff08\u30aa\u30ea\u30b8\u30ca\u30eb\uff09", "difficulties": [5, 10.6, 12.8, 13.9, null]}, "HELL FLAME": {"version": "WACCA", "category": "TANO*C\uff08\u30aa\u30ea\u30b8\u30ca\u30eb\uff09", "difficulties": [5, 10.4, 12.7, 13.9, null]}, "Gate One": {"version": "WACCA", "category": "TANO*C\uff08\u30aa\u30ea\u30b8\u30ca\u30eb\uff09", "difficulties": [4, 9.5, 12, null]}, "Are You Ready": {"version": "WACCA", "category": "TANO*C\uff08\u30aa\u30ea\u30b8\u30ca\u30eb\uff09", "difficulties": [4, 10.1, 12.5, null]}, "Over My Hand": {"version": "WACCA", "category": "TANO*C\uff08\u30aa\u30ea\u30b8\u30ca\u30eb\uff09", "difficulties": [3, 9.2, 11.1, null]}, "Sunshine": {"version": "WACCA", "category": "TANO*C", "difficulties": [4, 8.2, 11.3, null]}, "Try again": {"version": "WACCA", "category": "TANO*C", "difficulties": [4, 8.8, 10.6, null]}, "Ever Free(Raw Edit)": {"version": "WACCA", "category": "TANO*C", "difficulties": [3, 8.3, 10.1, null]}, "BOOM! BOOM!! BOOM!!!": {"version": "WACCA", "category": "TANO*C", "difficulties": [4, 10.6, 12.3, null]}, "BLUE SKY feat. \u91ce\u5bae\u3042\u3086\u307f": {"version": "WACCA", "category": "TANO*C", "difficulties": [3, 7.6, 10.4, null]}, "Sound Chimera": {"version": "WACCA", "category": "TANO*C", "difficulties": [5, 10.8, 12.8, 13.9, null]}, "Nameless Story": {"version": "WACCA", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [3, 7.5, 10.3, null]}, "TOMORROW": {"version": "WACCA", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [3, 8, 10.4, null]}, "\u4e94\u7b49\u5206\u306e\u6c17\u6301\u3061": {"version": "WACCA", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [2, 6.1, 9.9, null]}, "\u30b2\u30fc\u30e0\u30aa\u30fc\u30d0\u30fc (feat. TORIENA)": {"version": "WACCA", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [2, 7.7, 11.7, null]}, "\u30d5\u30a1\u30c3\u3068\u3057\u3066\u6843\u6e90\u90f7": {"version": "WACCA", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [3, 9.3, 12, null]}, "\u4e59\u5973\u89e3\u5256": {"version": "WACCA", "category": "\u30dc\u30ab\u30ed", "difficulties": [3, 7.3, 9.2, null]}, "\u30b9\u30af\u30e9\u30f3\u30d6\u30eb\u4ea4\u969b": {"version": "WACCA", "category": "\u30dc\u30ab\u30ed", "difficulties": [3, 8.4, 11, null]}, "Shining Harmony": {"version": "WACCA", "category": "TANO*C", "difficulties": [4, 9.6, 12.2, null]}, "Jingle": {"version": "WACCA", "category": "TANO*C", "difficulties": [4, 9.7, 11.3, null]}, "GRiDGALAXY": {"version": "WACCA", "category": "TANO*C", "difficulties": [4, 8.3, 11.5, 13.3, null]}, "conflict": {"version": "WACCA", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [5, 10.3, 13.4, null]}, "BATTLE NO.1": {"version": "WACCA", "category": "TANO*C", "difficulties": [6, 10.5, 13.7, 14.3, null]}, "\u3053\u3093\u306b\u3061\u306f\u3001ARuFa\u3067\u3059\u3002": {"version": "WACCA", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [3, 7.5, 10.4, null]}, "\u307c\u304f\u306e\u5922\u3001\u30e1\u30c1\u30e3\u30af\u30bd\u7121\u9650\u6e67\u304d": {"version": "WACCA", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [4, 9.6, 12.6, 13.8, null]}, "EXCITE": {"version": "WACCA", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [1, 6.5, 10, null]}, "Exitium": {"version": "WACCA", "category": "TANO*C\uff08\u30aa\u30ea\u30b8\u30ca\u30eb\uff09", "difficulties": [6, 11, 14.2, null]}, "Blaze": {"version": "WACCA", "category": "TANO*C", "difficulties": [3, 8.7, 11.7, null]}, "\u5e78\u305b\u306b\u306a\u308c\u308b\u96a0\u3057\u30b3\u30de\u30f3\u30c9\u304c\u3042\u308b\u3089\u3057\u3044": {"version": "WACCA", "category": "\u30dc\u30ab\u30ed", "difficulties": [5, 10.5, 13.3, 0, null]}, "ATARAX1A": {"version": "WACCA", "category": "TANO*C\uff08\u30aa\u30ea\u30b8\u30ca\u30eb\uff09", "difficulties": [4, 8.6, 12.5, 13.7, null]}, "13 Donkeys": {"version": "WACCA", "category": "TANO*C\uff08\u30aa\u30ea\u30b8\u30ca\u30eb\uff09", "difficulties": [2, 8.4, 12.2, null]}, "ADAM": {"version": "WACCA", "category": "TANO*C\uff08\u30aa\u30ea\u30b8\u30ca\u30eb\uff09", "difficulties": [5, 10.2, 13.4, null]}, "HiGHER": {"version": "WACCA", "category": "TANO*C", "difficulties": [3, 8.5, 12.2, 13.7, null]}, "Source of Creation": {"version": "WACCA", "category": "TANO*C", "difficulties": [3, 8.1, 11.3, null]}, "\u6c17\u307e\u3050\u308c\u30e1\u30eb\u30b7\u30a3 feat. \u521d\u97f3\u30df\u30af": {"version": "WACCA", "category": "\u30dc\u30ab\u30ed", "difficulties": [3, 7.4, 10.5, null]}, "\u592a\u967d\u7cfb\u30c7\u30b9\u30b3": {"version": "WACCA", "category": "\u30dc\u30ab\u30ed", "difficulties": [2, 7.4, 10.7, null]}, "\u30a2\u30ab\u30ea\u304c\u3084\u3063\u3066\u304d\u305f\u305e\u3063": {"version": "WACCA", "category": "\u30dc\u30ab\u30ed", "difficulties": [3, 8.5, 11.2, null]}, "Akareram": {"version": "WACCA", "category": "TANO*C", "difficulties": [3, 8.5, 11.7, null]}, "Galaxy Friends": {"version": "WACCA", "category": "TANO*C", "difficulties": [4, 8.9, 12.7, 13.9, null]}, "Bad Apple!! feat. nomico": {"version": "WACCA", "category": "\u6771\u65b9\u30a2\u30ec\u30f3\u30b8", "difficulties": [1, 5.5, 9.3, 12.5, null]}, "\u30ca\u30a4\u30c8\u30fb\u30aa\u30d6\u30fb\u30ca\u30a4\u30c4": {"version": "WACCA", "category": "\u6771\u65b9\u30a2\u30ec\u30f3\u30b8", "difficulties": [3, 9, 12, null]}, "WARNING\u00d7WARNING\u00d7WARNING": {"version": "WACCA", "category": "\u6771\u65b9\u30a2\u30ec\u30f3\u30b8", "difficulties": [3, 7.7, 11.5, null]}, "Raise Your Heart!!": {"version": "WACCA", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [3, 7.4, 10.6, null]}, "SHINY DAYS": {"version": "WACCA", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [1, 5.2, 9, null]}, "\u96c6\u7d50\u306e\u83ef\u3005": {"version": "WACCA", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [2, 6.3, 10.9, null]}, "\u30c1\u30eb\u30ce\u306e\u30d1\u30fc\u30d5\u30a7\u30af\u30c8\u3055\u3093\u3059\u3046\u6559\u5ba4": {"version": "WACCA", "category": "\u6771\u65b9\u30a2\u30ec\u30f3\u30b8", "difficulties": [3, 9.2, 11.5, null]}, "taboo tears you up 2017": {"version": "WACCA", "category": "\u6771\u65b9\u30a2\u30ec\u30f3\u30b8", "difficulties": [4, 9.8, 12.4, null]}, "\u5f85\u30c1\u4eba\u30cf\u6765\u30ba\u3002": {"version": "WACCA", "category": "\u6771\u65b9\u30a2\u30ec\u30f3\u30b8", "difficulties": [2, 6.4, 10.5, null]}, "Chariot": {"version": "WACCA", "category": "TANO*C\uff08\u30aa\u30ea\u30b8\u30ca\u30eb\uff09", "difficulties": [3, 8.6, 12.4, 13.8, null]}, "The Light": {"version": "WACCA", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [3, 7.8, 12.1, null]}, "AIAIAI (feat. \u4e2d\u7530\u30e4\u30b9\u30bf\u30ab)": {"version": "WACCA", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [1, 6.4, 9.4, null]}, "Hello, Morning": {"version": "WACCA", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [2, 7.1, 11.2, null]}, "\u305f\u3060\u541b\u306b\u6674\u308c": {"version": "WACCA", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [3, 7, 9.6, null]}, "VOX Diamond": {"version": "WACCA", "category": "TANO*C", "difficulties": [4, 7.9, 12.6, null]}, "\u6b8b\u9177\u306a\u5929\u4f7f\u306e\u30c6\u30fc\u30bc": {"version": "WACCA", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [1, 5.3, 9.3, null]}, "Pixel Galaxy": {"version": "WACCA", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [2, 7.2, 10.8, null]}, "Utopia feat. shully": {"version": "WACCA", "category": "\u30aa\u30ea\u30b8\u30ca\u30eb", "difficulties": [5, 9.4, 12.6, 13.7, null]}, "You Only Live Once": {"version": "WACCA", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [1, 5.4, 9.1, null]}, "\u306b\u3081\u3093\u305b\u3044\u2606\u30a6\u30e9\u30aa\u30e2\u30c6\u30e9\u30a4\u30d5!": {"version": "WACCA", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [3, 7.8, 10.5, null]}, "\u52a3\u7b49\u4e0a\u7b49": {"version": "WACCA", "category": "\u30dc\u30ab\u30ed", "difficulties": [3, 8, 11.9, 13.7, null]}, "Stratoliner": {"version": "WACCA", "category": "\u30aa\u30ea\u30b8\u30ca\u30eb", "difficulties": [4, 9.8, 12.8, 13.8, null]}, "Honey Panic!": {"version": "WACCA", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [3, 9.4, 12.1, null]}, "\u521d\u97f3\u30df\u30af\u306e\u6d88\u5931": {"version": "WACCA", "category": "\u30dc\u30ab\u30ed", "difficulties": [5, 10.6, 13.8, null]}, "Invisible Frenzy": {"version": "WACCA", "category": "TANO*C\uff08\u30aa\u30ea\u30b8\u30ca\u30eb\uff09", "difficulties": [7, 11, 14.2, null]}, "FREEDOM DiVE\u2193": {"version": "WACCA", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [6, 10.9, 13.9, null]}, "J\u00e4germeister": {"version": "WACCA", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [3, 8.8, 11.2, null]}, "\u300e\u30a8\u30ad\u30bb\u30f3\u30c8\u30ea\u30c3\u30af\u5c11\u5e74\u30dc\u30a6\u30a4\u300f\u306e\u30c6\u30fc\u30de": {"version": "WACCA", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [1, 5.7, 12.6, null]}, "What's this?": {"version": "WACCA", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [3, 6.3, 10.2, null]}, "JINGLE DEATH": {"version": "WACCA", "category": "TANO*C\uff08\u30aa\u30ea\u30b8\u30ca\u30eb\uff09", "difficulties": [4, 10.4, 13.2, null]}, "Over the sweat and tears": {"version": "WACCA", "category": "2.5\u6b21\u5143", "difficulties": [1, 5.6, 9.4, null]}, "jacaranda": {"version": "WACCA", "category": "\u30aa\u30ea\u30b8\u30ca\u30eb", "difficulties": [4, 9.3, 12.7, null]}, "CHECKER FLAG": {"version": "WACCA", "category": "\u30aa\u30ea\u30b8\u30ca\u30eb", "difficulties": [3, 7.2, 12.9, null]}, "BLVST BEVT": {"version": "WACCA", "category": "TANO*C", "difficulties": [4, 10, 12.6, null]}, "only my railgun": {"version": "WACCA S", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [3, 6.7, 9.5, null]}, "\u30b4\u30fc\u30b9\u30c8\u30eb\u30fc\u30eb": {"version": "WACCA S", "category": "\u30dc\u30ab\u30ed", "difficulties": [3, 9, 11.6, null]}, "Shiny Memory feat.Yukacco": {"version": "WACCA S", "category": "TANO*C", "difficulties": [3, 9.8, 12.5, null]}, "\u30aa\u30c9\u30eb\u30fc\u30d7": {"version": "WACCA S", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [3, 7.9, 10.4, null]}, "\u71d0\u5efb": {"version": "WACCA S", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [2, 7.7, 11.1, null]}, "\u30ed\u30b9\u30c8\u30ef\u30f3\u306e\u53f7\u54ed": {"version": "WACCA S", "category": "\u30dc\u30ab\u30ed", "difficulties": [4, 8.3, 12.2, null]}, "\u3044\u30fc\u3042\u308b\u3075\u3041\u3093\u304f\u3089\u3076": {"version": "WACCA S", "category": "\u30dc\u30ab\u30ed", "difficulties": [2, 6.5, 10, null]}, "\u60aa\u622f\u30bb\u30f3\u30bb\u30fc\u30b7\u30e7\u30f3": {"version": "WACCA S", "category": "\u6771\u65b9\u30a2\u30ec\u30f3\u30b8", "difficulties": [2, 8.6, 12.3, null]}, "Mami Mami Zone": {"version": "WACCA S", "category": "\u6771\u65b9\u30a2\u30ec\u30f3\u30b8", "difficulties": [4, 9.2, 11.4, null]}, "Demon's Rave": {"version": "WACCA S", "category": "\u30aa\u30ea\u30b8\u30ca\u30eb", "difficulties": [5, 10, 12.8, null]}, "Murasaki": {"version": "WACCA S", "category": "TANO*C\uff08\u30aa\u30ea\u30b8\u30ca\u30eb\uff09", "difficulties": [3, 7.5, 12.4, null]}, "Mazy Metroplex": {"version": "WACCA S", "category": "TANO*C\uff08\u30aa\u30ea\u30b8\u30ca\u30eb\uff09", "difficulties": [4, 10.8, 13.7, null]}, "\u30c9\u30e9\u30de\u30c4\u30eb\u30ae\u30fc": {"version": "WACCA S", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [2, 7.4, 10.1, null]}, "\u30ca\u30a4\u30c8\u30fb\u30aa\u30d6\u30fb\u30ca\u30a4\u30c4 (\u304b\u3081\u308a\u3042\u2019s\u201c\u30ef\u30f3\u30b9\u30fb\u30a2\u30dd\u30f3\u30fb\u30a2\u30fb\u30ca\u30a4\u30c8\u201dRemix)": {"version": "WACCA S", "category": "\u6771\u65b9\u30a2\u30ec\u30f3\u30b8", "difficulties": [5, 10.5, 13.1, null]}, "\u2020DOOF\u2020SENC\u2020": {"version": "WACCA S", "category": "TANO*C", "difficulties": [6, 10.4, 13.6, null]}, "LOSE CONTROL": {"version": "WACCA S", "category": "TANO*C", "difficulties": [3, 8.1, 11.3, null]}, "\u30d9\u30fc\u30b9\u30e9\u30a4\u30f3\u3084\u3063\u3066\u308b\uff1f\u7b11": {"version": "WACCA S", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [4, 9.9, 12.2, null]}, "EU over Progress": {"version": "WACCA S", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [6, 10.7, 12.7, null]}, "\u30b7\u30e3\u30eb\u30eb": {"version": "WACCA S", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [3, 7.1, 10.3, null]}, "Shiny Smily Story": {"version": "WACCA S", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [3, 6.5, 10.4, null]}, "Dream\u2606Story": {"version": "WACCA S", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [2, 7.5, 11.2, null]}, "without U": {"version": "WACCA S", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [3, 7.2, 10.2, null]}, "\u65b0\u5b9d\u5cf6": {"version": "WACCA S", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [1, 6.3, 9.4, null]}, "U.S.A.": {"version": "WACCA S", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [2, 7.1, 10.2, null]}, "\u30bb\u30c4\u30ca\u30c8\u30ea\u30c3\u30d7": {"version": "WACCA S", "category": "\u30dc\u30ab\u30ed", "difficulties": [3, 9, 12.1, null]}, "\u30ab\u30b2\u30ed\u30a6\u30c7\u30a4\u30ba": {"version": "WACCA S", "category": "\u30dc\u30ab\u30ed", "difficulties": [4, 9.5, 11.3, null]}, "\u5929\u30ce\u5f31": {"version": "WACCA S", "category": "\u30dc\u30ab\u30ed", "difficulties": [3, 7.3, 10.1, null]}, "\u30b1\u30ed\u2468Destiny": {"version": "WACCA S", "category": "\u6771\u65b9\u30a2\u30ec\u30f3\u30b8", "difficulties": [2, 6.2, 11.7, null]}, "LOVE EAST": {"version": "WACCA S", "category": "\u6771\u65b9\u30a2\u30ec\u30f3\u30b8", "difficulties": [3, 7.3, 11, null]}, "\u5929\u72d7\u306e\u843d\u3068\u3057\u6587 feat. ytr": {"version": "WACCA S", "category": "\u6771\u65b9\u30a2\u30ec\u30f3\u30b8", "difficulties": [3, 8.2, 12.1, null]}, "\u795e\u5bc2": {"version": "WACCA S", "category": "\u6771\u65b9\u30a2\u30ec\u30f3\u30b8", "difficulties": [4, 10.8, 13.5, null]}, "\u98a8\u306b\u4e57\u305b\u305f\u9858\u3044": {"version": "WACCA S", "category": "\u6771\u65b9\u30a2\u30ec\u30f3\u30b8", "difficulties": [3, 7.1, 10.3, null]}, "GASHATT": {"version": "WACCA S", "category": "\u30aa\u30ea\u30b8\u30ca\u30eb", "difficulties": [4, 10.1, 12.4, null]}, "Strange Bar": {"version": "WACCA S", "category": "TANO*C", "difficulties": [3, 10.2, 12.8, null]}, "\u8f2a\u5efb\u8ee2\u751f": {"version": "WACCA S", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [3, 9.2, 12.3, null]}, "\u30b9\u30c8\u30e9\u30a4\u30af\u30fb\u30b6\u30fb\u30d6\u30e9\u30c3\u30c9": {"version": "WACCA S", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [3, 8.7, 11.7, null]}, "Eyes on me feat. Such": {"version": "WACCA S", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [3, 7.7, 12.4, null]}, "GOODWORLD": {"version": "WACCA S", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [2, 9.1, 12.6, null]}, "Altale": {"version": "WACCA S", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [4, 9.3, 12.3, null]}, "\u541b\u306eStarlight Road": {"version": "WACCA S", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [3, 8.2, 10.3, null]}, "FUJIN Rumble": {"version": "WACCA S", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [5, 10.8, 13.6, null]}, "\u8056\u8005\u306e\u9f13\u52d5": {"version": "WACCA S", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [2, 7.6, 12.4, null]}, "BUCHiGiRE Berserker": {"version": "WACCA S", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [4, 10.9, 13.9, null]}, "Brain Power": {"version": "WACCA S", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [4, 9.7, 13, null]}, "Ultra Red": {"version": "WACCA S", "category": "TANO*C", "difficulties": [3, 9.6, 12.8, null]}, "\u30b5\u30a4\u30af\u30eb\u30d2\u30c3\u30c8": {"version": "WACCA S", "category": "TANO*C", "difficulties": [5, 10.5, 13.5, null]}, "\u30ac\u30f3\u30ac\u30f3\u30fb\u30c9\u30f3\u30c9\u30f3": {"version": "WACCA S", "category": "2.5\u6b21\u5143", "difficulties": [2, 6, 9.7, null]}, "\u30b9\u30de\u30a4\u30eb\u30fb\u30a2\u30f3\u30c9\u30fb\u30c6\u30a3\u30a2\u30ba": {"version": "WACCA S", "category": "2.5\u6b21\u5143", "difficulties": [2, 6.1, 9.5, null]}, "STILL HOT IN MY HEART": {"version": "WACCA S", "category": "2.5\u6b21\u5143", "difficulties": [3, 7.3, 10.3, null]}, "\u307c\u306a\u307a\u3066\u3043\u30fc\u3068\u2661S": {"version": "WACCA S", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [2, 7.7, 11.5, null]}, "\u30c7\u30bf\u30e9\u30e1\u306a\u30de\u30a4\u30ca\u30b9\u3068\u30d7\u30e9\u30b9\u306b\u304a\u3051\u308b\u30d6\u30ec\u30f3\u30c9\u8003": {"version": "WACCA S", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [2, 5.7, 10, null]}, "\u30ea\u30a2\u30eb\u521d\u97f3\u30df\u30af\u306e\u6d88\u5931": {"version": "WACCA S", "category": "\u30dc\u30ab\u30ed", "difficulties": [6, 10.2, 13.7, null]}, "\u30c1\u30e5\u30eb\u30ea\u30e9\u30fb\u30c1\u30e5\u30eb\u30ea\u30e9\u30fb\u30c0\u30c3\u30c0\u30c3\u30c0\uff01": {"version": "WACCA S", "category": "\u30dc\u30ab\u30ed", "difficulties": [4, 8.3, 12.4, null]}, "\u304a\u3070\u3051\u306e\u30a6\u30b1\u306d\u3089\u3044": {"version": "WACCA S", "category": "\u30dc\u30ab\u30ed", "difficulties": [3, 8, 11.7, null]}, "\u30d9\u30ce\u30e0": {"version": "WACCA S", "category": "\u30dc\u30ab\u30ed", "difficulties": [3, 7.5, 12.1, null]}, "Metamorphose": {"version": "WACCA S", "category": "TANO*C\uff08\u30aa\u30ea\u30b8\u30ca\u30eb\uff09", "difficulties": [4, 10.3, 12.7, 13.9, null]}, "MAGiC4LG1RL M3GA S7R1KE!": {"version": "WACCA S", "category": "TANO*C\uff08\u30aa\u30ea\u30b8\u30ca\u30eb\uff09", "difficulties": [4, 10, 13.1, null]}, "METEOR BURST": {"version": "WACCA S", "category": "TANO*C\uff08\u30aa\u30ea\u30b8\u30ca\u30eb\uff09", "difficulties": [5, 10.9, 13.8, null]}, "XTREME": {"version": "WACCA S", "category": "TANO*C\uff08\u30aa\u30ea\u30b8\u30ca\u30eb\uff09", "difficulties": [6, 11, 12.9, 14, null]}, "\u5929\u4f7f\u5149\u8f2a": {"version": "WACCA S", "category": "TANO*C\uff08\u30aa\u30ea\u30b8\u30ca\u30eb\uff09", "difficulties": [7, 11, 13.2, 14.1, null]}, "\u30c4\u30a2\u30fc\u30fb\u30d5\u30a1\u30a4\u30ca\u30eb": {"version": "WACCA S", "category": "TANO*C", "difficulties": [3, 9.4, 12.3, null]}, "\u9752\u7a7a\u306e\u30e9\u30d7\u30bd\u30c7\u30a3": {"version": "WACCA S", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [2, 6.8, 9.3, 11, null]}, "\u30c0\u30c0\u30c0\u30c0\u5929\u4f7f": {"version": "WACCA S", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [3, 7.8, 12, null]}, "Bravely You": {"version": "WACCA S", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [1, 6.5, 9.5, null]}, "\u30c0\u30f3\u30b7\u30f3\u30b0\u2606\u30b5\u30e0\u30e9\u30a4": {"version": "WACCA S", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [3, 7.7, 10.5, null]}, "WHITE": {"version": "WACCA S", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [3, 8, 10.5, null]}, "HOT LIMIT": {"version": "LILY", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [3, 7.9, 10, null]}, "\u306a\u3044\u3082\u306e\u306d\u3060\u308a": {"version": "LILY", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [2, 7.7, 11.1, null]}, "While Shining feat.Yukacco": {"version": "LILY", "category": "TANO*C", "difficulties": [3, 8.6, 12.3, null]}, "\u30d6\u30ea\u30ad\u30ce\u30c0\u30f3\u30b9": {"version": "LILY", "category": "\u30dc\u30ab\u30ed", "difficulties": [3, 7.9, 12.3, null]}, "LETHAL;WEAPON": {"version": "LILY", "category": "\u30aa\u30ea\u30b8\u30ca\u30eb", "difficulties": [3, 8, 12.9, 13.9, null]}, "RAGE OF DUST": {"version": "LILY", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [3, 8.4, 9.6, null]}, "\u79d2\u91dd\u3092\u565b\u3080": {"version": "LILY", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [2, 6.8, 11, null]}, "\u30ac\u30f4\u30ea\u30fc\u30eb\u30c9\u30ed\u30c3\u30d7\u30ad\u30c3\u30af": {"version": "LILY", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [3, 6.9, 11, null]}, "This game": {"version": "LILY", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [2, 7.6, 10.7, null]}, "\u30dd\u30b8\u30c6\u30a3\u30d6\u2606\u30c0\u30f3\u30b9\u30bf\u30a4\u30e0": {"version": "LILY", "category": "\u30dc\u30ab\u30ed", "difficulties": [3, 8.9, 11.6, null]}, "Gimme\u00d7Gimme feat. \u521d\u97f3\u30df\u30af\u30fb\u93e1\u97f3\u30ea\u30f3": {"version": "LILY", "category": "\u30dc\u30ab\u30ed", "difficulties": [2, 8.1, 12, null]}, "39\u307f\u3085\u30fc\u3058\u3063\u304f\uff01": {"version": "LILY", "category": "\u30dc\u30ab\u30ed", "difficulties": [2, 7.4, 10.9, null]}, "\u3086\u3051\u3080\u308a\u9b42\u6e29\u6cc9 II": {"version": "LILY", "category": "\u6771\u65b9\u30a2\u30ec\u30f3\u30b8", "difficulties": [3, 7.5, 12, null]}, "\u660e\u661f\u30ed\u30b1\u30c3\u30c8": {"version": "LILY", "category": "\u6771\u65b9\u30a2\u30ec\u30f3\u30b8", "difficulties": [2, 7.5, 11.7, null]}, "Calamity Fortune": {"version": "LILY", "category": "\u6771\u65b9\u30a2\u30ec\u30f3\u30b8", "difficulties": [4, 10, 13.7, null]}, "\u30a4\u30f3\u30c9\u30a2\u7cfb\u306a\u3089\u30c8\u30e9\u30c3\u30af\u30e1\u30a4\u30ab\u30fc": {"version": "LILY", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [2, 7.5, 12.9, null]}, "with U": {"version": "LILY", "category": "\u30aa\u30ea\u30b8\u30ca\u30eb", "difficulties": [3, 7.9, 11.8, 13.6, null]}, "Tell Me": {"version": "LILY", "category": "\u30aa\u30ea\u30b8\u30ca\u30eb", "difficulties": [3, 7.9, 11.8, 13.9, null]}, "THE MUZZLE FACING": {"version": "LILY", "category": "\u30aa\u30ea\u30b8\u30ca\u30eb", "difficulties": [4, 9.8, 13.8, null]}, "SUPER REACTOR": {"version": "LILY", "category": "TANO*C\uff08\u30aa\u30ea\u30b8\u30ca\u30eb\uff09", "difficulties": [4, 8.2, 13, null]}, "ONOMATO Pairing!!!": {"version": "LILY", "category": "TANO*C\uff08\u30aa\u30ea\u30b8\u30ca\u30eb\uff09", "difficulties": [2, 8.5, 12.4, null]}, "GENOCIDER": {"version": "LILY", "category": "TANO*C\uff08\u30aa\u30ea\u30b8\u30ca\u30eb\uff09", "difficulties": [6, 11, 14.1, null]}, "ALiVE": {"version": "LILY", "category": "TANO*C", "difficulties": [3, 7.8, 11, null]}, "\u30ad\u30e9\u30e1\u30ad\u30e9\u30a4\u30c0\u30fc\u2606": {"version": "LILY", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [2, 7, 11.5, null]}, "\u30ad\u30e9\u30c3\u3068\u30b9\u30bf\u30fc\u30c8 (USAO Remix)": {"version": "LILY", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [4, 8.2, 12.5, null]}, "Make it\uff01 (DJ Genki Remix)": {"version": "LILY", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [3, 7.8, 11.6, null]}, "\u30cf\u30fc\u30c8\u2665\u30a4\u30ed\u2665\u30c8\u30ea\u30c9\u30ea\u301c\u30e0": {"version": "LILY", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [1, 6, 10.1, null]}, "Make it\uff01": {"version": "LILY", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [1, 5.1, 9.4, null]}, "\u30ad\u30e9\u30c3\u3068\u30b9\u30bf\u30fc\u30c8": {"version": "LILY", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [2, 7.4, 10.2, null]}, "\u30cb\u30e5\u30fc\u30fb\u30a6\u30a7\u30fc\u30d6": {"version": "LILY", "category": "2.5\u6b21\u5143", "difficulties": [2, 6.1, 9.3, null]}, "\u30a2\u30b9\u30ce\u30e8\u30be\u30e9\u54e8\u6212\u73ed": {"version": "LILY", "category": "\u30dc\u30ab\u30ed", "difficulties": [3, 7.6, 11.9, null]}, "\u30d2\u30d3\u30ab\u30bb": {"version": "LILY", "category": "\u30dc\u30ab\u30ed", "difficulties": [3, 8.4, 12.3, null]}, "\u8133\u6f3f\u70b8\u88c2\u30ac\u30fc\u30eb": {"version": "LILY", "category": "\u30dc\u30ab\u30ed", "difficulties": [5, 9.5, 13.5, null]}, "Grayed Out-Antifront-": {"version": "LILY", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [3, 9.6, 13.2, null]}, "ARTEMiS": {"version": "LILY", "category": "\u30aa\u30ea\u30b8\u30ca\u30eb", "difficulties": [4, 10.6, 13.9, null]}, "Poppin' Shower": {"version": "LILY", "category": "TANO*C", "difficulties": [3, 9.8, 12.5, 13.5, null]}, "\u9032\u6357\u3069\u3046\u3067\u3059\u304b\uff1f": {"version": "LILY", "category": "\u6771\u65b9\u30a2\u30ec\u30f3\u30b8", "difficulties": [3, 8.6, 12.5, null]}, "Sweet Requiem": {"version": "LILY", "category": "\u6771\u65b9\u30a2\u30ec\u30f3\u30b8", "difficulties": [3, 9.2, 12.7, null]}, "Help me, ERINNNNNN!!": {"version": "LILY", "category": "\u6771\u65b9\u30a2\u30ec\u30f3\u30b8", "difficulties": [3, 7.7, 11.6, null]}, "HELLO to DREAM": {"version": "LILY", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [1, 6.5, 9.7, null]}, "over and over": {"version": "LILY", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [2, 7.5, 10.4, null]}, "\u30c8\u30ed\u30d4\u30ab\u30c3\u2606\u30d0\u30b1\u30fc\u30b7\u30e7\u30f3": {"version": "LILY", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [2, 7.5, 10.7, null]}, "\u304a\u9858\u3044\u30de\u30c3\u30b9\u30eb": {"version": "LILY", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [1, 7.7, 10.7, null]}, "\u30de\u30c3\u30c1\u30e7\u30a2\u30cd\u30fc\u30e0\uff1f": {"version": "LILY", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [2, 6.6, 12.7, null]}, "\u307a\u3053\u307f\u3053\u5927\u6226\u4e89\uff01\uff01": {"version": "LILY", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [4, 8.4, 11.2, 13.2, null]}, "Say!\u30d5\u30a1\u30f3\u30d5\u30a1\u30fc\u30ec!": {"version": "LILY", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [3, 8.6, 12.5, null]}, "\u5922\u898b\u308b\u7a7a\u3078": {"version": "LILY", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [2, 7.7, 11.3, null]}, "NEXT COLOR PLANET": {"version": "LILY", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [2, 7.5, 12.6, null]}, "\u30d1\u30cb\u30c3\u30af\u30dd\u30c3\u30d7\u2606\u30d5\u30a7\u30b9\u30c6\u30a3\u30d0\u30eb!!!": {"version": "LILY", "category": "TANO*C\uff08\u30aa\u30ea\u30b8\u30ca\u30eb\uff09", "difficulties": [5, 10, 13.3, null]}, "Stasis feat.motoko -WACCA EDiT-": {"version": "LILY", "category": "TANO*C", "difficulties": [4, 7.9, 12.7, null]}, "RAV#GIRL": {"version": "LILY", "category": "TANO*C", "difficulties": [3, 7.8, 12.6, null]}, "KALACAKLA": {"version": "LILY", "category": "TANO*C", "difficulties": [4, 8, 12.7, null]}, "Good Night, Bad Luck.": {"version": "LILY", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [5, 10.7, 13.7, null]}, "Got more raves?": {"version": "LILY", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [6, 10.9, 13.5, null]}, "\u30b0\u30eb\u30fc\u30f4\u30fb\u30b6\u30fb\u30cf\u30fc\u30c8": {"version": "LILY", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [4, 8.5, 12.5, null]}, "QiXiN MAdN3ss 2153": {"version": "LILY", "category": "\u30aa\u30ea\u30b8\u30ca\u30eb", "difficulties": [6, 11, 13.9, null]}, "\u604b\u30e1\u30bf\u30eb": {"version": "LILY", "category": "TANO*C", "difficulties": [3, 8.8, 12.7, null]}, "Fish Fight!": {"version": "LILY", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [4, 9, 11.6, null]}, "THERAPY": {"version": "LILY", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [4, 9.1, 12.7, null]}, "\u306f\u3052\u3057\u3053\u306e\u591c -Psylent Crazy Night-": {"version": "LILY", "category": "TANO*C\uff08\u30aa\u30ea\u30b8\u30ca\u30eb\uff09", "difficulties": [4, 8.8, 13.7, null]}, "\u30b7\u30e3\u30ab\u30ea\u30ad\u30fb\u30d5\u30a1\u30a4\u30c8\u30fb\u30d6\u30f3\u30d6\u30f3": {"version": "LILY", "category": "2.5\u6b21\u5143", "difficulties": [3, 6.7, 11.7, null]}, "\u9032\u6357\u3069\u3046\u3067\u3059\u304b\uff01": {"version": "LILY", "category": "\u30dc\u30ab\u30ed", "difficulties": [3, 7.3, 12.8, null]}, "\u30ef\u30fc\u30eb\u30c9\u30a4\u30ba\u30de\u30a4\u30f3": {"version": "LILY", "category": "\u30dc\u30ab\u30ed", "difficulties": [3, 8.3, 11.6, null]}, "\u307c\u304f\u3089\u306e16bit\u6226\u4e89": {"version": "LILY", "category": "\u30dc\u30ab\u30ed", "difficulties": [4, 9.1, 13.4, null]}, "\u9694\u7d76\u2261\u30bf\u30ca\u30c8\u30b9": {"version": "LILY", "category": "\u30dc\u30ab\u30ed", "difficulties": [4, 8.5, 13.5, null]}, "From Zero feat. \u5229\u9999": {"version": "LILY", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [3, 7.7, 11.8, null]}, "PRESS START!": {"version": "LILY", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [4, 8.7, 12.7, null]}, "TWISTSTEP": {"version": "LILY", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [3, 8.8, 12.7, null]}, "Future C\u03b1ndy": {"version": "LILY", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [3, 9.1, 12.7, null]}, "\u732b\u5a18": {"version": "LILY", "category": "\u30aa\u30ea\u30b8\u30ca\u30eb", "difficulties": [6, 10.6, 13.7, null]}, "\u30d5\u30ea\u30fc\u30d5\u30a9\u30fc\u30eb": {"version": "LILY", "category": "\u30aa\u30ea\u30b8\u30ca\u30eb", "difficulties": [4, 8.8, 12.7, 13.8, null]}, "Liberate": {"version": "LILY", "category": "TANO*C\uff08\u30aa\u30ea\u30b8\u30ca\u30eb\uff09", "difficulties": [4, 9.5, 13.1, null]}, "Animosity": {"version": "LILY", "category": "TANO*C\uff08\u30aa\u30ea\u30b8\u30ca\u30eb\uff09", "difficulties": [6, 10.9, 13.8, null]}, "Big Bang": {"version": "LILY", "category": "TANO*C\uff08\u30aa\u30ea\u30b8\u30ca\u30eb\uff09", "difficulties": [7, 11, 14.2, null]}, "\u516d\u5146\u5e74\u3068\u4e00\u591c\u7269\u8a9e": {"version": "LILY R", "category": "\u30dc\u30ab\u30ed", "difficulties": [4, 8.9, 12.5, null]}, "\u30b5\u30af\u30ea\u30d5\u30a1\u30a4\u30b9": {"version": "LILY R", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [3, 9.1, 12.2, null]}, "\u9032\u6357WARS feat\uff0e\u30d3\u30fc\u30c8\u307e\u308a\u304a": {"version": "LILY R", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [3, 7, 11.5, null]}, "sister's noise": {"version": "LILY R", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [2, 6, 10.1, null]}, "Weg": {"version": "LILY R", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [3, 8.6, 12.3, null]}, "Apocalypse": {"version": "LILY R", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [2, 7.6, 12.4, null]}, "Rainmaker": {"version": "LILY R", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [4, 9.9, 13.5, null]}, "You are the Miserable": {"version": "LILY R", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [3, 10, 13.9, null]}, "Stasis": {"version": "LILY R", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [3, 10.2, 13.6, null]}, "\u30db\u30a4\u30db\u30a4\u2606\u5e7b\u60f3\u30db\u30ed\u30a4\u30ba\u30e0": {"version": "LILY R", "category": "\u6771\u65b9\u30a2\u30ec\u30f3\u30b8", "difficulties": [3, 7.7, 12.7, null]}, "\u306a\u3060\u3081\u30b9\u304b\u3057 Negotiation": {"version": "LILY R", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [3, 7.7, 11.9, null]}, "\u975e\u5b9f\u5728\u7cfb\u5973\u5b50\u305f\u3061\u306f\u3069\u3046\u3059\u308a\u3083\u3044\u3044\u3067\u3059\u304b\uff1f": {"version": "LILY R", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [3, 8.5, 12.6, null]}, "Scream out!": {"version": "LILY R", "category": "\u6771\u65b9\u30a2\u30ec\u30f3\u30b8", "difficulties": [4, 8.1, 12.8, null]}, "MAGENTA POTION": {"version": "LILY R", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [4, 8.1, 12.6, null]}, "Megaton Killer": {"version": "LILY R", "category": "TANO*C", "difficulties": [5, 10, 13.6, null]}, "ATAMA WARUI": {"version": "LILY R", "category": "TANO*C", "difficulties": [5, 9.1, 12.9, 14.2, null]}, "LIN NE KRO NE feat. lasah": {"version": "LILY R", "category": "\u30aa\u30ea\u30b8\u30ca\u30eb", "difficulties": [4, 9, 13.7, null]}, "Lhaksha": {"version": "LILY R", "category": "\u30aa\u30ea\u30b8\u30ca\u30eb", "difficulties": [3, 9.6, 12.5, null]}, "SHAKE!": {"version": "LILY R", "category": "TANO*C\uff08\u30aa\u30ea\u30b8\u30ca\u30eb\uff09", "difficulties": [4, 9.5, 12.7, null]}, "DUAL BREAKER XX": {"version": "LILY R", "category": "TANO*C\uff08\u30aa\u30ea\u30b8\u30ca\u30eb\uff09", "difficulties": [6, 10.8, 13.8, null]}, "\u30c6\u30ec\u30ad\u30e3\u30b9\u30bf\u30fc\u30d3\u30fc\u30dc\u30fc\u30a4": {"version": "LILY R", "category": "\u30dc\u30ab\u30ed", "difficulties": [3, 8.9, 11.9, null]}, "\u30d0\u30ec\u30ea\u30fc\u30b3": {"version": "LILY R", "category": "\u30dc\u30ab\u30ed", "difficulties": [3, 8.2, 11.6, null]}, "\u30d5\u30a3\u30af\u30b5\u30fc": {"version": "LILY R", "category": "\u30dc\u30ab\u30ed", "difficulties": [3, 7.3, 12.9, null]}, "\u3060\u308c\u304b\u306e\u5fc3\u81d3\u306b\u306a\u308c\u305f\u306a\u3089": {"version": "LILY R", "category": "\u30dc\u30ab\u30ed", "difficulties": [3, 7.8, 12.1, null]}, "\u60a3\u90e8\u3067\u6b62\u307e\u3063\u3066\u3059\u3050\u6eb6\u3051\u308b \uff5e \u72c2\u6c17\u306e\u512a\u66c7\u83ef\u9662": {"version": "LILY R", "category": "\u6771\u65b9\u30a2\u30ec\u30f3\u30b8", "difficulties": [3, 9.8, 13.2, null]}, "\u7269\u51c4\u3044\u52e2\u3044\u3067\u3051\u30fc\u306d\u304c\u7269\u51c4\u3044\u3046\u305f": {"version": "LILY R", "category": "\u6771\u65b9\u30a2\u30ec\u30f3\u30b8", "difficulties": [4, 9.9, 12.2, null]}, "PUPA": {"version": "LILY R", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [4, 8.6, 13.7, null]}, "Destr0yer": {"version": "LILY R", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [5, 8.7, 13, null]}, "\u3082\u307a\u3082\u307a": {"version": "LILY R", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [4, 8.2, 12.7, null]}, "Popping Happiness!": {"version": "LILY R", "category": "TANO*C", "difficulties": [4, 8.5, 12.4, null]}, "Madwing": {"version": "LILY R", "category": "TANO*C", "difficulties": [5, 9.9, 12.8, null]}, "TRICKL4SH 220": {"version": "LILY R", "category": "TANO*C", "difficulties": [4, 10.9, 13.8, null]}, "\u30c1\u30eb\u30ce\u306f\u899a\u9192\u30b5\u30de\u30fc\u30c7\u30a4\u30ba\uff01": {"version": "LILY R", "category": "\u6771\u65b9\u30a2\u30ec\u30f3\u30b8", "difficulties": [3, 8.6, 12.3, null]}, "\u30a8\u30d4\u30af\u30ed\u30b9\u306e\u8679\u306f\u3082\u3046\u898b\u3048\u306a\u3044": {"version": "LILY R", "category": "\u6771\u65b9\u30a2\u30ec\u30f3\u30b8", "difficulties": [3, 8.4, 11.3, null]}, "ARROW RAIN feat.ayame": {"version": "LILY R", "category": "\u6771\u65b9\u30a2\u30ec\u30f3\u30b8", "difficulties": [5, 9.2, 12.6, null]}, "\u56db\u6b21\u5143\u8df3\u8e8d\u6a5f\u95a2": {"version": "LILY R", "category": "\u6771\u65b9\u30a2\u30ec\u30f3\u30b8", "difficulties": [2, 9.1, 12.7, null]}, "Destructive Little Sister": {"version": "LILY R", "category": "\u6771\u65b9\u30a2\u30ec\u30f3\u30b8", "difficulties": [5, 10.9, 13.9, null]}, "LOVE!HUG!GROOVY!!": {"version": "LILY R", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [4, 8.7, 12.4, 13.5, null]}, "Dig Delight!": {"version": "LILY R", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [3, 8.3, 11.4, null]}, "\u96fb\u4e71\u2605\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3": {"version": "LILY R", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [4, 7.8, 12.5, null]}, "Photon Melodies": {"version": "LILY R", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [3, 7.7, 11.5, null]}, "\u3050\u308b\u3050\u308bDJ TURN!!": {"version": "LILY R", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [4, 10.1, 12.8, null]}, "\u3084\u3051\u306b\u30a4\u30f3\u30b6\u30ec\u30a4\u30f3 feat. \u5c0f\u6797\u79c1": {"version": "LILY R", "category": "TANO*C", "difficulties": [3, 10.3, 13.1, null]}, "Traveller feat.moimoi": {"version": "LILY R", "category": "TANO*C", "difficulties": [2, 8.4, 12.4, null]}, "FLVSH OUT": {"version": "LILY R", "category": "TANO*C", "difficulties": [4, 9.8, 13.5, null]}, "BSCS": {"version": "LILY R", "category": "TANO*C", "difficulties": [4, 8.8, 13.3, null]}, "Night Club Junkie": {"version": "LILY R", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [2, 6.8, 12.5, null]}, "Cauliflower": {"version": "LILY R", "category": "\u30aa\u30ea\u30b8\u30ca\u30eb", "difficulties": [4, 8.7, 12.8, null]}, "Purple Skies": {"version": "LILY R", "category": "\u30aa\u30ea\u30b8\u30ca\u30eb", "difficulties": [3, 8.4, 12.4, 13.8, null]}, "\u30bd\u30ed\u30e2\u30f3\u30fb\u30ca\u30a4\u30c8": {"version": "LILY R", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [3, 7.8, 13.4, null]}, "c\u0153ur": {"version": "LILY R", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [3, 8.7, 12.7, null]}, "\u79c1\u306fNo 1\uff01": {"version": "LILY R", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [3, 8.4, 12.3, null]}, "EVE": {"version": "LILY R", "category": "TANO*C\uff08\u30aa\u30ea\u30b8\u30ca\u30eb\uff09", "difficulties": [4, 9.2, 13.1, null]}, "Lost Illusion": {"version": "LILY R", "category": "\u30aa\u30ea\u30b8\u30ca\u30eb", "difficulties": [4, 10.7, 12.7, null]}, "eden": {"version": "LILY R", "category": "TANO*C\uff08\u30aa\u30ea\u30b8\u30ca\u30eb\uff09", "difficulties": [4, 10.5, 13.3, 14.2, null]}, "Silentphobia": {"version": "LILY R", "category": "TANO*C\uff08\u30aa\u30ea\u30b8\u30ca\u30eb\uff09", "difficulties": [4, 10.3, 13.6, 14, null]}, "Eternal Ending": {"version": "LILY R", "category": "TANO*C", "difficulties": [5, 10.9, 13.4, null]}, "\u3055\u3093\u3055\u30fc\u3089\uff01": {"version": "LILY R", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [2, 7.9, 12.4, null]}, "\u30c8\u30ea\u30ce\u30b3\u30b7\u30c6\u30a3": {"version": "REVERSE", "category": "\u30dc\u30ab\u30ed", "difficulties": [3, 7.7, 12.2, null]}, "Fam\u2606Fam\u2606Time!": {"version": "REVERSE", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [3, 8.2, 11.9, null]}, "KING": {"version": "REVERSE", "category": "\u30dc\u30ab\u30ed", "difficulties": [2, 8, 11.6, null]}, "\u30c0\u30fc\u30ea\u30f3\u30c0\u30f3\u30b9": {"version": "REVERSE", "category": "\u30dc\u30ab\u30ed", "difficulties": [2, 8.7, 12.8, null]}, "\u30b5\u30de\u30fc\u30bf\u30a4\u30e0\u30ec\u30b3\u30fc\u30c9": {"version": "REVERSE", "category": "\u30dc\u30ab\u30ed", "difficulties": [3, 7.8, 11.9, null]}, "Machinery of Avoid": {"version": "REVERSE", "category": "TANO*C", "difficulties": [4, 8.5, 12.7, null]}, "Datamania (tpz Overheat Remix)": {"version": "REVERSE", "category": "TANO*C", "difficulties": [3, 7.8, 12.6, null]}, "Ouvert\u00fcre": {"version": "REVERSE", "category": "\u30aa\u30ea\u30b8\u30ca\u30eb", "difficulties": [3, 9.6, 13.3, 14.2, null]}, "Love Kills U": {"version": "REVERSE", "category": "\u30aa\u30ea\u30b8\u30ca\u30eb", "difficulties": [4, 8.4, 12.5, 13.8, null]}, "\u8d85MANJI\u30e9\u30c3\u30b7\u30e5": {"version": "REVERSE", "category": "TANO*C\uff08\u30aa\u30ea\u30b8\u30ca\u30eb\uff09", "difficulties": [5, 9.7, 13.7, null]}, "YOG": {"version": "REVERSE", "category": "\u30aa\u30ea\u30b8\u30ca\u30eb", "difficulties": [4, 9.7, 13.8, null]}, "Meta-Mysteria": {"version": "REVERSE", "category": "TANO*C\uff08\u30aa\u30ea\u30b8\u30ca\u30eb\uff09", "difficulties": [6, 11, 14.1, null]}, "Avant Raze": {"version": "REVERSE", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [3, 8, 12.6, null]}, "#1f1e33": {"version": "REVERSE", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [3, 10.9, 13.9, null]}, "Arcahv": {"version": "REVERSE", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [3, 10.5, 13.6, null]}, "\u6700\u5f37STRONGER": {"version": "REVERSE", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [5, 10.6, 14, null]}, "Sheriruth (Laur Remix)": {"version": "REVERSE", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [4, 10.3, 13.3, null]}, "Let you DIVE! (nitro rmx)": {"version": "REVERSE", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [4, 8.7, 12.7, null]}, "\u3046\u3063\u305b\u3047\u308f": {"version": "REVERSE", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [3, 9.6, 12.2, 13.2, null]}, "Kira\u2606Kira\u2606Night": {"version": "REVERSE", "category": "\u30aa\u30ea\u30b8\u30ca\u30eb", "difficulties": [5, 9.6, 12.9, null]}, "Crime Wave": {"version": "REVERSE", "category": "\u6771\u65b9\u30a2\u30ec\u30f3\u30b8", "difficulties": [3, 8.1, 12.7, null]}, "\u53e9\u30b1\u3000\u53e9\u30b1\u3000\u624b\u30a7\u53e9\u30b1": {"version": "REVERSE", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [2, 7.3, 12.3, 13.8, null]}, "\u900f\u660e\u58f0\u5f69": {"version": "REVERSE", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [3, 7.6, 11.8, null]}, "Fly to NEW WORLD": {"version": "REVERSE", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [3, 8.3, 12.2, null]}, "Break Through Myself feat. Risa Yuzuki": {"version": "REVERSE", "category": "TANO*C", "difficulties": [4, 10.2, 13.4, null]}, "Chobit Flavor": {"version": "REVERSE", "category": "TANO*C", "difficulties": [3, 9.2, 12.6, null]}, "D3LTA QOMPLEX": {"version": "REVERSE", "category": "TANO*C", "difficulties": [4, 9.9, 13.1, null]}, "\u30e1\u30cb\u30e1\u30cb\u30de\u30cb\u30de\u30cb": {"version": "REVERSE", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [3, 7.8, 12.3, null]}, "\u602a\u76d7F\u306e\u53f0\u672c\uff08\u30b7\u30ca\u30ea\u30aa\uff09\u301c\u6d88\u3048\u305f\u30c0\u30a4\u30e4\u306e\u8b0e\u301c": {"version": "REVERSE", "category": "\u30dc\u30ab\u30ed", "difficulties": [3, 9.1, 13.7, null]}, "\u304a\u306d\u304c\u3044\u30c0\u30fc\u30ea\u30f3": {"version": "REVERSE", "category": "\u30dc\u30ab\u30ed", "difficulties": [4, 9.3, 11.6, null]}, "\u3061\u304c\u3046!!!": {"version": "REVERSE", "category": "\u30dc\u30ab\u30ed", "difficulties": [4, 9.7, 12.4, null]}, "\u30ef\u30fc\u30eb\u30ba\u30a8\u30f3\u30c9\u30fb\u30c0\u30f3\u30b9\u30db\u30fc\u30eb": {"version": "REVERSE", "category": "\u30dc\u30ab\u30ed", "difficulties": [3, 8.6, 12.5, null]}, "\u7089\u5fc3\u878d\u89e3": {"version": "REVERSE", "category": "\u30dc\u30ab\u30ed", "difficulties": [2, 8.6, 12.2, null]}, "\u221e(2018Remake)": {"version": "REVERSE", "category": "\u30dc\u30ab\u30ed", "difficulties": [3, 8.7, 13.8, null]}, "Lights of Muse": {"version": "REVERSE", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [3, 9.9, 12, null]}, "\u7c89\u9aa8\u7815\u8eab\u30ab\u30b8\u30ce\u30a5": {"version": "REVERSE", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [3, 8.1, 13.6, null]}, "The 90's Decision": {"version": "REVERSE", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [4, 9.5, 13.5, null]}, "XODUS": {"version": "REVERSE", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [5, 11, 14.4, null]}, "Comet Coaster": {"version": "REVERSE", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [5, 9.9, 13.3, null]}, "\u604b\u306eMoonlight": {"version": "REVERSE", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [2, 8, 11.8, null]}, "\u82b1\u305f\u3061\u306b\u5e0c\u671b\u3092": {"version": "REVERSE", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [3, 9.8, 12.4, null]}, "NightTheater": {"version": "REVERSE", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [3, 10, 13, null]}, "\u30d2\u30c8\u30ac\u30bf": {"version": "REVERSE", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [3, 9.7, 12.6, null]}, "DANGEROOOOUS JUNGLE": {"version": "REVERSE", "category": "TANO*C\uff08\u30aa\u30ea\u30b8\u30ca\u30eb\uff09", "difficulties": [3, 10.6, 13.4, 14.3, null]}, "Dimension Hacker": {"version": "REVERSE", "category": "TANO*C\uff08\u30aa\u30ea\u30b8\u30ca\u30eb\uff09", "difficulties": [4, 10.8, 13.4, 14.3, null]}, "EPHMR": {"version": "REVERSE", "category": "TANO*C\uff08\u30aa\u30ea\u30b8\u30ca\u30eb\uff09", "difficulties": [4, 10.7, 13.2, 14.1, null]}, "\u30af\u30ea\u30e0\u30be\u30f3\u5e1d\u738b": {"version": "REVERSE", "category": "TANO*C\uff08\u30aa\u30ea\u30b8\u30ca\u30eb\uff09", "difficulties": [8, 11.7, 13.7, 14.5, null]}, "\u30e1\u30eb\u30c8": {"version": "REVERSE", "category": "\u30dc\u30ab\u30ed", "difficulties": [3, 8.7, 12.6, null]}, "\u5929\u6a02": {"version": "REVERSE", "category": "\u30dc\u30ab\u30ed", "difficulties": [3, 8.6, 12.7, null]}, "\u5409\u539f\u30e9\u30e1\u30f3\u30c8": {"version": "REVERSE", "category": "\u30dc\u30ab\u30ed", "difficulties": [3, 8.3, 12.4, null]}, "\u30a2\u30b2\u30ca\u30b2\u30f3": {"version": "REVERSE", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [4, 10.5, 13.5, null]}, "\u30d5\u30a1\u30e0\u30d5\u30a1\u30bf\u30fc\u30eb": {"version": "REVERSE", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [3, 8, 11.1, null]}, "cloud IX": {"version": "REVERSE", "category": "\u30aa\u30ea\u30b8\u30ca\u30eb", "difficulties": [4, 10.5, 13.6, null]}, "Grip & Break down !!": {"version": "REVERSE", "category": "\u6771\u65b9\u30a2\u30ec\u30f3\u30b8", "difficulties": [3, 8.5, 12, null]}, "CENSORED!!": {"version": "REVERSE", "category": "\u6771\u65b9\u30a2\u30ec\u30f3\u30b8", "difficulties": [4, 8.7, 13.4, null]}, "\u795e": {"version": "REVERSE", "category": "\u30aa\u30ea\u30b8\u30ca\u30eb", "difficulties": [6, 10.9, 13.7, 14.4, null]}, "Candy Star": {"version": "REVERSE", "category": "TANO*C", "difficulties": [3, 9.5, 13.2, null]}, "Onigami": {"version": "REVERSE", "category": "TANO*C", "difficulties": [4, 9, 13.2, null]}, "Invisible Frenzy (Camellia's '593: Insanely Fluctuated' Remix)": {"version": "REVERSE", "category": "TANO*C", "difficulties": [6, 11.2, 14.3, null]}, "GENOCIDER (Kobaryo's FTN-Remix)": {"version": "REVERSE", "category": "TANO*C", "difficulties": [6, 10.7, 14.3, null]}, "M\u00f6bius": {"version": "REVERSE", "category": "TANO*C\uff08\u30aa\u30ea\u30b8\u30ca\u30eb\uff09", "difficulties": [8, 10.8, 14.4, 15.1, null]}, "You & DIE": {"version": "REVERSE", "category": "TANO*C", "difficulties": [4, 10.7, 13.6, null]}, "Reach My Voice": {"version": "REVERSE", "category": "TANO*C", "difficulties": [3, 8.8, 12.8, null]}, "Ready Go feat. Yukacco": {"version": "REVERSE", "category": "TANO*C", "difficulties": [3, 8.6, 12.3, null]}, "Big Daddy": {"version": "REVERSE", "category": "TANO*C", "difficulties": [5, 8.7, 13.3, null]}, "N3XTAGE": {"version": "REVERSE", "category": "TANO*C", "difficulties": [4, 10.4, 12.7, 13.7, null]}, "NIGHTWAVE FRAGMENTS": {"version": "REVERSE", "category": "TANO*C", "difficulties": [4, 10.6, 13.7, null]}, "GAKKY": {"version": "REVERSE", "category": "TANO*C", "difficulties": [4, 10.7, 13.7, null]}, "SUPER EMULATOR": {"version": "REVERSE", "category": "TANO*C", "difficulties": [4, 11, 14.3, null]}, "Brand New World feat. Yukacco": {"version": "REVERSE", "category": "TANO*C", "difficulties": [3, 7.5, 11.8, null]}, "T+ VS SHARK": {"version": "REVERSE", "category": "TANO*C", "difficulties": [4, 10.9, 13.8, null]}, "\u3048\u304f\u3059\u3068\u308a\u30fc\u3080\u2191\u2191\u304a\u3093\u304c\u304f\u30b9\u30af\u30fc\u30eb feat. \u306a\u306a\u3072\u3089": {"version": "REVERSE", "category": "TANO*C", "difficulties": [4, 10.9, 13.8, null]}, "Avenue": {"version": "REVERSE", "category": "TANO*C", "difficulties": [3, 7.9, 12.9, null]}, "Middle": {"version": "REVERSE", "category": "TANO*C", "difficulties": [3, 7.6, 12.9, null]}, "Obtain An Unused Whale In The Abstract Sea": {"version": "REVERSE", "category": "TANO*C", "difficulties": [2, 6, 13.3, null]}, "EXTRA HARD": {"version": "REVERSE", "category": "TANO*C", "difficulties": [4, 11, 14.1, null]}, "Odin": {"version": "REVERSE", "category": "TANO*C", "difficulties": [4, 10.7, 13.6, null]}, "Viyella's Nightmare": {"version": "REVERSE", "category": "TANO*C", "difficulties": [4, 11, 13.8, null]}, "1BPM": {"version": "REVERSE", "category": "TANO*C", "difficulties": [4, 10.5, 13.7, null]}, "BPM=RT": {"version": "REVERSE", "category": "TANO*C", "difficulties": [5, 10.8, 13.9, null]}, "\u6700\u5148\u7aef\u574a\u5c06\u8ecd\uff13": {"version": "REVERSE", "category": "TANO*C", "difficulties": [3, 8.8, 13.8, null]}, "We are the Massive New Krew (2020Edit)": {"version": "REVERSE", "category": "TANO*C", "difficulties": [3, 8.6, 13, 14.1, null]}, "To the sky -wacca edit- feat.motoko": {"version": "REVERSE", "category": "TANO*C", "difficulties": [3, 8.9, 12.5, null]}, "Keep on Groovin' feat. mow*2": {"version": "REVERSE", "category": "TANO*C", "difficulties": [4, 9.9, 12.5, null]}, "Crush Out": {"version": "REVERSE", "category": "TANO*C", "difficulties": [4, 10.2, 12.9, null]}, "Everybody Say HARDCORE TANO*C": {"version": "REVERSE", "category": "TANO*C", "difficulties": [4, 9.1, 13.4, null]}, "Scramble TANO*C": {"version": "REVERSE", "category": "TANO*C", "difficulties": [3, 9.6, 12.8, null]}, "DIVE With \u00dc": {"version": "REVERSE", "category": "\u30aa\u30ea\u30b8\u30ca\u30eb", "difficulties": [3, 9.6, 13.3, 12, null]}, "\u307c\u304f\u306e\u5922\u3001\u30e1\u30c1\u30e3\u30af\u30bd\u7121\u9650\u6e67\u304d (\u306a\u306a\u3072\u3089 ver.)": {"version": "PLUS", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [4, 10.7, 13.7, null]}, "Blossom": {"version": "PLUS", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [4, 9, 13.2, null]}, "BULK UP (GAME EXCLUSIVE EDIT)": {"version": "PLUS", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [7, 10, 13.8, null]}, "\u6625\u3092\u544a\u3052\u308b": {"version": "PLUS", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [4, 7, 12.2, null]}, "\u541b\u306e\u305b\u3044": {"version": "PLUS", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [2, 7, 11.5, null]}, "Chakra": {"version": "PLUS", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [3, 9.3, 13.1, null]}, "\u00c5MARA(\u5927\u672a\u6765\u96fb\u8133)": {"version": "PLUS", "category": "\u30dc\u30ab\u30ed", "difficulties": [6, 9.7, 12.1, 13.9, null]}, "caesura.": {"version": "PLUS", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [7, 10.6, 13.5, 14.5, null]}, "\u30e9\u30b0\u30c8\u30ec\u30a4\u30f3": {"version": "PLUS", "category": "\u30dc\u30ab\u30ed", "difficulties": [1, 8, 11.8, 13.2, null]}, "Hainuwele": {"version": "PLUS", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [7, 10.7, 13.9, null]}, "Gestalt": {"version": "PLUS", "category": "TANO*C", "difficulties": [5, 8.4, 12.7, null]}, "Rebuff": {"version": "PLUS", "category": "TANO*C", "difficulties": [6, 10.7, 13.7, null]}, "Colors": {"version": "PLUS", "category": "\u6771\u65b9\u30a2\u30ec\u30f3\u30b8", "difficulties": [4, 8.7, 11, null]}, "Joe Fight": {"version": "PLUS", "category": "TANO*C", "difficulties": [5, 10.7, 14, null]}, "\u30e9\u30d3\u30c3\u30c8\u30db\u30fc\u30eb": {"version": "PLUS", "category": "\u30dc\u30ab\u30ed", "difficulties": [4, 9.4, 13.3, null]}, "Make Up Your World feat. \u30ad\u30e7\u30f3\u30b7\u30fc\u306eCi\u3061\u3083\u3093 & \u3089\u3063\u3077\u3073\u3068": {"version": "PLUS", "category": "TANO*C", "difficulties": [4, 9.9, 12.6, null]}, "Asteroid [feat. blaxervant]": {"version": "PLUS", "category": "TANO*C", "difficulties": [4, 8, 12.5, null]}, "B.B.K.K.B.K.K.": {"version": "PLUS", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [3, 9, 13.1, 0, null]}, "Caramelldansen (Speedycake Remix)": {"version": "PLUS", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [5, 9.7, 12.7, null]}, "Cheatreal": {"version": "PLUS", "category": "TANO*C", "difficulties": [5, 10.7, 13.6, null]}, "IMPULSE // WEAVER": {"version": "PLUS", "category": "\u30aa\u30ea\u30b8\u30ca\u30eb", "difficulties": [4, 8, 12.3, null]}, "INTERNET YAMERO": {"version": "PLUS", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [5, 9.9, 13.5, null]}, "\u5531": {"version": "PLUS", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [4, 8, 12.4, 13.4, null]}, "Blows Up Everything": {"version": "PLUS", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [4, 9, 13.7, null]}, "Confessions of a Rotten Girl ft. Hatsune Miku": {"version": "PLUS", "category": "\u30dc\u30ab\u30ed", "difficulties": [4, 9, 13.2, null]}, "Got It Bad": {"version": "PLUS", "category": "TANO*C", "difficulties": [7, 10.5, 14, null]}, "\u5f37\u98a8\u30aa\u30fc\u30eb\u30d0\u30c3\u30af (feat.\u6b4c\u611b\u30e6\u30ad)": {"version": "PLUS", "category": "\u30dc\u30ab\u30ed", "difficulties": [2, 7, 11.9, 13.1, null]}, "my flow": {"version": "PLUS", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [5, 8.7, 13.4, null]}, "N3V3R G3T OV3R": {"version": "PLUS", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [4, 10, 12.8, null]}, "POWER OF UNITY": {"version": "PLUS", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [5, 10, 13.8, null]}, "Straight into the lights": {"version": "PLUS", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [3, 9.7, 13.4, 14.2, null]}, "Happy Synthesizer": {"version": "PLUS", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [3, 7, 10.7, 12.3, null]}, "Latent Kingdom": {"version": "PLUS", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [8, 11, 13.3, 14.3, null]}, "\ufffd": {"version": "PLUS", "category": "\u30aa\u30ea\u30b8\u30ca\u30eb", "difficulties": [8, 11.6, 14.3, 15, null]}, "egoIST": {"version": "PLUS", "category": "\u30aa\u30ea\u30b8\u30ca\u30eb", "difficulties": [5, 9.8, 12.7, 14, null]}, "\u30df\u30e9\u30af\u30eb\u30dd\u30c3\u30d7\u2606\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc!!!!!": {"version": "PLUS", "category": "TANO*C", "difficulties": [5, 10, 13.7, null]}, "How To Make \u97f3\u30b2~\u66f2!": {"version": "PLUS", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [5, 9, 13.5, null]}, "Feels So Right feat. Renko": {"version": "PLUS", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [4, 8.8, 10.6, 13.1, null]}, "Distorted Fate": {"version": "PLUS", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [5, 9.8, 13.8, null]}, "Rrhar'il": {"version": "PLUS", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [5, 8.9, 13.5, 14.2, null]}, "Chronomia": {"version": "PLUS", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [6, 11, 13.7, null]}, "Get Your Wish": {"version": "PLUS", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [3, 6.8, 10, null]}, "M\u00e3os para cima! ~\u624b\u3092\u4e0a\u3052\u306a~": {"version": "PLUS", "category": "\u30dc\u30ab\u30ed", "difficulties": [3, 9, 12.8, null]}, "Mujinku-Vacuum Track#ADD8E6-": {"version": "PLUS", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [4, 10, 13.9, null]}, "Twisted Drop Party": {"version": "PLUS", "category": "TANO*C", "difficulties": [4, 10.1, 13.1, null]}, "\u60d1\u661f\u30eb\u30fc\u30d7": {"version": "PLUS", "category": "\u30dc\u30ab\u30ed", "difficulties": [4, 10.7, 12.7, null]}, "DAWNBREAKER": {"version": "PLUS", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [5, 9.7, 12.3, null]}, "ICEBURN": {"version": "PLUS", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [4, 9.8, 13.8, null]}, "Random Access Emotions": {"version": "PLUS", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [3, 10, 12.2, 13.5, null]}, "STARTLINER": {"version": "PLUS", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [4, 8.7, 11.6, null]}, "Stellar:Dream": {"version": "PLUS", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [6, 10, 13.8, 14.2, null]}, "Titania": {"version": "PLUS", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [5, 11, 13.7, 14.3, null]}, "Y.Y.Y.\u8a08\u753b!!!!": {"version": "PLUS", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [4, 8.8, 12.5, null]}, "WakeUP MakeUP FEVER!": {"version": "PLUS", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [3, 8, 12.6, null]}, "Last Kingdom": {"version": "PLUS", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [6, 10.5, 13.6, null]}, "Good bye, Merry-Go-Round.": {"version": "PLUS", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [5, 10.8, 12.8, 14, null]}, "Don't Fight The Music": {"version": "PLUS", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [6, 10.7, 13.4, 14.4, null]}, "Pop Sequence": {"version": "PLUS", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [1, 5.7, 11.7, null]}, "Crossing Delta": {"version": "PLUS", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [6, 10.8, 13.8, null]}, "Paved Garden": {"version": "PLUS", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [4, 8.3, 12.6, null]}, "Shadow Bang": {"version": "PLUS", "category": "TANO*C", "difficulties": [5, 10, 13.4, null]}, "Slapstick Parfait": {"version": "PLUS", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [5, 9.9, 13.5, null]}, "Kirakira Noel Story!!": {"version": "PLUS", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [4, 8.9, 12.9, null]}, "GIGA FLARE VIP": {"version": "PLUS", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [5, 10.8, 13.6, null]}, "SWAG!!": {"version": "PLUS", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [2, 9.7, 12.7, null]}, "\u30d3\u30d3\u30c7\u30d0 | BIBBIDIBA": {"version": "PLUS", "category": "\u30a2\u30cb\u30e1\uff0f\uff30\uff2f\uff30", "difficulties": [1, 6.5, 10.5, 13, null]}, "Maholova": {"version": "PLUS", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [4, 10.4, 13.3, null]}, "MVURBD": {"version": "PLUS", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [6, 10.7, 14, null]}, "Burned Out": {"version": "PLUS", "category": "TANO*C", "difficulties": [4, 9.8, 13.6, null]}, "MEGA TSKR": {"version": "PLUS", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [4, 10.8, 13.9, null]}, "The Rebellion of Phantom (feat. Valkyria)": {"version": "PLUS", "category": "TANO*C", "difficulties": [5, 9.8, 13.2, null]}, "sys_dei/cide": {"version": "PLUS", "category": "\u30aa\u30ea\u30b8\u30ca\u30eb", "difficulties": [7, 11.7, 14.3, 14.8, null]}, "B2GFM": {"version": "PLUS", "category": "TANO*C", "difficulties": [4, 8.9, 12.4, null]}, "BATTLE NO.1 (DJ Myosuke Remix)": {"version": "PLUS", "category": "TANO*C", "difficulties": [6, 11, 14.2, null]}, "Drive Thrust": {"version": "PLUS", "category": "\u30d0\u30e9\u30a8\u30c6\u30a3", "difficulties": [5, 10.9, 14, null]}, "LUMIS:ETHER* feat.M1shamo & \u25a1\u25a1\u25a1\u25a1\u25a1\u25a1": {"version": "PLUS", "category": "TANO*C", "difficulties": [6, 10.8, 13.3, null]}, "Super Rotation": {"version": "PLUS", "category": "TANO*C", "difficulties": [3, 8.9, 13.4, null]}, "Super Abnormia": {"version": "PLUS", "category": "\u30aa\u30ea\u30b8\u30ca\u30eb", "difficulties": [6, 11, 14, 14.6, null]}}
+{
+    "Rainbow Dream": {
+        "category": "Original",
+        "difficulties": [
+            3,
+            8.7,
+            11.4,
+            null
+        ]
+    },
+    "Knight Rider": {
+        "category": "Original",
+        "difficulties": [
+            6,
+            10.9,
+            13.3,
+            null
+        ]
+    },
+    "Poseidon": {
+        "category": "Original",
+        "difficulties": [
+            5,
+            9.9,
+            13.8,
+            null
+        ]
+    },
+    "PARALLEL★PRISM": {
+        "category": "Original",
+        "difficulties": [
+            3,
+            7.7,
+            10.8,
+            13.7
+        ]
+    },
+    "千本桜 | Senbonzakura": {
+        "category": "Vocaloid",
+        "difficulties": [
+            2,
+            7.9,
+            10.4,
+            null
+        ]
+    },
+    "シュガーソングとビターステップ | Sugar Song and Bitter Step": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            2,
+            7,
+            10.4,
+            null
+        ]
+    },
+    "ピースサイン | Peace Sign": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            2,
+            6.9,
+            9.8,
+            null
+        ]
+    },
+    "Singin'☆Shine！": {
+        "category": "2.5D Musical",
+        "difficulties": [
+            1,
+            5.3,
+            9.6,
+            null
+        ]
+    },
+    "MEMORiZE": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            3,
+            8.1,
+            10,
+            null
+        ]
+    },
+    "illanai-assorted": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            4,
+            8.9,
+            12.9,
+            null
+        ]
+    },
+    "ファティマ | Fatima": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            2,
+            6.8,
+            9.5,
+            null
+        ]
+    },
+    "Soldiers": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            4,
+            8.8,
+            11.9,
+            null
+        ]
+    },
+    "Fight for the CORE feat. Daisuke": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            4,
+            10.7,
+            12.6,
+            null
+        ]
+    },
+    "回レ！雪月花 | Maware! Setsugekka": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            2,
+            8,
+            11,
+            13.8
+        ]
+    },
+    "エイリアンエイリアン | Alien Alien": {
+        "category": "Vocaloid",
+        "difficulties": [
+            2,
+            6.7,
+            10.5,
+            null
+        ]
+    },
+    "砂の惑星 feat. 初音ミク | Sand Planet feat. Hatsune Miku": {
+        "category": "Vocaloid",
+        "difficulties": [
+            3,
+            8.7,
+            10.5,
+            null
+        ]
+    },
+    "マトリョシカ | Matryoshka": {
+        "category": "Vocaloid",
+        "difficulties": [
+            3,
+            8.2,
+            10.4,
+            13.8
+        ]
+    },
+    "Let you DIVE!": {
+        "category": "Original",
+        "difficulties": [
+            3,
+            9.7,
+            11.8,
+            13.4
+        ]
+    },
+    "かくしん的☆めたまるふぉ～ぜっ! | Kakushinteki☆Metamorphose!": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            1,
+            5.2,
+            9.5,
+            null
+        ]
+    },
+    "徒花ネクロマンシー | Adabana Necromancy": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            3,
+            6.9,
+            9.7,
+            null
+        ]
+    },
+    "POP TEAM EPIC": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            3,
+            7.8,
+            11.4,
+            null
+        ]
+    },
+    "ようこそジャパリパークへ | Welcome to Japari Park": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            2,
+            7.6,
+            10.7,
+            null
+        ]
+    },
+    "ロキ | ROKI": {
+        "category": "Vocaloid",
+        "difficulties": [
+            4,
+            9.4,
+            11.6,
+            null
+        ]
+    },
+    "ウマーベラス | Umarvelous": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            1,
+            6.8,
+            9.8,
+            null
+        ]
+    },
+    "ギミチョコ!! | Gimme Chocolate!!": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            4,
+            10.3,
+            12.9,
+            null
+        ]
+    },
+    "ウミユリ海底譚 | Umiyuri Kaiteitan": {
+        "category": "Vocaloid",
+        "difficulties": [
+            1,
+            7.1,
+            10.2,
+            12.9
+        ]
+    },
+    "Seyana. ～何でも言うことを聞いてくれるアカネチャン～ | Seyana.~nandemo iu koto wo kiite kureru Akane-chan~": {
+        "category": "Vocaloid",
+        "difficulties": [
+            2,
+            9.3,
+            11.7,
+            null
+        ]
+    },
+    "フラジール | Fragile": {
+        "category": "Vocaloid",
+        "difficulties": [
+            1,
+            7,
+            10.3,
+            null
+        ]
+    },
+    "EZ DO DANCE -K.O.P. REMIX-": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            1,
+            6,
+            9.1,
+            null
+        ]
+    },
+    "ルーンファクトリー４スペシャルより「この想いを乗せて」 | Rune Factory 4 Special 'Kono Omoi wo Nosete'": {
+        "category": "Variety",
+        "difficulties": [
+            1,
+            5.6,
+            9,
+            null
+        ]
+    },
+    "LEVATEiN feat. 野宮あゆみ | LEVATEiN feat. Ayumi Nomiya": {
+        "category": "Original",
+        "difficulties": [
+            4,
+            9.1,
+            12.5,
+            null
+        ]
+    },
+    "BIG HEAD BANGING": {
+        "category": "Original",
+        "difficulties": [
+            6,
+            11,
+            13.8,
+            null
+        ]
+    },
+    "Quon": {
+        "category": "Original",
+        "difficulties": [
+            5,
+            10.6,
+            12.8,
+            13.9
+        ]
+    },
+    "HELL FLAME": {
+        "category": "Original",
+        "difficulties": [
+            5,
+            10.4,
+            12.7,
+            13.9
+        ]
+    },
+    "Gate One": {
+        "category": "Original",
+        "difficulties": [
+            4,
+            9.5,
+            12,
+            null
+        ]
+    },
+    "Are You Ready": {
+        "category": "Original",
+        "difficulties": [
+            4,
+            10.1,
+            12.5,
+            null
+        ]
+    },
+    "Over My Hand": {
+        "category": "Original",
+        "difficulties": [
+            3,
+            9.2,
+            11.1,
+            null
+        ]
+    },
+    "Sunshine": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            4,
+            8.2,
+            11.3,
+            null
+        ]
+    },
+    "Try again": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            4,
+            8.8,
+            10.6,
+            null
+        ]
+    },
+    "Ever Free(Raw Edit)": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            3,
+            8.3,
+            10.1,
+            null
+        ]
+    },
+    "BOOM! BOOM!! BOOM!!!": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            4,
+            10.6,
+            12.3,
+            null
+        ]
+    },
+    "BLUE SKY feat. 野宮あゆみ | BLUE SKY feat. Ayumi Nomiya": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            3,
+            7.6,
+            10.4,
+            null
+        ]
+    },
+    "Sound Chimera": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            5,
+            10.8,
+            12.8,
+            13.9
+        ]
+    },
+    "Nameless Story": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            3,
+            7.5,
+            10.3,
+            null
+        ]
+    },
+    "TOMORROW": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            3,
+            8,
+            10.4,
+            null
+        ]
+    },
+    "五等分の気持ち | Gotoubun no Kimochi": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            2,
+            6.1,
+            9.9,
+            null
+        ]
+    },
+    "ゲームオーバー (feat. TORIENA) | Game Over (feat. TORIENA)": {
+        "category": "Variety",
+        "difficulties": [
+            2,
+            7.7,
+            11.7,
+            null
+        ]
+    },
+    "ファッとして桃源郷 | Fattoshite Tougenkyou": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            3,
+            9.3,
+            12,
+            null
+        ]
+    },
+    "乙女解剖 | Otome Kaibou": {
+        "category": "Vocaloid",
+        "difficulties": [
+            3,
+            7.3,
+            9.2,
+            null
+        ]
+    },
+    "スクランブル交際 | Scramble Kousai": {
+        "category": "Vocaloid",
+        "difficulties": [
+            3,
+            8.4,
+            11,
+            null
+        ]
+    },
+    "Shining Harmony": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            4,
+            9.6,
+            12.2,
+            null
+        ]
+    },
+    "Jingle": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            4,
+            9.7,
+            11.3,
+            null
+        ]
+    },
+    "GRiDGALAXY": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            4,
+            8.3,
+            11.5,
+            13.3
+        ]
+    },
+    "conflict": {
+        "category": "Variety",
+        "difficulties": [
+            5,
+            10.3,
+            13.4,
+            null
+        ]
+    },
+    "BATTLE NO.1": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            6,
+            10.5,
+            13.7,
+            14.3
+        ]
+    },
+    "こんにちは、ARuFaです。 | Hello, I am ARuFa.": {
+        "category": "Variety",
+        "difficulties": [
+            3,
+            7.5,
+            10.4,
+            null
+        ]
+    },
+    "ぼくの夢、メチャクソ無限湧き | My dreams were totally crushed!": {
+        "category": "Variety",
+        "difficulties": [
+            4,
+            9.6,
+            12.6,
+            13.8
+        ]
+    },
+    "EXCITE": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            1,
+            6.5,
+            10,
+            null
+        ]
+    },
+    "Exitium": {
+        "category": "Original",
+        "difficulties": [
+            6,
+            11,
+            14.2,
+            null
+        ]
+    },
+    "Blaze": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            3,
+            8.7,
+            11.7,
+            null
+        ]
+    },
+    "幸せになれる隠しコマンドがあるらしい | Shiawase ni Nareru Kakushi Command ga Arurashii": {
+        "category": "Vocaloid",
+        "difficulties": [
+            5,
+            10.5,
+            13.3,
+            0
+        ]
+    },
+    "ATARAX1A": {
+        "category": "Original",
+        "difficulties": [
+            4,
+            8.6,
+            12.5,
+            13.7
+        ]
+    },
+    "13 Donkeys": {
+        "category": "Original",
+        "difficulties": [
+            2,
+            8.4,
+            12.2,
+            null
+        ]
+    },
+    "ADAM": {
+        "category": "Original",
+        "difficulties": [
+            5,
+            10.2,
+            13.4,
+            null
+        ]
+    },
+    "HiGHER": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            3,
+            8.5,
+            12.2,
+            13.7
+        ]
+    },
+    "Source of Creation": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            3,
+            8.1,
+            11.3,
+            null
+        ]
+    },
+    "気まぐれメルシィ feat. 初音ミク | Kimagure Mercy feat. Hatsune Miku": {
+        "category": "Vocaloid",
+        "difficulties": [
+            3,
+            7.4,
+            10.5,
+            null
+        ]
+    },
+    "太陽系デスコ | Solar System Disco": {
+        "category": "Vocaloid",
+        "difficulties": [
+            2,
+            7.4,
+            10.7,
+            null
+        ]
+    },
+    "アカリがやってきたぞっ | Akari ga Yatte Kita zo": {
+        "category": "Vocaloid",
+        "difficulties": [
+            3,
+            8.5,
+            11.2,
+            null
+        ]
+    },
+    "Akareram": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            3,
+            8.5,
+            11.7,
+            null
+        ]
+    },
+    "Galaxy Friends": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            4,
+            8.9,
+            12.7,
+            13.9
+        ]
+    },
+    "Bad Apple!! feat. nomico": {
+        "category": "Touhou",
+        "difficulties": [
+            1,
+            5.5,
+            9.3,
+            12.5
+        ]
+    },
+    "ナイト・オブ・ナイツ | Night of Nights": {
+        "category": "Touhou",
+        "difficulties": [
+            3,
+            9,
+            12,
+            null
+        ]
+    },
+    "WARNING×WARNING×WARNING": {
+        "category": "Touhou",
+        "difficulties": [
+            3,
+            7.7,
+            11.5,
+            null
+        ]
+    },
+    "Raise Your Heart!!": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            3,
+            7.4,
+            10.6,
+            null
+        ]
+    },
+    "SHINY DAYS": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            1,
+            5.2,
+            9,
+            null
+        ]
+    },
+    "集結の華々 | Shuuketsu no Panapana": {
+        "category": "Variety",
+        "difficulties": [
+            2,
+            6.3,
+            10.9,
+            null
+        ]
+    },
+    "チルノのパーフェクトさんすう教室 | Cirno's Perfect Math Class": {
+        "category": "Touhou",
+        "difficulties": [
+            3,
+            9.2,
+            11.5,
+            null
+        ]
+    },
+    "taboo tears you up 2017": {
+        "category": "Touhou",
+        "difficulties": [
+            4,
+            9.8,
+            12.4,
+            null
+        ]
+    },
+    "待チ人ハ来ズ。 | Machibitohakozu.": {
+        "category": "Touhou",
+        "difficulties": [
+            2,
+            6.4,
+            10.5,
+            null
+        ]
+    },
+    "Chariot": {
+        "category": "Original",
+        "difficulties": [
+            3,
+            8.6,
+            12.4,
+            13.8
+        ]
+    },
+    "The Light": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            3,
+            7.8,
+            12.1,
+            null
+        ]
+    },
+    "AIAIAI (feat. 中田ヤスタカ) | AIAIAI (feat. Yasutaka Nakata)": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            1,
+            6.4,
+            9.4,
+            null
+        ]
+    },
+    "Hello, Morning": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            2,
+            7.1,
+            11.2,
+            null
+        ]
+    },
+    "ただ君に晴れ | Just a Sunny Day for You": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            3,
+            7,
+            9.6,
+            null
+        ]
+    },
+    "VOX Diamond": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            4,
+            7.9,
+            12.6,
+            null
+        ]
+    },
+    "残酷な天使のテーゼ | Cruel Angel's Thesis": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            1,
+            5.3,
+            9.3,
+            null
+        ]
+    },
+    "Pixel Galaxy": {
+        "category": "Variety",
+        "difficulties": [
+            2,
+            7.2,
+            10.8,
+            null
+        ]
+    },
+    "Utopia feat. shully": {
+        "category": "Original",
+        "difficulties": [
+            5,
+            9.4,
+            12.6,
+            13.7
+        ]
+    },
+    "You Only Live Once": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            1,
+            5.4,
+            9.1,
+            null
+        ]
+    },
+    "にめんせい☆ウラオモテライフ! | Nimensei☆Uraomote Life!": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            3,
+            7.8,
+            10.5,
+            null
+        ]
+    },
+    "劣等上等 | Rettou Joutou": {
+        "category": "Vocaloid",
+        "difficulties": [
+            3,
+            8,
+            11.9,
+            13.7
+        ]
+    },
+    "Stratoliner": {
+        "category": "Original",
+        "difficulties": [
+            4,
+            9.8,
+            12.8,
+            13.8
+        ]
+    },
+    "Honey Panic!": {
+        "category": "Variety",
+        "difficulties": [
+            3,
+            9.4,
+            12.1,
+            null
+        ]
+    },
+    "初音ミクの消失 | Hatsune Miku no Shoushitsu": {
+        "category": "Vocaloid",
+        "difficulties": [
+            5,
+            10.6,
+            13.8,
+            null
+        ]
+    },
+    "Invisible Frenzy": {
+        "category": "Original",
+        "difficulties": [
+            7,
+            11,
+            14.2,
+            null
+        ]
+    },
+    "FREEDOM DiVE↓": {
+        "category": "Variety",
+        "difficulties": [
+            6,
+            10.9,
+            13.9,
+            null
+        ]
+    },
+    "Jägermeister": {
+        "category": "Variety",
+        "difficulties": [
+            3,
+            8.8,
+            11.2,
+            null
+        ]
+    },
+    "『エキセントリック少年ボウイ』のテーマ | 'Eccentric Shounen Boy All Stars' Theme": {
+        "category": "Variety",
+        "difficulties": [
+            1,
+            5.7,
+            12.6,
+            null
+        ]
+    },
+    "What's this?": {
+        "category": "Variety",
+        "difficulties": [
+            3,
+            6.3,
+            10.2,
+            null
+        ]
+    },
+    "JINGLE DEATH": {
+        "category": "Original",
+        "difficulties": [
+            4,
+            10.4,
+            13.2,
+            null
+        ]
+    },
+    "Over the sweat and tears": {
+        "category": "2.5D Musical",
+        "difficulties": [
+            1,
+            5.6,
+            9.4,
+            null
+        ]
+    },
+    "jacaranda": {
+        "category": "Original",
+        "difficulties": [
+            4,
+            9.3,
+            12.7,
+            null
+        ]
+    },
+    "CHECKER FLAG": {
+        "category": "Original",
+        "difficulties": [
+            3,
+            7.2,
+            12.9,
+            null
+        ]
+    },
+    "BLVST BEVT": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            4,
+            10,
+            12.6,
+            null
+        ]
+    },
+    "only my railgun": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            3,
+            6.7,
+            9.5,
+            null
+        ]
+    },
+    "ゴーストルール | Ghost Rule": {
+        "category": "Vocaloid",
+        "difficulties": [
+            3,
+            9,
+            11.6,
+            null
+        ]
+    },
+    "Shiny Memory feat.Yukacco": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            3,
+            9.8,
+            12.5,
+            null
+        ]
+    },
+    "オドループ | oddloop": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            3,
+            7.9,
+            10.4,
+            null
+        ]
+    },
+    "燐廻 | Phosphorus": {
+        "category": "Variety",
+        "difficulties": [
+            2,
+            7.7,
+            11.1,
+            null
+        ]
+    },
+    "ロストワンの号哭 | Lost One's Weeping": {
+        "category": "Vocaloid",
+        "difficulties": [
+            4,
+            8.3,
+            12.2,
+            null
+        ]
+    },
+    "いーあるふぁんくらぶ | Ii Aru Fanclub": {
+        "category": "Vocaloid",
+        "difficulties": [
+            2,
+            6.5,
+            10,
+            null
+        ]
+    },
+    "悪戯センセーション | Mischievous Sensation": {
+        "category": "Touhou",
+        "difficulties": [
+            2,
+            8.6,
+            12.3,
+            null
+        ]
+    },
+    "Mami Mami Zone": {
+        "category": "Touhou",
+        "difficulties": [
+            4,
+            9.2,
+            11.4,
+            null
+        ]
+    },
+    "Demon's Rave": {
+        "category": "Original",
+        "difficulties": [
+            5,
+            10,
+            12.8,
+            null
+        ]
+    },
+    "Murasaki": {
+        "category": "Original",
+        "difficulties": [
+            3,
+            7.5,
+            12.4,
+            null
+        ]
+    },
+    "Mazy Metroplex": {
+        "category": "Original",
+        "difficulties": [
+            4,
+            10.8,
+            13.7,
+            null
+        ]
+    },
+    "ドラマツルギー | Dramaturgy": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            2,
+            7.4,
+            10.1,
+            null
+        ]
+    },
+    "ナイト・オブ・ナイツ (かめりあ’s“ワンス・アポン・ア・ナイト”Remix) | Night of Nights (Carmelia's 'Once Upon a Night' Remix)": {
+        "category": "Touhou",
+        "difficulties": [
+            5,
+            10.5,
+            13.1,
+            null
+        ]
+    },
+    "†DOOF†SENC†": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            6,
+            10.4,
+            13.6,
+            null
+        ]
+    },
+    "LOSE CONTROL": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            3,
+            8.1,
+            11.3,
+            null
+        ]
+    },
+    "ベースラインやってる？笑 | Can I Friend You on Bassbook? LOL": {
+        "category": "Variety",
+        "difficulties": [
+            4,
+            9.9,
+            12.2,
+            null
+        ]
+    },
+    "EU over Progress": {
+        "category": "Variety",
+        "difficulties": [
+            6,
+            10.7,
+            12.7,
+            null
+        ]
+    },
+    "シャルル | Charles": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            3,
+            7.1,
+            10.3,
+            null
+        ]
+    },
+    "Shiny Smily Story": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            3,
+            6.5,
+            10.4,
+            null
+        ]
+    },
+    "Dream☆Story": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            2,
+            7.5,
+            11.2,
+            null
+        ]
+    },
+    "without U": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            3,
+            7.2,
+            10.2,
+            null
+        ]
+    },
+    "新宝島 | Shin Takarajima": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            1,
+            6.3,
+            9.4,
+            null
+        ]
+    },
+    "U.S.A.": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            2,
+            7.1,
+            10.2,
+            null
+        ]
+    },
+    "セツナトリップ | Setsuna Trip": {
+        "category": "Vocaloid",
+        "difficulties": [
+            3,
+            9,
+            12.1,
+            null
+        ]
+    },
+    "カゲロウデイズ | Kagerou Daze": {
+        "category": "Vocaloid",
+        "difficulties": [
+            4,
+            9.5,
+            11.3,
+            null
+        ]
+    },
+    "天ノ弱 | Amanojaku": {
+        "category": "Vocaloid",
+        "difficulties": [
+            3,
+            7.3,
+            10.1,
+            null
+        ]
+    },
+    "ケロ⑨Destiny | Kero ⑨ Destiny": {
+        "category": "Touhou",
+        "difficulties": [
+            2,
+            6.2,
+            11.7,
+            null
+        ]
+    },
+    "LOVE EAST": {
+        "category": "Touhou",
+        "difficulties": [
+            3,
+            7.3,
+            11,
+            null
+        ]
+    },
+    "天狗の落とし文 feat. ytr | Tengu no Otoshibumi feat. ytr": {
+        "category": "Touhou",
+        "difficulties": [
+            3,
+            8.2,
+            12.1,
+            null
+        ]
+    },
+    "神寂 | Kamisabi": {
+        "category": "Touhou",
+        "difficulties": [
+            4,
+            10.8,
+            13.5,
+            null
+        ]
+    },
+    "風に乗せた願い | Kaze ni Noseta Omoi": {
+        "category": "Touhou",
+        "difficulties": [
+            3,
+            7.1,
+            10.3,
+            null
+        ]
+    },
+    "GASHATT": {
+        "category": "Original",
+        "difficulties": [
+            4,
+            10.1,
+            12.4,
+            null
+        ]
+    },
+    "Strange Bar": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            3,
+            10.2,
+            12.8,
+            null
+        ]
+    },
+    "輪廻転生 | Reincarnation": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            3,
+            9.2,
+            12.3,
+            null
+        ]
+    },
+    "ストライク・ザ・ブラッド | Strike the Blood": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            3,
+            8.7,
+            11.7,
+            null
+        ]
+    },
+    "Eyes on me feat. Such": {
+        "category": "Variety",
+        "difficulties": [
+            3,
+            7.7,
+            12.4,
+            null
+        ]
+    },
+    "GOODWORLD": {
+        "category": "Variety",
+        "difficulties": [
+            2,
+            9.1,
+            12.6,
+            null
+        ]
+    },
+    "Altale": {
+        "category": "Variety",
+        "difficulties": [
+            4,
+            9.3,
+            12.3,
+            null
+        ]
+    },
+    "君のStarlight Road | Kimi no Starlight Road": {
+        "category": "Variety",
+        "difficulties": [
+            3,
+            8.2,
+            10.3,
+            null
+        ]
+    },
+    "FUJIN Rumble": {
+        "category": "Variety",
+        "difficulties": [
+            5,
+            10.8,
+            13.6,
+            null
+        ]
+    },
+    "聖者の鼓動 | A Saint of Heartbeat": {
+        "category": "Variety",
+        "difficulties": [
+            2,
+            7.6,
+            12.4,
+            null
+        ]
+    },
+    "BUCHiGiRE Berserker": {
+        "category": "Variety",
+        "difficulties": [
+            4,
+            10.9,
+            13.9,
+            null
+        ]
+    },
+    "Brain Power": {
+        "category": "Variety",
+        "difficulties": [
+            4,
+            9.7,
+            13,
+            null
+        ]
+    },
+    "Ultra Red": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            3,
+            9.6,
+            12.8,
+            null
+        ]
+    },
+    "サイクルヒット | Cycle Hit": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            5,
+            10.5,
+            13.5,
+            null
+        ]
+    },
+    "ガンガン・ドンドン | GANGAN DONDON": {
+        "category": "2.5D Musical",
+        "difficulties": [
+            2,
+            6,
+            9.7,
+            null
+        ]
+    },
+    "スマイル・アンド・ティアズ | Smile and Tears": {
+        "category": "2.5D Musical",
+        "difficulties": [
+            2,
+            6.1,
+            9.5,
+            null
+        ]
+    },
+    "STILL HOT IN MY HEART": {
+        "category": "2.5D Musical",
+        "difficulties": [
+            3,
+            7.3,
+            10.3,
+            null
+        ]
+    },
+    "ぼなぺてぃーと♡S | Bon Appétit♡S": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            2,
+            7.7,
+            11.5,
+            null
+        ]
+    },
+    "デタラメなマイナスとプラスにおけるブレンド考 | Detarame na Minus to Plus ni Okeru Blend Ko": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            2,
+            5.7,
+            10,
+            null
+        ]
+    },
+    "リアル初音ミクの消失 | Real Hatsune Miku no Shoushitsu": {
+        "category": "Vocaloid",
+        "difficulties": [
+            6,
+            10.2,
+            13.7,
+            null
+        ]
+    },
+    "チュルリラ・チュルリラ・ダッダッダ！ | Chururira Chururira Daddadda!": {
+        "category": "Vocaloid",
+        "difficulties": [
+            4,
+            8.3,
+            12.4,
+            null
+        ]
+    },
+    "おばけのウケねらい | Ghosts Play to the Audience": {
+        "category": "Vocaloid",
+        "difficulties": [
+            3,
+            8,
+            11.7,
+            null
+        ]
+    },
+    "ベノム | Venom": {
+        "category": "Vocaloid",
+        "difficulties": [
+            3,
+            7.5,
+            12.1,
+            null
+        ]
+    },
+    "Metamorphose": {
+        "category": "Original",
+        "difficulties": [
+            4,
+            10.3,
+            12.7,
+            13.9
+        ]
+    },
+    "MAGiC4LG1RL M3GA S7R1KE!": {
+        "category": "Original",
+        "difficulties": [
+            4,
+            10,
+            13.1,
+            null
+        ]
+    },
+    "METEOR BURST": {
+        "category": "Original",
+        "difficulties": [
+            5,
+            10.9,
+            13.8,
+            null
+        ]
+    },
+    "XTREME": {
+        "category": "Original",
+        "difficulties": [
+            6,
+            11,
+            12.9,
+            14
+        ]
+    },
+    "天使光輪 | Angel Halo": {
+        "category": "Original",
+        "difficulties": [
+            7,
+            11,
+            13.2,
+            14.1
+        ]
+    },
+    "ツアー・ファイナル | Tour Final": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            3,
+            9.4,
+            12.3,
+            null
+        ]
+    },
+    "青空のラプソディ | Aozora no Rhapsody": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            2,
+            6.8,
+            9.3,
+            11
+        ]
+    },
+    "ダダダダ天使 | Dadadada Tenshi": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            3,
+            7.8,
+            12,
+            null
+        ]
+    },
+    "Bravely You": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            1,
+            6.5,
+            9.5,
+            null
+        ]
+    },
+    "ダンシング☆サムライ | Dancing☆Samurai": {
+        "category": "Variety",
+        "difficulties": [
+            3,
+            7.7,
+            10.5,
+            null
+        ]
+    },
+    "WHITE": {
+        "category": "Variety",
+        "difficulties": [
+            3,
+            8,
+            10.5,
+            null
+        ]
+    },
+    "HOT LIMIT": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            3,
+            7.9,
+            10,
+            null
+        ]
+    },
+    "ないものねだり | NAIMONONEDARI": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            2,
+            7.7,
+            11.1,
+            null
+        ]
+    },
+    "While Shining feat.Yukacco": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            3,
+            8.6,
+            12.3,
+            null
+        ]
+    },
+    "ブリキノダンス | Buriki no Dance": {
+        "category": "Vocaloid",
+        "difficulties": [
+            3,
+            7.9,
+            12.3,
+            null
+        ]
+    },
+    "LETHAL;WEAPON": {
+        "category": "Original",
+        "difficulties": [
+            3,
+            8,
+            12.9,
+            13.9
+        ]
+    },
+    "RAGE OF DUST": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            3,
+            8.4,
+            9.6,
+            null
+        ]
+    },
+    "秒針を噛む | Bite the Second Hand": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            2,
+            6.8,
+            11,
+            null
+        ]
+    },
+    "ガヴリールドロップキック | Gabriel Dropkick": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            3,
+            6.9,
+            11,
+            null
+        ]
+    },
+    "This game": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            2,
+            7.6,
+            10.7,
+            null
+        ]
+    },
+    "ポジティブ☆ダンスタイム | Positive☆Dance Time": {
+        "category": "Vocaloid",
+        "difficulties": [
+            3,
+            8.9,
+            11.6,
+            null
+        ]
+    },
+    "Gimme×Gimme feat. 初音ミク・鏡音リン | Gimme×Gimme feat. Hatsune Miku/Kagamine Rin": {
+        "category": "Vocaloid",
+        "difficulties": [
+            2,
+            8.1,
+            12,
+            null
+        ]
+    },
+    "39みゅーじっく！ | 39 Music!": {
+        "category": "Vocaloid",
+        "difficulties": [
+            2,
+            7.4,
+            10.9,
+            null
+        ]
+    },
+    "ゆけむり魂温泉 II | Yukemuri TamaOnSen II": {
+        "category": "Touhou",
+        "difficulties": [
+            3,
+            7.5,
+            12,
+            null
+        ]
+    },
+    "明星ロケット | Akeboshi Rocket": {
+        "category": "Touhou",
+        "difficulties": [
+            2,
+            7.5,
+            11.7,
+            null
+        ]
+    },
+    "Calamity Fortune": {
+        "category": "Touhou",
+        "difficulties": [
+            4,
+            10,
+            13.7,
+            null
+        ]
+    },
+    "インドア系ならトラックメイカー | Indoor Kei Nara Trackmaker": {
+        "category": "Variety",
+        "difficulties": [
+            2,
+            7.5,
+            12.9,
+            null
+        ]
+    },
+    "with U": {
+        "category": "Original",
+        "difficulties": [
+            3,
+            7.9,
+            11.8,
+            13.6
+        ]
+    },
+    "Tell Me": {
+        "category": "Original",
+        "difficulties": [
+            3,
+            7.9,
+            11.8,
+            13.9
+        ]
+    },
+    "THE MUZZLE FACING": {
+        "category": "Original",
+        "difficulties": [
+            4,
+            9.8,
+            13.8,
+            null
+        ]
+    },
+    "SUPER REACTOR": {
+        "category": "Original",
+        "difficulties": [
+            4,
+            8.2,
+            13,
+            null
+        ]
+    },
+    "ONOMATO Pairing!!!": {
+        "category": "Original",
+        "difficulties": [
+            2,
+            8.5,
+            12.4,
+            null
+        ]
+    },
+    "GENOCIDER": {
+        "category": "Original",
+        "difficulties": [
+            6,
+            11,
+            14.1,
+            null
+        ]
+    },
+    "ALiVE": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            3,
+            7.8,
+            11,
+            null
+        ]
+    },
+    "キラメキライダー☆ | Kirameki Rider ☆": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            2,
+            7,
+            11.5,
+            null
+        ]
+    },
+    "キラッとスタート (USAO Remix) | Kiratto Start (USAO Remix)": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            4,
+            8.2,
+            12.5,
+            null
+        ]
+    },
+    "Make it！ (DJ Genki Remix)": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            3,
+            7.8,
+            11.6,
+            null
+        ]
+    },
+    "ハート♥イロ♥トリドリ〜ム | Heart♥Iro♥Tridream": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            1,
+            6,
+            10.1,
+            null
+        ]
+    },
+    "Make it！": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            1,
+            5.1,
+            9.4,
+            null
+        ]
+    },
+    "キラッとスタート | Kiratto Start": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            2,
+            7.4,
+            10.2,
+            null
+        ]
+    },
+    "ニュー・ウェーブ | New Wave": {
+        "category": "2.5D Musical",
+        "difficulties": [
+            2,
+            6.1,
+            9.3,
+            null
+        ]
+    },
+    "アスノヨゾラ哨戒班 | Night Sky Patrol of Tomorrow": {
+        "category": "Vocaloid",
+        "difficulties": [
+            3,
+            7.6,
+            11.9,
+            null
+        ]
+    },
+    "ヒビカセ | Hibikase": {
+        "category": "Vocaloid",
+        "difficulties": [
+            3,
+            8.4,
+            12.3,
+            null
+        ]
+    },
+    "脳漿炸裂ガール | Noushou Sakuretsu Girl": {
+        "category": "Vocaloid",
+        "difficulties": [
+            5,
+            9.5,
+            13.5,
+            null
+        ]
+    },
+    "Grayed Out-Antifront-": {
+        "category": "Variety",
+        "difficulties": [
+            3,
+            9.6,
+            13.2,
+            null
+        ]
+    },
+    "ARTEMiS": {
+        "category": "Original",
+        "difficulties": [
+            4,
+            10.6,
+            13.9,
+            null
+        ]
+    },
+    "Poppin' Shower": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            3,
+            9.8,
+            12.5,
+            13.5
+        ]
+    },
+    "進捗どうですか？ | How is the Progress Going!?": {
+        "category": "Touhou",
+        "difficulties": [
+            3,
+            8.6,
+            12.5,
+            null
+        ]
+    },
+    "Sweet Requiem": {
+        "category": "Touhou",
+        "difficulties": [
+            3,
+            9.2,
+            12.7,
+            null
+        ]
+    },
+    "Help me, ERINNNNNN!!": {
+        "category": "Touhou",
+        "difficulties": [
+            3,
+            7.7,
+            11.6,
+            null
+        ]
+    },
+    "HELLO to DREAM": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            1,
+            6.5,
+            9.7,
+            null
+        ]
+    },
+    "over and over": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            2,
+            7.5,
+            10.4,
+            null
+        ]
+    },
+    "トロピカッ☆バケーション | Tropica☆Vacation": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            2,
+            7.5,
+            10.7,
+            null
+        ]
+    },
+    "お願いマッスル | Onegai Muscle": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            1,
+            7.7,
+            10.7,
+            null
+        ]
+    },
+    "マッチョアネーム？ | Macho Man?": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            2,
+            6.6,
+            12.7,
+            null
+        ]
+    },
+    "ぺこみこ大戦争！！ | Pekomiko Great War!!": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            4,
+            8.4,
+            11.2,
+            13.2
+        ]
+    },
+    "Say!ファンファーレ! | Say! Fanfare!": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            3,
+            8.6,
+            12.5,
+            null
+        ]
+    },
+    "夢見る空へ | Yumemiru Sora He": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            2,
+            7.7,
+            11.3,
+            null
+        ]
+    },
+    "NEXT COLOR PLANET": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            2,
+            7.5,
+            12.6,
+            null
+        ]
+    },
+    "パニックポップ☆フェスティバル!!! | PanicPop☆Festival!!!": {
+        "category": "Original",
+        "difficulties": [
+            5,
+            10,
+            13.3,
+            null
+        ]
+    },
+    "Stasis feat.motoko -WACCA EDiT-": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            4,
+            7.9,
+            12.7,
+            null
+        ]
+    },
+    "RAV#GIRL": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            3,
+            7.8,
+            12.6,
+            null
+        ]
+    },
+    "KALACAKLA": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            4,
+            8,
+            12.7,
+            null
+        ]
+    },
+    "Good Night, Bad Luck.": {
+        "category": "Variety",
+        "difficulties": [
+            5,
+            10.7,
+            13.7,
+            null
+        ]
+    },
+    "Got more raves?": {
+        "category": "Variety",
+        "difficulties": [
+            6,
+            10.9,
+            13.5,
+            null
+        ]
+    },
+    "グルーヴ・ザ・ハート | Groove The Heart": {
+        "category": "Variety",
+        "difficulties": [
+            4,
+            8.5,
+            12.5,
+            null
+        ]
+    },
+    "QiXiN MAdN3ss 2153": {
+        "category": "Original",
+        "difficulties": [
+            6,
+            11,
+            13.9,
+            null
+        ]
+    },
+    "恋メタル | Koi Metal": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            3,
+            8.8,
+            12.7,
+            null
+        ]
+    },
+    "Fish Fight!": {
+        "category": "Variety",
+        "difficulties": [
+            4,
+            9,
+            11.6,
+            null
+        ]
+    },
+    "THERAPY": {
+        "category": "Variety",
+        "difficulties": [
+            4,
+            9.1,
+            12.7,
+            null
+        ]
+    },
+    "はげしこの夜 -Psylent Crazy Night- | Hageshi Kono Yoru -Psylent Crazy Night-": {
+        "category": "Original",
+        "difficulties": [
+            4,
+            8.8,
+            13.7,
+            null
+        ]
+    },
+    "シャカリキ・ファイト・ブンブン | Shakariki Fight Boom-Boom": {
+        "category": "2.5D Musical",
+        "difficulties": [
+            3,
+            6.7,
+            11.7,
+            null
+        ]
+    },
+    "進捗どうですか！ | How is the Progress Going!?": {
+        "category": "Vocaloid",
+        "difficulties": [
+            3,
+            7.3,
+            12.8,
+            null
+        ]
+    },
+    "ワールドイズマイン | World is Mine": {
+        "category": "Vocaloid",
+        "difficulties": [
+            3,
+            8.3,
+            11.6,
+            null
+        ]
+    },
+    "ぼくらの16bit戦争 | Our 16bit Wars": {
+        "category": "Vocaloid",
+        "difficulties": [
+            4,
+            9.1,
+            13.4,
+            null
+        ]
+    },
+    "隔絶≡タナトス | Kakuzetsu ≡ Thanatos": {
+        "category": "Vocaloid",
+        "difficulties": [
+            4,
+            8.5,
+            13.5,
+            null
+        ]
+    },
+    "From Zero feat. 利香 | From Zero feat. Rika": {
+        "category": "Variety",
+        "difficulties": [
+            3,
+            7.7,
+            11.8,
+            null
+        ]
+    },
+    "PRESS START!": {
+        "category": "Variety",
+        "difficulties": [
+            4,
+            8.7,
+            12.7,
+            null
+        ]
+    },
+    "TWISTSTEP": {
+        "category": "Variety",
+        "difficulties": [
+            3,
+            8.8,
+            12.7,
+            null
+        ]
+    },
+    "Future Cαndy": {
+        "category": "Variety",
+        "difficulties": [
+            3,
+            9.1,
+            12.7,
+            null
+        ]
+    },
+    "猫娘 | Neko Musume": {
+        "category": "Original",
+        "difficulties": [
+            6,
+            10.6,
+            13.7,
+            null
+        ]
+    },
+    "フリーフォール | Freefall": {
+        "category": "Original",
+        "difficulties": [
+            4,
+            8.8,
+            12.7,
+            13.8
+        ]
+    },
+    "Liberate": {
+        "category": "Original",
+        "difficulties": [
+            4,
+            9.5,
+            13.1,
+            null
+        ]
+    },
+    "Animosity": {
+        "category": "Original",
+        "difficulties": [
+            6,
+            10.9,
+            13.8,
+            null
+        ]
+    },
+    "Big Bang": {
+        "category": "Original",
+        "difficulties": [
+            7,
+            11,
+            14.2,
+            null
+        ]
+    },
+    "六兆年と一夜物語 | Rokuchonen to Ichiya Monogatari": {
+        "category": "Vocaloid",
+        "difficulties": [
+            4,
+            8.9,
+            12.5,
+            null
+        ]
+    },
+    "サクリファイス | Sacrifice": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            3,
+            9.1,
+            12.2,
+            null
+        ]
+    },
+    "進捗WARS feat．ビートまりお | Shinchoku WARS feat. Beat Mario": {
+        "category": "Variety",
+        "difficulties": [
+            3,
+            7,
+            11.5,
+            null
+        ]
+    },
+    "sister's noise": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            2,
+            6,
+            10.1,
+            null
+        ]
+    },
+    "Weg": {
+        "category": "Variety",
+        "difficulties": [
+            3,
+            8.6,
+            12.3,
+            null
+        ]
+    },
+    "Apocalypse": {
+        "category": "Variety",
+        "difficulties": [
+            2,
+            7.6,
+            12.4,
+            null
+        ]
+    },
+    "Rainmaker": {
+        "category": "Variety",
+        "difficulties": [
+            4,
+            9.9,
+            13.5,
+            null
+        ]
+    },
+    "You are the Miserable": {
+        "category": "Variety",
+        "difficulties": [
+            3,
+            10,
+            13.9,
+            null
+        ]
+    },
+    "Stasis": {
+        "category": "Variety",
+        "difficulties": [
+            3,
+            10.2,
+            13.6,
+            null
+        ]
+    },
+    "ホイホイ☆幻想ホロイズム | HOI-HOI☆Illusory Holoism": {
+        "category": "Touhou",
+        "difficulties": [
+            3,
+            7.7,
+            12.7,
+            null
+        ]
+    },
+    "なだめスかし Negotiation": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            3,
+            7.7,
+            11.9,
+            null
+        ]
+    },
+    "非実在系女子たちはどうすりゃいいですか？ | What Should I Do for Non-Existent Girls?": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            3,
+            8.5,
+            12.6,
+            null
+        ]
+    },
+    "Scream out!": {
+        "category": "Touhou",
+        "difficulties": [
+            4,
+            8.1,
+            12.8,
+            null
+        ]
+    },
+    "MAGENTA POTION": {
+        "category": "Variety",
+        "difficulties": [
+            4,
+            8.1,
+            12.6,
+            null
+        ]
+    },
+    "Megaton Killer": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            5,
+            10,
+            13.6,
+            null
+        ]
+    },
+    "ATAMA WARUI": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            5,
+            9.1,
+            12.9,
+            14.2
+        ]
+    },
+    "LIN NE KRO NE feat. lasah": {
+        "category": "Original",
+        "difficulties": [
+            4,
+            9,
+            13.7,
+            null
+        ]
+    },
+    "Lhaksha": {
+        "category": "Original",
+        "difficulties": [
+            3,
+            9.6,
+            12.5,
+            null
+        ]
+    },
+    "SHAKE!": {
+        "category": "Original",
+        "difficulties": [
+            4,
+            9.5,
+            12.7,
+            null
+        ]
+    },
+    "DUAL BREAKER XX": {
+        "category": "Original",
+        "difficulties": [
+            6,
+            10.8,
+            13.8,
+            null
+        ]
+    },
+    "テレキャスタービーボーイ | Telecaster B-Boy": {
+        "category": "Vocaloid",
+        "difficulties": [
+            3,
+            8.9,
+            11.9,
+            null
+        ]
+    },
+    "バレリーコ | Barerii Ko": {
+        "category": "Vocaloid",
+        "difficulties": [
+            3,
+            8.2,
+            11.6,
+            null
+        ]
+    },
+    "フィクサー | Fixer": {
+        "category": "Vocaloid",
+        "difficulties": [
+            3,
+            7.3,
+            12.9,
+            null
+        ]
+    },
+    "だれかの心臓になれたなら | Darekano Shinzou ni Naretanara": {
+        "category": "Vocaloid",
+        "difficulties": [
+            3,
+            7.8,
+            12.1,
+            null
+        ]
+    },
+    "患部で止まってすぐ溶ける ～ 狂気の優曇華院 | Kanbu de Tomatte Sugu Tokeru - Kyouki no Udongein": {
+        "category": "Touhou",
+        "difficulties": [
+            3,
+            9.8,
+            13.2,
+            null
+        ]
+    },
+    "物凄い勢いでけーねが物凄いうた | Monosugoi Ikioi de Keine ga Monosugoi Uta": {
+        "category": "Touhou",
+        "difficulties": [
+            4,
+            9.9,
+            12.2,
+            null
+        ]
+    },
+    "PUPA": {
+        "category": "Variety",
+        "difficulties": [
+            4,
+            8.6,
+            13.7,
+            null
+        ]
+    },
+    "Destr0yer": {
+        "category": "Variety",
+        "difficulties": [
+            5,
+            8.7,
+            13,
+            null
+        ]
+    },
+    "もぺもぺ | Mope Mope": {
+        "category": "Variety",
+        "difficulties": [
+            4,
+            8.2,
+            12.7,
+            null
+        ]
+    },
+    "Popping Happiness!": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            4,
+            8.5,
+            12.4,
+            null
+        ]
+    },
+    "Madwing": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            5,
+            9.9,
+            12.8,
+            null
+        ]
+    },
+    "TRICKL4SH 220": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            4,
+            10.9,
+            13.8,
+            null
+        ]
+    },
+    "チルノは覚醒サマーデイズ！ | Cirno Awakens to Summer Days!": {
+        "category": "Touhou",
+        "difficulties": [
+            3,
+            8.6,
+            12.3,
+            null
+        ]
+    },
+    "エピクロスの虹はもう見えない | Epicross no Niji wa mo Mienai": {
+        "category": "Touhou",
+        "difficulties": [
+            3,
+            8.4,
+            11.3,
+            null
+        ]
+    },
+    "ARROW RAIN feat.ayame": {
+        "category": "Touhou",
+        "difficulties": [
+            5,
+            9.2,
+            12.6,
+            null
+        ]
+    },
+    "四次元跳躍機関 | Yon Jigen Choyaku Kikan [4D Jump Engine]": {
+        "category": "Touhou",
+        "difficulties": [
+            2,
+            9.1,
+            12.7,
+            null
+        ]
+    },
+    "Destructive Little Sister": {
+        "category": "Touhou",
+        "difficulties": [
+            5,
+            10.9,
+            13.9,
+            null
+        ]
+    },
+    "LOVE!HUG!GROOVY!!": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            4,
+            8.7,
+            12.4,
+            13.5
+        ]
+    },
+    "Dig Delight!": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            3,
+            8.3,
+            11.4,
+            null
+        ]
+    },
+    "電乱★カウントダウン | Electric Chaos★Countdown": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            4,
+            7.8,
+            12.5,
+            null
+        ]
+    },
+    "Photon Melodies": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            3,
+            7.7,
+            11.5,
+            null
+        ]
+    },
+    "ぐるぐるDJ TURN!! | Guru Guru DJ TURN!!": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            4,
+            10.1,
+            12.8,
+            null
+        ]
+    },
+    "やけにインザレイン feat. 小林私 | YAKENI in the Rain feat. Kobayashi Watashi": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            3,
+            10.3,
+            13.1,
+            null
+        ]
+    },
+    "Traveller feat.moimoi": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            2,
+            8.4,
+            12.4,
+            null
+        ]
+    },
+    "FLVSH OUT": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            4,
+            9.8,
+            13.5,
+            null
+        ]
+    },
+    "BSCS": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            4,
+            8.8,
+            13.3,
+            null
+        ]
+    },
+    "Night Club Junkie": {
+        "category": "Variety",
+        "difficulties": [
+            2,
+            6.8,
+            12.5,
+            null
+        ]
+    },
+    "Cauliflower": {
+        "category": "Original",
+        "difficulties": [
+            4,
+            8.7,
+            12.8,
+            null
+        ]
+    },
+    "Purple Skies": {
+        "category": "Original",
+        "difficulties": [
+            3,
+            8.4,
+            12.4,
+            13.8
+        ]
+    },
+    "ソロモン・ナイト | Solomon Night": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            3,
+            7.8,
+            13.4,
+            null
+        ]
+    },
+    "cœur": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            3,
+            8.7,
+            12.7,
+            null
+        ]
+    },
+    "私はNo 1！ | I am No 1": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            3,
+            8.4,
+            12.3,
+            null
+        ]
+    },
+    "EVE": {
+        "category": "Original",
+        "difficulties": [
+            4,
+            9.2,
+            13.1,
+            null
+        ]
+    },
+    "Lost Illusion": {
+        "category": "Original",
+        "difficulties": [
+            4,
+            10.7,
+            12.7,
+            null
+        ]
+    },
+    "eden": {
+        "category": "Original",
+        "difficulties": [
+            4,
+            10.5,
+            13.3,
+            14.2
+        ]
+    },
+    "Silentphobia": {
+        "category": "Original",
+        "difficulties": [
+            4,
+            10.3,
+            13.6,
+            14
+        ]
+    },
+    "Eternal Ending": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            5,
+            10.9,
+            13.4,
+            null
+        ]
+    },
+    "さんさーら！ | Samsara!": {
+        "category": "Variety",
+        "difficulties": [
+            2,
+            7.9,
+            12.4,
+            null
+        ]
+    },
+    "トリノコシティ | Torinoko City": {
+        "category": "Vocaloid",
+        "difficulties": [
+            3,
+            7.7,
+            12.2,
+            null
+        ]
+    },
+    "Fam☆Fam☆Time!": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            3,
+            8.2,
+            11.9,
+            null
+        ]
+    },
+    "KING": {
+        "category": "Vocaloid",
+        "difficulties": [
+            2,
+            8,
+            11.6,
+            null
+        ]
+    },
+    "ダーリンダンス | Darling Dance": {
+        "category": "Vocaloid",
+        "difficulties": [
+            2,
+            8.7,
+            12.8,
+            null
+        ]
+    },
+    "サマータイムレコード | Summertime Record": {
+        "category": "Vocaloid",
+        "difficulties": [
+            3,
+            7.8,
+            11.9,
+            null
+        ]
+    },
+    "Machinery of Avoid": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            4,
+            8.5,
+            12.7,
+            null
+        ]
+    },
+    "Datamania (tpz Overheat Remix)": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            3,
+            7.8,
+            12.6,
+            null
+        ]
+    },
+    "Ouvertüre": {
+        "category": "Original",
+        "difficulties": [
+            3,
+            9.6,
+            13.3,
+            14.2
+        ]
+    },
+    "Love Kills U": {
+        "category": "Original",
+        "difficulties": [
+            4,
+            8.4,
+            12.5,
+            13.8
+        ]
+    },
+    "超MANJIラッシュ | Super Manji Rush": {
+        "category": "Original",
+        "difficulties": [
+            5,
+            9.7,
+            13.7,
+            null
+        ]
+    },
+    "YOG": {
+        "category": "Original",
+        "difficulties": [
+            4,
+            9.7,
+            13.8,
+            null
+        ]
+    },
+    "Meta-Mysteria": {
+        "category": "Original",
+        "difficulties": [
+            6,
+            11,
+            14.1,
+            null
+        ]
+    },
+    "Avant Raze": {
+        "category": "Variety",
+        "difficulties": [
+            3,
+            8,
+            12.6,
+            null
+        ]
+    },
+    "#1f1e33": {
+        "category": "Variety",
+        "difficulties": [
+            3,
+            10.9,
+            13.9,
+            null
+        ]
+    },
+    "Arcahv": {
+        "category": "Variety",
+        "difficulties": [
+            3,
+            10.5,
+            13.6,
+            null
+        ]
+    },
+    "最強STRONGER | SAIKYOSTRONGER": {
+        "category": "Variety",
+        "difficulties": [
+            5,
+            10.6,
+            14,
+            null
+        ]
+    },
+    "Sheriruth (Laur Remix)": {
+        "category": "Variety",
+        "difficulties": [
+            4,
+            10.3,
+            13.3,
+            null
+        ]
+    },
+    "Let you DIVE! (nitro rmx)": {
+        "category": "Variety",
+        "difficulties": [
+            4,
+            8.7,
+            12.7,
+            null
+        ]
+    },
+    "うっせぇわ | Usseewa": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            3,
+            9.6,
+            12.2,
+            13.2
+        ]
+    },
+    "Kira☆Kira☆Night": {
+        "category": "Original",
+        "difficulties": [
+            5,
+            9.6,
+            12.9,
+            null
+        ]
+    },
+    "Crime Wave": {
+        "category": "Touhou",
+        "difficulties": [
+            3,
+            8.1,
+            12.7,
+            null
+        ]
+    },
+    "叩ケ　叩ケ　手ェ叩ケ | Clap, Clap, Clap Your Hands (Tatake Tatake Tetatake)": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            2,
+            7.3,
+            12.3,
+            13.8
+        ]
+    },
+    "透明声彩 | Toumei Seisai": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            3,
+            7.6,
+            11.8,
+            null
+        ]
+    },
+    "Fly to NEW WORLD": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            3,
+            8.3,
+            12.2,
+            null
+        ]
+    },
+    "Break Through Myself feat. Risa Yuzuki": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            4,
+            10.2,
+            13.4,
+            null
+        ]
+    },
+    "Chobit Flavor": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            3,
+            9.2,
+            12.6,
+            null
+        ]
+    },
+    "D3LTA QOMPLEX": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            4,
+            9.9,
+            13.1,
+            null
+        ]
+    },
+    "メニメニマニマニ | Menimeni Manimani": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            3,
+            7.8,
+            12.3,
+            null
+        ]
+    },
+    "怪盗Fの台本（シナリオ）〜消えたダイヤの謎〜 | Phantom Thief F's Scenario ~Mystery of the Missing Diamond~": {
+        "category": "Vocaloid",
+        "difficulties": [
+            3,
+            9.1,
+            13.7,
+            null
+        ]
+    },
+    "おねがいダーリン | Onegai Darling": {
+        "category": "Vocaloid",
+        "difficulties": [
+            4,
+            9.3,
+            11.6,
+            null
+        ]
+    },
+    "ちがう!!! | We Are Different!!! (or Same)": {
+        "category": "Vocaloid",
+        "difficulties": [
+            4,
+            9.7,
+            12.4,
+            null
+        ]
+    },
+    "ワールズエンド・ダンスホール | World's End Dancehall": {
+        "category": "Vocaloid",
+        "difficulties": [
+            3,
+            8.6,
+            12.5,
+            null
+        ]
+    },
+    "炉心融解 | Meltdown": {
+        "category": "Vocaloid",
+        "difficulties": [
+            2,
+            8.6,
+            12.2,
+            null
+        ]
+    },
+    "∞(2018Remake)": {
+        "category": "Vocaloid",
+        "difficulties": [
+            3,
+            8.7,
+            13.8,
+            null
+        ]
+    },
+    "Lights of Muse": {
+        "category": "Variety",
+        "difficulties": [
+            3,
+            9.9,
+            12,
+            null
+        ]
+    },
+    "粉骨砕身カジノゥ | Funkotsu Saishin Casino": {
+        "category": "Variety",
+        "difficulties": [
+            3,
+            8.1,
+            13.6,
+            null
+        ]
+    },
+    "The 90's Decision": {
+        "category": "Variety",
+        "difficulties": [
+            4,
+            9.5,
+            13.5,
+            null
+        ]
+    },
+    "XODUS": {
+        "category": "Variety",
+        "difficulties": [
+            5,
+            11,
+            14.4,
+            null
+        ]
+    },
+    "Comet Coaster": {
+        "category": "Variety",
+        "difficulties": [
+            5,
+            9.9,
+            13.3,
+            null
+        ]
+    },
+    "恋のMoonlight | Koi no Moonlight": {
+        "category": "Variety",
+        "difficulties": [
+            2,
+            8,
+            11.8,
+            null
+        ]
+    },
+    "花たちに希望を | Hanatachi ni Kibou o": {
+        "category": "Variety",
+        "difficulties": [
+            3,
+            9.8,
+            12.4,
+            null
+        ]
+    },
+    "NightTheater": {
+        "category": "Variety",
+        "difficulties": [
+            3,
+            10,
+            13,
+            null
+        ]
+    },
+    "ヒトガタ | HITOGATA": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            3,
+            9.7,
+            12.6,
+            null
+        ]
+    },
+    "DANGEROOOOUS JUNGLE": {
+        "category": "Original",
+        "difficulties": [
+            3,
+            10.6,
+            13.4,
+            14.3
+        ]
+    },
+    "Dimension Hacker": {
+        "category": "Original",
+        "difficulties": [
+            4,
+            10.8,
+            13.4,
+            14.3
+        ]
+    },
+    "EPHMR": {
+        "category": "Original",
+        "difficulties": [
+            4,
+            10.7,
+            13.2,
+            14.1
+        ]
+    },
+    "クリムゾン帝王 | Crimson Emperor": {
+        "category": "Original",
+        "difficulties": [
+            8,
+            11.7,
+            13.7,
+            14.5
+        ]
+    },
+    "メルト | Melt": {
+        "category": "Vocaloid",
+        "difficulties": [
+            3,
+            8.7,
+            12.6,
+            null
+        ]
+    },
+    "天樂 | Tengaku": {
+        "category": "Vocaloid",
+        "difficulties": [
+            3,
+            8.6,
+            12.7,
+            null
+        ]
+    },
+    "吉原ラメント | Yoshiwara Lament": {
+        "category": "Vocaloid",
+        "difficulties": [
+            3,
+            8.3,
+            12.4,
+            null
+        ]
+    },
+    "アゲナゲン | Again And Again": {
+        "category": "Variety",
+        "difficulties": [
+            4,
+            10.5,
+            13.5,
+            null
+        ]
+    },
+    "ファムファタール | Femme Fatale": {
+        "category": "Variety",
+        "difficulties": [
+            3,
+            8,
+            11.1,
+            null
+        ]
+    },
+    "cloud IX": {
+        "category": "Original",
+        "difficulties": [
+            4,
+            10.5,
+            13.6,
+            null
+        ]
+    },
+    "Grip & Break down !!": {
+        "category": "Touhou",
+        "difficulties": [
+            3,
+            8.5,
+            12,
+            null
+        ]
+    },
+    "CENSORED!!": {
+        "category": "Touhou",
+        "difficulties": [
+            4,
+            8.7,
+            13.4,
+            null
+        ]
+    },
+    "神 | Kami": {
+        "category": "Original",
+        "difficulties": [
+            6,
+            10.9,
+            13.7,
+            14.4
+        ]
+    },
+    "Candy Star": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            3,
+            9.5,
+            13.2,
+            null
+        ]
+    },
+    "Onigami": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            4,
+            9,
+            13.2,
+            null
+        ]
+    },
+    "Invisible Frenzy (Camellia's '593: Insanely Fluctuated' Remix)": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            6,
+            11.2,
+            14.3,
+            null
+        ]
+    },
+    "GENOCIDER (Kobaryo's FTN-Remix)": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            6,
+            10.7,
+            14.3,
+            null
+        ]
+    },
+    "Möbius": {
+        "category": "Original",
+        "difficulties": [
+            8,
+            10.8,
+            14.4,
+            15.1
+        ]
+    },
+    "You & DIE": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            4,
+            10.7,
+            13.6,
+            null
+        ]
+    },
+    "Reach My Voice": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            3,
+            8.8,
+            12.8,
+            null
+        ]
+    },
+    "Ready Go feat. Yukacco": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            3,
+            8.6,
+            12.3,
+            null
+        ]
+    },
+    "Big Daddy": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            5,
+            8.7,
+            13.3,
+            null
+        ]
+    },
+    "N3XTAGE": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            4,
+            10.4,
+            12.7,
+            13.7
+        ]
+    },
+    "NIGHTWAVE FRAGMENTS": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            4,
+            10.6,
+            13.7,
+            null
+        ]
+    },
+    "GAKKY": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            4,
+            10.7,
+            13.7,
+            null
+        ]
+    },
+    "SUPER EMULATOR": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            4,
+            11,
+            14.3,
+            null
+        ]
+    },
+    "Brand New World feat. Yukacco": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            3,
+            7.5,
+            11.8,
+            null
+        ]
+    },
+    "T+ VS SHARK": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            4,
+            10.9,
+            13.8,
+            null
+        ]
+    },
+    "えくすとりーむ↑↑おんがくスクール feat. ななひら | Extreme Music School feat. Nanahira": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            4,
+            10.9,
+            13.8,
+            null
+        ]
+    },
+    "Avenue": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            3,
+            7.9,
+            12.9,
+            null
+        ]
+    },
+    "Middle": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            3,
+            7.6,
+            12.9,
+            null
+        ]
+    },
+    "Obtain An Unused Whale In The Abstract Sea": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            2,
+            6,
+            13.3,
+            null
+        ]
+    },
+    "EXTRA HARD": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            4,
+            11,
+            14.1,
+            null
+        ]
+    },
+    "Odin": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            4,
+            10.7,
+            13.6,
+            null
+        ]
+    },
+    "Viyella's Nightmare": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            4,
+            11,
+            13.8,
+            null
+        ]
+    },
+    "1BPM": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            4,
+            10.5,
+            13.7,
+            null
+        ]
+    },
+    "BPM=RT": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            5,
+            10.8,
+            13.9,
+            null
+        ]
+    },
+    "最先端坊将軍３ | Top Shogun 3": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            3,
+            8.8,
+            13.8,
+            null
+        ]
+    },
+    "We are the Massive New Krew (2020Edit)": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            3,
+            8.6,
+            13,
+            14.1
+        ]
+    },
+    "To the sky -wacca edit- feat.motoko": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            3,
+            8.9,
+            12.5,
+            null
+        ]
+    },
+    "Keep on Groovin' feat. mow*2": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            4,
+            9.9,
+            12.5,
+            null
+        ]
+    },
+    "Crush Out": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            4,
+            10.2,
+            12.9,
+            null
+        ]
+    },
+    "Everybody Say HARDCORE TANO*C": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            4,
+            9.1,
+            13.4,
+            null
+        ]
+    },
+    "Scramble TANO*C": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            3,
+            9.6,
+            12.8,
+            null
+        ]
+    },
+    "DIVE With Ü": {
+        "category": "Original",
+        "difficulties": [
+            3,
+            9.6,
+            13.3,
+            12
+        ]
+    },
+    "ぼくの夢、メチャクソ無限湧き (ななひら ver.) | My dreams were totally crushed! (Nanahira ver.)": {
+        "category": "Variety",
+        "difficulties": [
+            4,
+            10.7,
+            13.7,
+            null
+        ]
+    },
+    "Blossom": {
+        "category": "Variety",
+        "difficulties": [
+            4,
+            9,
+            13.2,
+            null
+        ]
+    },
+    "BULK UP (GAME EXCLUSIVE EDIT)": {
+        "category": "Variety",
+        "difficulties": [
+            7,
+            10,
+            13.8,
+            null
+        ]
+    },
+    "春を告げる | Haru wo tsugeru": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            4,
+            7,
+            12.2,
+            null
+        ]
+    },
+    "君のせい | Kimi no Sei": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            5,
+            8,
+            12.5,
+            null
+        ]
+    },
+    "君のせい | Seisyun Complex": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            2,
+            7,
+            11.5,
+            null
+        ]
+    },
+    "Chakra": {
+        "category": "Variety",
+        "difficulties": [
+            3,
+            9.3,
+            13.1,
+            null
+        ]
+    },
+    "ÅMARA(大未来電脳)": {
+        "category": "Vocaloid",
+        "difficulties": [
+            6,
+            9.7,
+            12.1,
+            14
+        ]
+    },
+    "caesura.": {
+        "category": "Variety",
+        "difficulties": [
+            7,
+            10.6,
+            13.5,
+            14.5
+        ]
+    },
+    "ラグトレイン | Lagtrain": {
+        "category": "Vocaloid",
+        "difficulties": [
+            1,
+            8,
+            11.8,
+            13.2
+        ]
+    },
+    "Hainuwele": {
+        "category": "Variety",
+        "difficulties": [
+            7,
+            10.7,
+            13.9,
+            null
+        ]
+    },
+    "Gestalt": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            5,
+            8.4,
+            12.7,
+            null
+        ]
+    },
+    "Rebuff": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            6,
+            10.7,
+            13.7,
+            null
+        ]
+    },
+    "Colors": {
+        "category": "Touhou",
+        "difficulties": [
+            4,
+            8.7,
+            11,
+            null
+        ]
+    },
+    "Joe Fight": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            5,
+            10.7,
+            14,
+            null
+        ]
+    },
+    "ラビットホール | Rabbit Hole": {
+        "category": "Vocaloid",
+        "difficulties": [
+            4,
+            9.4,
+            13.3,
+            null
+        ]
+    },
+    "Make Up Your World feat. キョンシーのCiちゃん & らっぷびと": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            4,
+            9.9,
+            12.6,
+            null
+        ]
+    },
+    "Asteroid [feat. blaxervant]": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            4,
+            8,
+            12.5,
+            null
+        ]
+    },
+    "B.B.K.K.B.K.K.": {
+        "category": "Variety",
+        "difficulties": [
+            3,
+            9,
+            13.1,
+            0
+        ]
+    },
+    "Caramelldansen (Speedycake Remix)": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            5,
+            9.7,
+            12.7,
+            null
+        ]
+    },
+    "Cheatreal": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            5,
+            10.7,
+            13.6,
+            null
+        ]
+    },
+    "IMPULSE // WEAVER": {
+        "category": "Original",
+        "difficulties": [
+            4,
+            8,
+            12.3,
+            null
+        ]
+    },
+    "INTERNET YAMERO": {
+        "category": "Variety",
+        "difficulties": [
+            5,
+            9.9,
+            13.5,
+            null
+        ]
+    },
+    "唱 | Show": {
+        "category": "Variety",
+        "difficulties": [
+            4,
+            8,
+            12.4,
+            13.4
+        ]
+    },
+    "Blows Up Everything": {
+        "category": "Variety",
+        "difficulties": [
+            4,
+            9,
+            13.7,
+            null
+        ]
+    },
+    "Confessions of a Rotten Girl ft. Hatsune Miku": {
+        "category": "Vocaloid",
+        "difficulties": [
+            4,
+            9,
+            13.2,
+            null
+        ]
+    },
+    "Got It Bad": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            7,
+            10.5,
+            14,
+            null
+        ]
+    },
+    "強風オールバック (feat.歌愛ユキ) | Kyoufuu All Back (feat. Kaai Yuki)": {
+        "category": "Vocaloid",
+        "difficulties": [
+            2,
+            7,
+            11.9,
+            13.1
+        ]
+    },
+    "my flow": {
+        "category": "Variety",
+        "difficulties": [
+            5,
+            8.7,
+            13.4,
+            null
+        ]
+    },
+    "N3V3R G3T OV3R": {
+        "category": "Variety",
+        "difficulties": [
+            4,
+            10,
+            12.8,
+            null
+        ]
+    },
+    "POWER OF UNITY": {
+        "category": "Variety",
+        "difficulties": [
+            5,
+            10,
+            13.8,
+            null
+        ]
+    },
+    "Straight into the lights": {
+        "category": "Variety",
+        "difficulties": [
+            3,
+            9.7,
+            13.4,
+            14.2
+        ]
+    },
+    "Happy Synthesizer": {
+        "category": "Variety",
+        "difficulties": [
+            3,
+            7,
+            10.7,
+            12.3
+        ]
+    },
+    "Latent Kingdom": {
+        "category": "Variety",
+        "difficulties": [
+            8,
+            11,
+            13.3,
+            14.3
+        ]
+    },
+    "� | Null": {
+        "category": "Original",
+        "difficulties": [
+            8,
+            11.6,
+            14.3,
+            15
+        ]
+    },
+    "egoIST": {
+        "category": "Original",
+        "difficulties": [
+            5,
+            9.8,
+            12.7,
+            14
+        ]
+    },
+    "ミラクルポップ☆アドベンチャー!!!!! | MIRACLE POP ADVENTURE!!!!!": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            5,
+            10,
+            13.7,
+            null
+        ]
+    },
+    "How To Make 音ゲ~曲!": {
+        "category": "Variety",
+        "difficulties": [
+            5,
+            9,
+            13.5,
+            null
+        ]
+    },
+    "Feels So Right feat. Renko": {
+        "category": "Variety",
+        "difficulties": [
+            4,
+            8.8,
+            10.6,
+            13.1
+        ]
+    },
+    "Distorted Fate": {
+        "category": "Variety",
+        "difficulties": [
+            5,
+            9.8,
+            13.8,
+            null
+        ]
+    },
+    "Rrhar'il": {
+        "category": "Variety",
+        "difficulties": [
+            5,
+            8.9,
+            13.5,
+            14.2
+        ]
+    },
+    "Chronomia": {
+        "category": "Variety",
+        "difficulties": [
+            6,
+            11,
+            13.7,
+            null
+        ]
+    },
+    "Get Your Wish": {
+        "category": "Variety",
+        "difficulties": [
+            3,
+            6.8,
+            10,
+            null
+        ]
+    },
+    "Mãos para cima! ~手を上げな~": {
+        "category": "Vocaloid",
+        "difficulties": [
+            3,
+            9,
+            12.8,
+            null
+        ]
+    },
+    "Mujinku-Vacuum Track#ADD8E6-": {
+        "category": "Variety",
+        "difficulties": [
+            4,
+            10,
+            13.9,
+            null
+        ]
+    },
+    "Twisted Drop Party": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            4,
+            10.1,
+            13.1,
+            null
+        ]
+    },
+    "惑星ループ | Planet Loop": {
+        "category": "Vocaloid",
+        "difficulties": [
+            4,
+            10.7,
+            12.7,
+            null
+        ]
+    },
+    "DAWNBREAKER": {
+        "category": "Variety",
+        "difficulties": [
+            5,
+            9.7,
+            12.3,
+            null
+        ]
+    },
+    "ICEBURN": {
+        "category": "Variety",
+        "difficulties": [
+            4,
+            9.8,
+            13.8,
+            null
+        ]
+    },
+    "Random Access Emotions": {
+        "category": "Variety",
+        "difficulties": [
+            3,
+            10,
+            12,
+            13.5
+        ]
+    },
+    "STARTLINER": {
+        "category": "Variety",
+        "difficulties": [
+            4,
+            8.7,
+            11.6,
+            null
+        ]
+    },
+    "Stellar:Dream": {
+        "category": "Variety",
+        "difficulties": [
+            6,
+            10,
+            13.8,
+            14.2
+        ]
+    },
+    "Titania": {
+        "category": "Variety",
+        "difficulties": [
+            5,
+            11,
+            13.7,
+            14.3
+        ]
+    },
+    "Y.Y.Y.計画!!!!": {
+        "category": "Variety",
+        "difficulties": [
+            4,
+            8.8,
+            12.5,
+            null
+        ]
+    },
+    "WakeUP MakeUP FEVER!": {
+        "category": "Variety",
+        "difficulties": [
+            3,
+            8,
+            12.6,
+            null
+        ]
+    },
+    "Last Kingdom": {
+        "category": "Variety",
+        "difficulties": [
+            6,
+            10.5,
+            13.6,
+            null
+        ]
+    },
+    "Good bye, Merry-Go-Round.": {
+        "category": "Variety",
+        "difficulties": [
+            5,
+            10.8,
+            12.8,
+            14
+        ]
+    },
+    "Don't Fight The Music": {
+        "category": "Variety",
+        "difficulties": [
+            6,
+            10.7,
+            13.4,
+            14.4
+        ]
+    },
+    "Pop Sequence": {
+        "category": "Variety",
+        "difficulties": [
+            1,
+            5.7,
+            11.7,
+            null
+        ]
+    },
+    "Crossing Delta": {
+        "category": "Variety",
+        "difficulties": [
+            6,
+            10.8,
+            13.8,
+            null
+        ]
+    },
+    "Paved Garden": {
+        "category": "Variety",
+        "difficulties": [
+            4,
+            8.3,
+            12.6,
+            null
+        ]
+    },
+    "Shadow Bang": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            5,
+            10,
+            13.4,
+            null
+        ]
+    },
+    "Slapstick Parfait": {
+        "category": "Variety",
+        "difficulties": [
+            5,
+            9.9,
+            13.5,
+            null
+        ]
+    },
+    "Kirakira Noel Story!!": {
+        "category": "Variety",
+        "difficulties": [
+            4,
+            8.9,
+            12.9,
+            null
+        ]
+    },
+    "GIGA FLARE VIP": {
+        "category": "Variety",
+        "difficulties": [
+            5,
+            10.8,
+            13.6,
+            null
+        ]
+    },
+    "SWAG!!": {
+        "category": "Variety",
+        "difficulties": [
+            2,
+            9.7,
+            12.7,
+            null
+        ]
+    },
+    "ビビデバ | BIBBIDIBA": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            1,
+            6.5,
+            10.5,
+            13
+        ]
+    },
+    "Maholova": {
+        "category": "Variety",
+        "difficulties": [
+            4,
+            10.4,
+            13.3,
+            null
+        ]
+    },
+    "MVURBD": {
+        "category": "Variety",
+        "difficulties": [
+            6,
+            10.7,
+            14,
+            null
+        ]
+    },
+    "Burned Out": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            4,
+            9.8,
+            13.6,
+            null
+        ]
+    },
+    "MEGA TSKR": {
+        "category": "Variety",
+        "difficulties": [
+            4,
+            10.8,
+            13.9,
+            null
+        ]
+    },
+    "The Rebellion of Phantom (feat. Valkyria)": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            5,
+            9.8,
+            13.2,
+            null
+        ]
+    },
+    "sys_dei/cide": {
+        "category": "Original",
+        "difficulties": [
+            7,
+            11.7,
+            14.3,
+            14.8
+        ]
+    },
+    "B2GFM": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            4,
+            8.9,
+            12.4,
+            null
+        ]
+    },
+    "BATTLE NO.1 (DJ Myosuke Remix)": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            6,
+            11,
+            14.2,
+            null
+        ]
+    },
+    "Drive Thrust": {
+        "category": "Variety",
+        "difficulties": [
+            5,
+            10.9,
+            14.1,
+            null
+        ]
+    },
+    "LUMIS:ETHER* feat.M1shamo & □□□□□□": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            6,
+            10.8,
+            13.3,
+            null
+        ]
+    },
+    "Super Rotation": {
+        "category": "HARDCORE TANO*C",
+        "difficulties": [
+            3,
+            8.9,
+            13.4,
+            null
+        ]
+    },
+    "Super Abnormia": {
+        "category": "Original",
+        "difficulties": [
+            6,
+            11,
+            14,
+            14.6
+        ]
+    },
+    "桜華月想-SDVX EDIT- | Ouka Getsusou -SDVX EDIT-": {
+        "category": "Touhou",
+        "difficulties": [
+            3,
+            9.4,
+            12.9,
+            null
+        ]
+    },
+    "Ghost Shout": {
+        "category": "Touhou",
+        "difficulties": [
+            4,
+            9.4,
+            13.3,
+            null
+        ]
+    },
+    "HELLOHELL": {
+        "category": "Touhou",
+        "difficulties": [
+            4,
+            9.3,
+            13.3,
+            null
+        ]
+    },
+    "Goddess Destroyed U": {
+        "category": "Touhou",
+        "difficulties": [
+            5,
+            9.7,
+            12.4,
+            null
+        ]
+    },
+    "MERMAID": {
+        "category": "Touhou",
+        "difficulties": [
+            4,
+            8.7,
+            11.9,
+            null
+        ]
+    },
+    "Help me, ERINNNNNN!! たすけてえーりん!!": {
+        "category": "Touhou",
+        "difficulties": [
+            4,
+            10.8,
+            13.5,
+            null
+        ]
+    },
+    "Ultimate Taste": {
+        "category": "Touhou",
+        "difficulties": [
+            5,
+            10.9,
+            13.7,
+            null
+        ]
+    },
+    "Necromantic": {
+        "category": "Touhou",
+        "difficulties": [
+            4,
+            8,
+            11.8,
+            13.7
+        ]
+    },
+    "Fragmentary Specter Blade": {
+        "category": "Touhou",
+        "difficulties": [
+            5,
+            9.8,
+            13.2,
+            null
+        ]
+    },
+    "Chatter Chatter": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            3,
+            9,
+            12.6,
+            0
+        ]
+    },
+    "radio galaxy": {
+        "category": "Original",
+        "difficulties": [
+            3,
+            9,
+            13.3,
+            null
+        ]
+    },
+    "Shelter": {
+        "category": "Anime/Pop",
+        "difficulties": [
+            2,
+            6.2,
+            11,
+            12
+        ]
+    }
+}
