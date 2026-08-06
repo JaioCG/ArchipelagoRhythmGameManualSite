@@ -53,6 +53,7 @@ export async function attemptConnect() {
 			document.getElementById('goal-category').textContent = songsData[slotData.victoryLocation].category;
 		}
 
+
 		// Set up rest of locations table
 		locationsTable = client.package.findPackage(sessionStorage.getItem('game')).locationTable;
 		missingLocations = client.room.missingLocations;
@@ -65,9 +66,6 @@ export async function attemptConnect() {
 							<th scope="row">
 								<button ${!unlockedSongs.includes(song) ? 'disabled' : ''}>${song}</button>
 							</th>
-							<td>${songsData[song].difficulties}</td>
-							<td>${songsData[song].version}</td>
-							<td>${songsData[song].category}</td>
 						</tr>
 					`);
 					listEntries[song] = element;
