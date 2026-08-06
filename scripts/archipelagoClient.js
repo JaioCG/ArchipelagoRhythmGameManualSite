@@ -61,13 +61,27 @@ export async function attemptConnect() {
 		slotData.finalSongIDs.forEach((song) => {
 			if (missingLocations.includes(locationsTable[`${song}-0`]) && 
 				missingLocations.includes(locationsTable[`${song}-1`])) {
-					const element = elementFromHTML(`
-						<tr data-row="${song}">
-							<th scope="row">
-								<button ${!unlockedSongs.includes(song) ? 'disabled' : ''}>${song}</button>
-							</th>
-						</tr>
-					`);
+					let element = null;
+					if (sessionStorage.getItem('game') == "SOUND VOLTEX") {
+						element = elementFromHTML(`
+							<tr data-row="${song}">
+								<th scope="row">
+									<button ${!unlockedSongs.includes(song) ? 'disabled' : ''}>${song}</button>
+								</th>
+							</tr>
+						`);
+					} else {
+						element = elementFromHTML(`
+							<tr data-row="${song}">
+								<th scope="row">
+									<button ${!unlockedSongs.includes(song) ? 'disabled' : ''}>${song}</button>
+									<td>${songsData[song].difficulties}</td>
+									<td>${songsData[song].version}</td>
+									<td>${songsData[song].category}</td>
+								</th>
+							</tr>
+						`);
+					}
 					listEntries[song] = element;
 					element.querySelector('button').addEventListener('click', () => {
 						sendLocation(song);
