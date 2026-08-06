@@ -1,4 +1,4 @@
-import { attemptConnect, getSongsData } from "./archipelagoClient.js";
+import { attemptConnect, getGameData } from "./archipelagoClient.js";
 
 
 // Load saved info on page load, if any
@@ -28,8 +28,8 @@ document.getElementById('login-container').addEventListener('submit', async (e) 
 	// Temporarily disable button to prevent multiple clicks
 	e.target.querySelector('input[type="submit"]').disabled = true;
 
-	// Get songs data for selected game
-	await getSongsData();
+	// Get games data for selected game
+	await getGameData();
 
 	// Attempt connection to Archipelago
 	attemptConnect().then((success) => {

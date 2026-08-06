@@ -1,8 +1,8 @@
-import { elementFromHTML, sortTable } from "./utils.js";
+import { elementFromHTML, sortTable, formatDifficulties } from "./utils.js";
 import { Client } from "https://unpkg.com/archipelago.js/dist/archipelago.min.js";
 const client = new Client();
 let slotData = null;
-let songsData = null;
+let gameData = null;
 let musicSheetCount = 0;
 let locationsTable = null;
 let listEntries = {};
@@ -11,15 +11,15 @@ let missingLocations = null;
 
 
 // Get songs data for selected game
-export async function getSongsData() {
+export async function getGameData() {
 	let json = `data/${sessionStorage.getItem('game')}.json`;
 	try {
 		const response = await fetch(json);
-		songsData = await response.json();
-		console.log("Songs data loaded successfully!", songsData);
+		gameData = await response.json();
+		console.log("Games data loaded successfully!", gameData);
 	} catch (error) {
-		console.error("Error loading songs data!", error);
-		alert("Error loading songs data! See console for details.");
+		console.error("Error loading games data!", error);
+		alert("Error loading games data! See console for details.");
 	}
 }
 
@@ -47,10 +47,10 @@ export async function attemptConnect() {
 		document.getElementById('goal-title').addEventListener('click', () => {
 			sendLocation(slotData.victoryLocation);
 		});
-		if (songsData != null) {
-			document.getElementById('goal-difficulty').textContent = songsData[slotData.victoryLocation].difficulties;
-			document.getElementById('goal-version').textContent = songsData[slotData.victoryLocation].version;
-			document.getElementById('goal-category').textContent = songsData[slotData.victoryLocation].category;
+		if (gameData != null) {
+			document.getElementById('goal-difficulty').innerHTML = formatDifficulties(gameData.songs[slotData.victoryLocation], gameData.diffColors);
+			document.getElementById('goal-category').textContent = gameData.songs[slotData.victoryLocation].category;
+			document.getElementById('goal-version').textContent = gameData.songs[slotData.victoryLocation].version;
 		}
 
 
@@ -61,27 +61,16 @@ export async function attemptConnect() {
 		slotData.finalSongIDs.forEach((song) => {
 			if (missingLocations.includes(locationsTable[`${song}-0`]) && 
 				missingLocations.includes(locationsTable[`${song}-1`])) {
-					let element = null;
-					if (sessionStorage.getItem('game') == "SOUND VOLTEX") {
-						element = elementFromHTML(`
-							<tr data-row="${song}">
-								<th scope="row">
-									<button ${!unlockedSongs.includes(song) ? 'disabled' : ''}>${song}</button>
-								</th>
-							</tr>
-						`);
-					} else {
-						element = elementFromHTML(`
-							<tr data-row="${song}">
-								<th scope="row">
-									<button ${!unlockedSongs.includes(song) ? 'disabled' : ''}>${song}</button>
-									<td>${songsData[song].difficulties}</td>
-									<td>${songsData[song].version}</td>
-									<td>${songsData[song].category}</td>
-								</th>
-							</tr>
-						`);
-					}
+					const element = elementFromHTML(`
+						<tr data-row="${song}">
+							<th scope="row">
+								<button ${!unlockedSongs.includes(song) ? 'disabled' : ''}>${song}</button>
+								<td>${formatDifficulties(gameData.songs[song], gameData.diffColors)}</td>
+								<td>${gameData.songs[song].category}</td>
+								<td>${gameData.songs[song].version}</td>
+							</th>
+						</tr>
+					`);
 					listEntries[song] = element;
 					element.querySelector('button').addEventListener('click', () => {
 						sendLocation(song);

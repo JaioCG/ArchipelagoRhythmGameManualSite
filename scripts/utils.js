@@ -19,3 +19,17 @@ export function sortTable(table) {
 	// Append the sorted rows back to the table
 	rows.forEach(row => table.appendChild(row));
 }
+
+
+export function formatDifficulties(song, colors) {
+	let html = ''
+
+	song.difficulties.forEach((diff, index) => {
+		if (diff != null) {
+			const color = colors[index] || '#FFFFFF'; // Default to white if no color is specified
+			html += `<span style="color: ${color};">${diff}</span>, `;
+		}
+	});
+	
+	return html.slice(0, -2); // Remove the last comma and space
+}
