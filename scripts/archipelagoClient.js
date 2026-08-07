@@ -103,8 +103,35 @@ chatForm.addEventListener('submit', (e) => {
 	e.target.querySelector('input[type="text"]').value = '';
 });
 
-client.messages.on('message', (message) => {
-	log.textContent = `${log.textContent}\n${message}`;
+client.messages.on('message', (message, nodes) => {
+	let text = '';
+	nodes.forEach((node) => {
+		let textColor = '#C2C7D0';
+		switch (node.type) {
+			case 'player':
+				textColor = '#EE00EE';
+				break;
+			case 'text':
+				break;
+			case 'item':
+				switch (node.part.flags) {
+					case 0:
+						textColor = '#00EEEE'; // Filler item
+						break;
+					case 1:
+						textColor = '#AF99EF'; // Progression item
+						break;
+				}
+				break;
+			case 'location':
+				textColor = '#00FF7F';
+				break;
+		}
+
+		text += `<span style="color: ${textColor};">${node.text}</span>`;
+	});
+
+	log.innerHTML = `${log.innerHTML}<span>${text}</span>`;
 	log.scrollTop = log.scrollHeight;
 });
 
