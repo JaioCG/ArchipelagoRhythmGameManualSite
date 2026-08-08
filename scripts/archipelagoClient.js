@@ -106,10 +106,15 @@ chatForm.addEventListener('submit', (e) => {
 client.messages.on('message', (message, nodes) => {
 	let text = '';
 	nodes.forEach((node) => {
+		console.log(node);
 		let textColor = '#C2C7D0';
 		switch (node.type) {
 			case 'player':
-				textColor = '#EE00EE';
+				if (node.text == sessionStorage.getItem('slot')) {
+					textColor = '#EE00EE';
+				} else {
+					textColor = '#FAFAD2';
+				}
 				break;
 			case 'text':
 				break;
@@ -120,6 +125,12 @@ client.messages.on('message', (message, nodes) => {
 						break;
 					case 1:
 						textColor = '#AF99EF'; // Progression item
+						break;
+					case 2:
+						textColor = '#5972BE'; // Useful item
+						break;
+					case 4:
+						textColor = '#E4766A'; // Trap item
 						break;
 				}
 				break;
