@@ -1,4 +1,4 @@
-export const optionspy = (difficulties, diffFloor, diffCeiling) => {
+export const optionspy = (difficulties, useTenths, diffFloor, diffCeiling) => {
 	return `
 from Options import Range, ItemSet, OptionSet, PerGameCommonOptions, OptionGroup
 from dataclasses import dataclass
@@ -41,22 +41,20 @@ class DifficultyOption(OptionSet):
 
 class MinLevel(Range):
     """ 
-    Ensures chosen song will have a chart with an level value higher than this value
-    Note: Number represented is the internal difficulty multiplied by 10.
+    Ensures chosen song will have a chart with an level value higher than this value${useTenths ? "\nNote: Number represented is the internal difficulty multiplied by 10." : ""}
     """
-    range_start = ${diffFloor}
-    range_end = ${diffCeiling}
-    default = ${diffFloor}
+    range_start = ${useTenths ? Math.floor(diffFloor * 10) : diffFloor}
+    range_end = ${useTenths ? Math.floor(diffCeiling * 10) : diffCeiling}
+    default = ${useTenths ? Math.floor(diffFloor * 10) : diffFloor}
     display_name = "Minimum Level"
 
 class MaxLevel(Range):
     """
-    Ensures chosen song will have a chart with an level value lower than this value
-    Note: Number represented is the internal difficulty multiplied by 10.
+    Ensures chosen song will have a chart with an level value lower than this value${useTenths ? "\nNote: Number represented is the internal difficulty multiplied by 10." : ""}
     """
-    range_start = ${diffFloor}
-    range_end = ${diffCeiling}
-    default = ${diffCeiling}
+    range_start = ${useTenths ? Math.floor(diffFloor * 10) : diffFloor}
+    range_end = ${useTenths ? Math.floor(diffCeiling * 10) : diffCeiling}
+    default = ${useTenths ? Math.floor(diffCeiling * 10) : diffCeiling}
     display_name = "Maximum Level"
 
 class SheetCountPercentage(Range):

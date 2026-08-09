@@ -26,8 +26,9 @@ Do note that custom apworlds will not work on the site without first placing the
             "color": "#14A0E4" // Used on website
         }
     ],
-    "diffFloor": 10, // Integer, multiply intended floor/ceiling by 10
-    "diffCeiling": 151, // Integer, multiply intended floor/ceiling by 10
+	"useTenths": true, // Replaces normal scale with a *10 integer scale
+    "diffFloor": 1,
+    "diffCeiling": 15.1,
     "songs": [
         {
 			"title": "Rainbow Dream",
@@ -35,17 +36,9 @@ Do note that custom apworlds will not work on the site without first placing the
 				{
 					"difficulty": 3,
 					"version": "WACCA" // Version is placed in each sheet due to some sheets being added in the future
-				},
-				{
-					"difficulty": 8.7,
-					"version": "WACCA"
-				},
-				{
-					"difficulty": 11.4,
-					"version": "WACCA"
 				}
 			],
-			"exclusivity": [], // Used for exclusive notes, i.e. Online, JP, Asia, etc.
+			"exclusivities": [], // Used for exclusive notes, i.e. Online, JP, Asia, etc.
 			"categories": [ "TANO*C（オリジナル）" ] // Array due to some games having songs with multiple categories
 		}
 	]

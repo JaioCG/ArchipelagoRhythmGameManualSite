@@ -1,4 +1,4 @@
-export const rgCollectionspy = (sheet, fillerItems, difficulties) => {
+export const rgCollectionspy = (sheet, fillerItems, difficulties, useTenths) => {
 	return `
 from .items import DifficultyData, SongData
 from .SongData import SONG_DATA, groups
@@ -40,7 +40,7 @@ class rgCollections:
 		filtered_list = []
 
 		for key, data in self.song_items.items():
-			${difficulties.map((diff, index) => `if data.sheets[${index}].difficulty != None and "${diff.name}" in options.difficulty_option and diff_lower <= data.sheets[${index}].difficulty * 10 <= diff_higher:\n\t\t\t\tfiltered_list.append(key)\n\t\t\t\tcontinue`).join("\n\t\t\t")}
+			${difficulties.map((diff, index) => `if data.sheets[${index}].difficulty != None and "${diff.name}" in options.difficulty_option and diff_lower <= data.sheets[${index}].difficulty ${useTenths ? "* 10": ""} <= diff_higher:\n\t\t\t\tfiltered_list.append(key)\n\t\t\t\tcontinue`).join("\n\t\t\t")}
 		
 		return filtered_list
 	

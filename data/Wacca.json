@@ -22,7 +22,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C（オリジナル）"
             ]
@@ -43,7 +43,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C（オリジナル）"
             ]
@@ -64,7 +64,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C（オリジナル）"
             ]
@@ -89,7 +89,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C（オリジナル）"
             ]
@@ -110,7 +110,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -131,7 +131,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [
+            "exclusivities": [
                 "Online"
             ],
             "categories": [
@@ -154,7 +154,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [
+            "exclusivities": [
                 "Online"
             ],
             "categories": [
@@ -177,7 +177,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [
+            "exclusivities": [
                 "Online"
             ],
             "categories": [
@@ -200,7 +200,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -221,7 +221,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -242,7 +242,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -263,7 +263,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -284,7 +284,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -309,7 +309,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -330,7 +330,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -351,7 +351,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -376,7 +376,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -401,7 +401,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "オリジナル"
             ]
@@ -422,7 +422,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [
+            "exclusivities": [
                 "Online"
             ],
             "categories": [
@@ -445,7 +445,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -466,7 +466,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -487,7 +487,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -508,7 +508,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -529,7 +529,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -550,7 +550,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -575,7 +575,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -596,7 +596,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -617,7 +617,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -638,7 +638,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [
+            "exclusivities": [
                 "Online"
             ],
             "categories": [
@@ -661,7 +661,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -682,7 +682,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C（オリジナル）"
             ]
@@ -703,7 +703,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C（オリジナル）"
             ]
@@ -728,7 +728,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C（オリジナル）"
             ]
@@ -753,7 +753,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C（オリジナル）"
             ]
@@ -774,7 +774,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C（オリジナル）"
             ]
@@ -795,7 +795,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C（オリジナル）"
             ]
@@ -816,7 +816,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C（オリジナル）"
             ]
@@ -837,7 +837,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -858,7 +858,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -879,7 +879,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -900,7 +900,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -921,7 +921,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -946,7 +946,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -967,7 +967,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -988,7 +988,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -1009,7 +1009,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -1030,7 +1030,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -1051,7 +1051,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -1072,7 +1072,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -1093,7 +1093,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -1114,7 +1114,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -1135,7 +1135,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -1160,7 +1160,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -1181,7 +1181,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -1206,7 +1206,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -1227,7 +1227,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -1252,7 +1252,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -1273,7 +1273,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -1294,7 +1294,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C（オリジナル）"
             ]
@@ -1315,7 +1315,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -1340,7 +1340,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -1365,7 +1365,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C（オリジナル）"
             ]
@@ -1386,7 +1386,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C（オリジナル）"
             ]
@@ -1407,7 +1407,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C（オリジナル）"
             ]
@@ -1432,7 +1432,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -1453,7 +1453,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -1474,7 +1474,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -1495,7 +1495,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -1516,7 +1516,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -1537,7 +1537,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -1562,7 +1562,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -1587,7 +1587,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "東方アレンジ"
             ]
@@ -1608,7 +1608,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "東方アレンジ"
             ]
@@ -1629,7 +1629,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "東方アレンジ"
             ]
@@ -1650,7 +1650,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -1671,7 +1671,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -1692,7 +1692,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -1713,7 +1713,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "東方アレンジ"
             ]
@@ -1734,7 +1734,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "東方アレンジ"
             ]
@@ -1755,7 +1755,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "東方アレンジ"
             ]
@@ -1780,7 +1780,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C（オリジナル）"
             ]
@@ -1801,7 +1801,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -1822,7 +1822,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -1843,7 +1843,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -1864,7 +1864,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -1885,7 +1885,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -1906,7 +1906,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -1927,7 +1927,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -1952,7 +1952,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "オリジナル"
             ]
@@ -1973,7 +1973,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -1994,7 +1994,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [
+            "exclusivities": [
                 "Online"
             ],
             "categories": [
@@ -2021,7 +2021,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -2046,7 +2046,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "オリジナル"
             ]
@@ -2067,7 +2067,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -2088,7 +2088,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -2109,7 +2109,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C（オリジナル）"
             ]
@@ -2130,7 +2130,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -2151,7 +2151,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -2172,7 +2172,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -2193,7 +2193,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -2214,7 +2214,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C（オリジナル）"
             ]
@@ -2235,7 +2235,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "2.5次元"
             ]
@@ -2256,7 +2256,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "オリジナル"
             ]
@@ -2277,7 +2277,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "オリジナル"
             ]
@@ -2298,7 +2298,7 @@
                     "version": "WACCA"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -2319,7 +2319,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -2340,7 +2340,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -2361,7 +2361,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -2382,7 +2382,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -2403,7 +2403,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -2424,7 +2424,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -2445,7 +2445,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -2466,7 +2466,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "東方アレンジ"
             ]
@@ -2487,7 +2487,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "東方アレンジ"
             ]
@@ -2508,7 +2508,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "オリジナル"
             ]
@@ -2529,7 +2529,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C（オリジナル）"
             ]
@@ -2550,7 +2550,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C（オリジナル）"
             ]
@@ -2571,7 +2571,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -2592,7 +2592,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "東方アレンジ"
             ]
@@ -2613,7 +2613,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -2634,7 +2634,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -2655,7 +2655,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -2676,7 +2676,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -2697,7 +2697,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -2718,7 +2718,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -2739,7 +2739,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -2760,7 +2760,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -2781,7 +2781,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -2802,7 +2802,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -2823,7 +2823,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -2844,7 +2844,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -2865,7 +2865,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -2886,7 +2886,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "東方アレンジ"
             ]
@@ -2907,7 +2907,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "東方アレンジ"
             ]
@@ -2928,7 +2928,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "東方アレンジ"
             ]
@@ -2949,7 +2949,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "東方アレンジ"
             ]
@@ -2970,7 +2970,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "東方アレンジ"
             ]
@@ -2991,7 +2991,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "オリジナル"
             ]
@@ -3012,7 +3012,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -3033,7 +3033,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -3054,7 +3054,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -3075,7 +3075,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -3096,7 +3096,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -3117,7 +3117,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -3138,7 +3138,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -3159,7 +3159,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -3180,7 +3180,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -3201,7 +3201,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -3222,7 +3222,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -3243,7 +3243,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -3264,7 +3264,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -3285,7 +3285,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "2.5次元"
             ]
@@ -3306,7 +3306,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "2.5次元"
             ]
@@ -3327,7 +3327,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "2.5次元"
             ]
@@ -3348,7 +3348,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -3369,7 +3369,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -3390,7 +3390,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -3411,7 +3411,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -3432,7 +3432,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -3453,7 +3453,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -3478,7 +3478,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C（オリジナル）"
             ]
@@ -3499,7 +3499,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C（オリジナル）"
             ]
@@ -3520,7 +3520,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C（オリジナル）"
             ]
@@ -3545,7 +3545,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C（オリジナル）"
             ]
@@ -3570,7 +3570,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C（オリジナル）"
             ]
@@ -3591,7 +3591,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -3616,7 +3616,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -3637,7 +3637,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -3658,7 +3658,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -3679,7 +3679,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -3700,7 +3700,7 @@
                     "version": "WACCA S"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -3721,7 +3721,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -3742,7 +3742,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -3763,7 +3763,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -3784,7 +3784,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -3809,7 +3809,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "オリジナル"
             ]
@@ -3830,7 +3830,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -3851,7 +3851,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -3872,7 +3872,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -3893,7 +3893,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -3914,7 +3914,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -3935,7 +3935,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -3956,7 +3956,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -3977,7 +3977,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "東方アレンジ"
             ]
@@ -3998,7 +3998,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "東方アレンジ"
             ]
@@ -4019,7 +4019,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "東方アレンジ"
             ]
@@ -4040,7 +4040,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -4065,7 +4065,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "オリジナル"
             ]
@@ -4090,7 +4090,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "オリジナル"
             ]
@@ -4111,7 +4111,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "オリジナル"
             ]
@@ -4132,7 +4132,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C（オリジナル）"
             ]
@@ -4153,7 +4153,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C（オリジナル）"
             ]
@@ -4174,7 +4174,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C（オリジナル）"
             ]
@@ -4195,7 +4195,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -4216,7 +4216,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -4237,7 +4237,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -4258,7 +4258,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -4279,7 +4279,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -4300,7 +4300,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -4321,7 +4321,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -4342,7 +4342,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "2.5次元"
             ]
@@ -4363,7 +4363,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -4384,7 +4384,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -4405,7 +4405,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -4426,7 +4426,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -4447,7 +4447,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "オリジナル"
             ]
@@ -4472,7 +4472,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -4493,7 +4493,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "東方アレンジ"
             ]
@@ -4514,7 +4514,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "東方アレンジ"
             ]
@@ -4535,7 +4535,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "東方アレンジ"
             ]
@@ -4556,7 +4556,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -4577,7 +4577,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -4598,7 +4598,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -4619,7 +4619,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -4640,7 +4640,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -4665,7 +4665,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -4686,7 +4686,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -4707,7 +4707,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -4728,7 +4728,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -4749,7 +4749,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C（オリジナル）"
             ]
@@ -4770,7 +4770,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -4791,7 +4791,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -4812,7 +4812,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -4833,7 +4833,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -4854,7 +4854,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -4875,7 +4875,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -4896,7 +4896,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "オリジナル"
             ]
@@ -4917,7 +4917,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -4938,7 +4938,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -4959,7 +4959,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -4980,7 +4980,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C（オリジナル）"
             ]
@@ -5001,7 +5001,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "2.5次元"
             ]
@@ -5022,7 +5022,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -5043,7 +5043,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -5064,7 +5064,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -5085,7 +5085,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -5106,7 +5106,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -5127,7 +5127,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -5148,7 +5148,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -5169,7 +5169,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -5190,7 +5190,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "オリジナル"
             ]
@@ -5215,7 +5215,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "オリジナル"
             ]
@@ -5236,7 +5236,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C（オリジナル）"
             ]
@@ -5257,7 +5257,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C（オリジナル）"
             ]
@@ -5278,7 +5278,7 @@
                     "version": "LILY"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C（オリジナル）"
             ]
@@ -5299,7 +5299,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -5320,7 +5320,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -5341,7 +5341,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -5362,7 +5362,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -5383,7 +5383,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -5404,7 +5404,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -5425,7 +5425,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -5446,7 +5446,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -5467,7 +5467,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -5488,7 +5488,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "東方アレンジ"
             ]
@@ -5509,7 +5509,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -5530,7 +5530,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -5551,7 +5551,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "東方アレンジ"
             ]
@@ -5572,7 +5572,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -5593,7 +5593,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -5618,7 +5618,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -5639,7 +5639,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "オリジナル"
             ]
@@ -5660,7 +5660,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "オリジナル"
             ]
@@ -5681,7 +5681,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C（オリジナル）"
             ]
@@ -5702,7 +5702,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C（オリジナル）"
             ]
@@ -5723,7 +5723,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -5744,7 +5744,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -5765,7 +5765,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -5786,7 +5786,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -5807,7 +5807,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "東方アレンジ"
             ]
@@ -5828,7 +5828,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "東方アレンジ"
             ]
@@ -5849,7 +5849,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -5870,7 +5870,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -5891,7 +5891,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -5912,7 +5912,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -5933,7 +5933,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -5954,7 +5954,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -5975,7 +5975,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "東方アレンジ"
             ]
@@ -5996,7 +5996,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "東方アレンジ"
             ]
@@ -6017,7 +6017,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "東方アレンジ"
             ]
@@ -6038,7 +6038,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "東方アレンジ"
             ]
@@ -6059,7 +6059,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "東方アレンジ"
             ]
@@ -6084,7 +6084,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -6105,7 +6105,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -6126,7 +6126,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -6147,7 +6147,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -6168,7 +6168,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -6189,7 +6189,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -6210,7 +6210,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -6231,7 +6231,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -6252,7 +6252,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -6273,7 +6273,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -6294,7 +6294,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "オリジナル"
             ]
@@ -6319,7 +6319,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "オリジナル"
             ]
@@ -6340,7 +6340,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -6361,7 +6361,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -6382,7 +6382,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -6403,7 +6403,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C（オリジナル）"
             ]
@@ -6424,7 +6424,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "オリジナル"
             ]
@@ -6449,7 +6449,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C（オリジナル）"
             ]
@@ -6474,7 +6474,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C（オリジナル）"
             ]
@@ -6495,7 +6495,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -6516,7 +6516,7 @@
                     "version": "LILY R"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -6537,7 +6537,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -6558,7 +6558,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -6579,7 +6579,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -6600,7 +6600,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -6621,7 +6621,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -6642,7 +6642,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -6663,7 +6663,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -6688,7 +6688,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "オリジナル"
             ]
@@ -6713,7 +6713,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "オリジナル"
             ]
@@ -6734,7 +6734,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C（オリジナル）"
             ]
@@ -6755,7 +6755,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "オリジナル"
             ]
@@ -6776,7 +6776,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C（オリジナル）"
             ]
@@ -6797,7 +6797,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -6818,7 +6818,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -6839,7 +6839,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -6860,7 +6860,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -6881,7 +6881,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -6902,7 +6902,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -6927,7 +6927,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -6948,7 +6948,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "オリジナル"
             ]
@@ -6969,7 +6969,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "東方アレンジ"
             ]
@@ -6994,7 +6994,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -7015,7 +7015,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -7036,7 +7036,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -7057,7 +7057,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -7078,7 +7078,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -7099,7 +7099,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -7120,7 +7120,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -7141,7 +7141,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -7162,7 +7162,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -7183,7 +7183,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -7204,7 +7204,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -7225,7 +7225,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -7246,7 +7246,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -7267,7 +7267,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -7288,7 +7288,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -7309,7 +7309,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -7330,7 +7330,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -7351,7 +7351,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -7372,7 +7372,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -7393,7 +7393,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -7414,7 +7414,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -7435,7 +7435,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -7460,7 +7460,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C（オリジナル）"
             ]
@@ -7485,7 +7485,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C（オリジナル）"
             ]
@@ -7510,7 +7510,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C（オリジナル）"
             ]
@@ -7535,7 +7535,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C（オリジナル）"
             ]
@@ -7556,7 +7556,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -7577,7 +7577,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -7598,7 +7598,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -7619,7 +7619,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -7640,7 +7640,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -7661,7 +7661,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "オリジナル"
             ]
@@ -7682,7 +7682,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "東方アレンジ"
             ]
@@ -7703,7 +7703,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "東方アレンジ"
             ]
@@ -7728,7 +7728,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "オリジナル"
             ]
@@ -7749,7 +7749,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -7770,7 +7770,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -7791,7 +7791,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -7812,7 +7812,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -7837,7 +7837,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C（オリジナル）"
             ]
@@ -7858,7 +7858,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -7879,7 +7879,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -7900,7 +7900,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -7921,7 +7921,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -7946,7 +7946,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -7967,7 +7967,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -7988,7 +7988,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -8009,7 +8009,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -8030,7 +8030,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -8051,7 +8051,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -8072,7 +8072,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -8093,7 +8093,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -8114,7 +8114,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -8135,7 +8135,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -8156,7 +8156,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -8177,7 +8177,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -8198,7 +8198,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -8219,7 +8219,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -8240,7 +8240,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -8261,7 +8261,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -8286,7 +8286,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -8307,7 +8307,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -8328,7 +8328,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -8349,7 +8349,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -8370,7 +8370,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -8391,7 +8391,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -8416,7 +8416,7 @@
                     "version": "REVERSE"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "オリジナル"
             ]
@@ -8437,7 +8437,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -8458,7 +8458,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -8479,7 +8479,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -8500,7 +8500,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -8521,7 +8521,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -8542,7 +8542,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -8563,7 +8563,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -8588,7 +8588,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -8613,7 +8613,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -8638,7 +8638,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -8659,7 +8659,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -8680,7 +8680,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -8701,7 +8701,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -8722,7 +8722,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "東方アレンジ"
             ]
@@ -8743,7 +8743,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -8764,7 +8764,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -8785,7 +8785,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -8806,7 +8806,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -8831,7 +8831,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -8852,7 +8852,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -8873,7 +8873,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -8894,7 +8894,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "オリジナル"
             ]
@@ -8915,7 +8915,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -8940,7 +8940,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -8961,7 +8961,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -8982,7 +8982,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -9003,7 +9003,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -9028,7 +9028,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -9049,7 +9049,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -9070,7 +9070,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -9091,7 +9091,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -9116,7 +9116,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -9141,7 +9141,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -9166,7 +9166,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -9191,7 +9191,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "オリジナル"
             ]
@@ -9216,7 +9216,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "オリジナル"
             ]
@@ -9237,7 +9237,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -9258,7 +9258,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -9283,7 +9283,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -9304,7 +9304,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -9329,7 +9329,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -9350,7 +9350,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -9371,7 +9371,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -9392,7 +9392,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -9413,7 +9413,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -9434,7 +9434,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -9455,7 +9455,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "ボカロ"
             ]
@@ -9476,7 +9476,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -9497,7 +9497,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -9522,7 +9522,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -9543,7 +9543,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -9568,7 +9568,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -9593,7 +9593,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -9614,7 +9614,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -9635,7 +9635,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -9656,7 +9656,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -9681,7 +9681,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -9706,7 +9706,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -9727,7 +9727,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -9748,7 +9748,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -9769,7 +9769,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -9790,7 +9790,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -9811,7 +9811,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -9832,7 +9832,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -9853,7 +9853,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -9874,7 +9874,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -9899,7 +9899,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -9920,7 +9920,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -9941,7 +9941,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -9962,7 +9962,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -9983,7 +9983,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -10004,7 +10004,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -10029,7 +10029,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "オリジナル"
             ]
@@ -10050,7 +10050,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -10071,7 +10071,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -10092,7 +10092,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "バラエティ"
             ]
@@ -10113,7 +10113,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -10134,7 +10134,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C"
             ]
@@ -10159,7 +10159,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "オリジナル"
             ]
@@ -10180,7 +10180,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "東方アレンジ"
             ]
@@ -10201,7 +10201,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "東方アレンジ"
             ]
@@ -10222,7 +10222,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "東方アレンジ"
             ]
@@ -10243,7 +10243,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "東方アレンジ"
             ]
@@ -10264,7 +10264,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "東方アレンジ"
             ]
@@ -10285,7 +10285,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "東方アレンジ"
             ]
@@ -10306,7 +10306,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "東方アレンジ"
             ]
@@ -10331,7 +10331,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "東方アレンジ"
             ]
@@ -10352,7 +10352,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "東方アレンジ"
             ]
@@ -10377,7 +10377,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]
@@ -10398,7 +10398,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "TANO*C（オリジナル）"
             ]
@@ -10423,7 +10423,7 @@
                     "version": "PLUS"
                 }
             ],
-            "exclusivity": [],
+            "exclusivities": [],
             "categories": [
                 "アニメ／ＰＯＰ"
             ]

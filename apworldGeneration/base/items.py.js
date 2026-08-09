@@ -12,6 +12,7 @@ class SongData(NamedTuple):
 	title: str
 	sheets: List[DifficultyData]
 	categories: List[str]
+	exclusivities: List[str]
 
 class rgSongItem(Item):
 	game: str = "${game}"

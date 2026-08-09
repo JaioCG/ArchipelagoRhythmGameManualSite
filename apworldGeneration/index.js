@@ -49,9 +49,9 @@ function makeApworld() {
 	fs.writeFileSync(`${folderName}/archipelago.json`, archipelagojson(file.gameName));
 	fs.writeFileSync(`${folderName}/items.py`, itemspy(file.gameName));
 	fs.writeFileSync(`${folderName}/locations.py`, locationspy(file.gameName));
-	fs.writeFileSync(`${folderName}/options.py`, optionspy(file.difficulties, file.diffFloor, file.diffCeiling));
-	fs.writeFileSync(`${folderName}/rgCollections.py`, rgCollectionspy(file.sheetName, file.fillerItems, file.difficulties));
-	fs.writeFileSync(`${folderName}/SongData.py`, songdatapy(file.songs));
+	fs.writeFileSync(`${folderName}/options.py`, optionspy(file.difficulties, file.useTenths, file.diffFloor, file.diffCeiling));
+	fs.writeFileSync(`${folderName}/rgCollections.py`, rgCollectionspy(file.sheetName, file.fillerItems, file.difficulties, file.useTenths));
+	fs.writeFileSync(`${folderName}/SongData.py`, songdatapy(file.songs, file.difficulties));
 
 	// Zip and create apworld
 	const zip = new AdmZip();
