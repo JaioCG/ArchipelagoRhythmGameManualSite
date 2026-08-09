@@ -1,4 +1,4 @@
-import { elementFromHTML, sortTable, formatDifficulties } from "./utils.js";
+import { elementFromHTML, sortTable, formatDifficulties, formatVersions } from "./utils.js";
 import { Client } from "https://unpkg.com/archipelago.js/dist/archipelago.min.js";
 const client = new Client();
 let slotData = null;
@@ -48,9 +48,9 @@ export async function attemptConnect() {
 			sendLocation(slotData.victoryLocation);
 		});
 		if (gameData != null) {
-			document.getElementById('goal-difficulty').innerHTML = formatDifficulties(gameData.songs[slotData.victoryLocation], gameData.diffColors);
-			document.getElementById('goal-category').textContent = gameData.songs[slotData.victoryLocation].category;
-			document.getElementById('goal-version').textContent = gameData.songs[slotData.victoryLocation].version;
+			document.getElementById('goal-difficulty').innerHTML = formatDifficulties(gameData.songs.find(item => item.title == slotData.victoryLocation), gameData.diffColors);
+			document.getElementById('goal-category').textContent = gameData.songs.find(item => item.title == slotData.victoryLocation).categories.join(', ');
+			document.getElementById('goal-version').textContent = formatVersions(gameData.songs.find(item => item.title == slotData.victoryLocation));
 		}
 
 
@@ -65,9 +65,9 @@ export async function attemptConnect() {
 						<tr data-row="${song}">
 							<th scope="row">
 								<button ${!unlockedSongs.includes(song) ? 'disabled' : ''}>${song}</button>
-								<td>${formatDifficulties(gameData.songs[song], gameData.diffColors)}</td>
-								<td>${gameData.songs[song].category}</td>
-								<td>${gameData.songs[song].version}</td>
+								<td>${formatDifficulties(gameData.songs.find(item => item.title == song), gameData.diffColors)}</td>
+								<td>${gameData.songs.find(item => item.title == song).categories.join(', ')}</td>
+								<td>${formatVersions(gameData.songs.find(item => item.title == song))}</td>
 							</th>
 						</tr>
 					`);

@@ -24,12 +24,16 @@ export function sortTable(table) {
 export function formatDifficulties(song, colors) {
 	let html = ''
 
-	song.difficulties.forEach((diff, index) => {
-		if (diff != null) {
-			const color = colors[index] || '#FFFFFF'; // Default to white if no color is specified
-			html += `<span style="color: ${color};">${diff}</span>, `;
-		}
+	song.sheets.forEach((sheet, index) => {
+		const color = colors[index] || '#FFFFFF'; // Default to white if no color is specified
+		html += `<span style="color: ${color};">${sheet.difficulty}</span>, `;
 	});
 	
 	return html.slice(0, -2); // Remove the last comma and space
+}
+
+
+export function formatVersions(song) {
+	let versions = [...new Set(song.sheets.map(sheet => sheet.version))];
+	return versions.join(', ');
 }

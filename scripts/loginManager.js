@@ -1,7 +1,7 @@
 import { attemptConnect, getGameData } from "./archipelagoClient.js";
 
 
-// Load saved info on page load, if any
+// Load saved values, if any exist
 window.addEventListener('DOMContentLoaded', () => {
 	if (sessionStorage.getItem('server')) {
 		document.getElementsByName('server')[0].value = sessionStorage.getItem('server');
