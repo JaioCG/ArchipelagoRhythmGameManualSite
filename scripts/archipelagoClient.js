@@ -1,4 +1,4 @@
-import { elementFromHTML, sortTable, formatDifficulties, formatVersions } from "./utils.js";
+import { elementFromHTML, sortTable, formatDifficulties, formatVersions, hasVersions, hasCategories } from "./utils.js";
 import { Client } from "https://unpkg.com/archipelago.js/dist/archipelago.min.js";
 const client = new Client();
 let slotData = null;
@@ -49,8 +49,8 @@ export async function attemptConnect() {
 		});
 		if (gameData != null) {
 			document.getElementById('goal-difficulty').innerHTML = formatDifficulties(gameData.songs.find(item => item.title == slotData.victoryLocation), gameData.diffColors);
-			document.getElementById('goal-category').textContent = gameData.songs.find(item => item.title == slotData.victoryLocation).categories.join(', ');
-			document.getElementById('goal-version').textContent = formatVersions(gameData.songs.find(item => item.title == slotData.victoryLocation));
+			document.getElementById('goal-category').textContent = hasCategories(gameData.songs.find(item => item.title == slotData.victoryLocation)) ? gameData.songs.find(item => item.title == slotData.victoryLocation).categories.join(', ') : 'None';
+			document.getElementById('goal-version').textContent = hasVersions(gameData.songs.find(item => item.title == slotData.victoryLocation)) ? formatVersions(gameData.songs.find(item => item.title == slotData.victoryLocation)) : 'None';
 		}
 
 
@@ -66,8 +66,8 @@ export async function attemptConnect() {
 							<th scope="row">
 								<button ${!unlockedSongs.includes(song) ? 'disabled' : ''}>${song}</button>
 								<td>${formatDifficulties(gameData.songs.find(item => item.title == song), gameData.diffColors)}</td>
-								<td>${gameData.songs.find(item => item.title == song).categories.join(', ')}</td>
-								<td>${formatVersions(gameData.songs.find(item => item.title == song))}</td>
+								<td>${hasCategories(gameData.songs.find(item => item.title == song)) ? gameData.songs.find(item => item.title == song).categories.join(', ') : 'None'}</td>
+								<td>${hasVersions(gameData.songs.find(item => item.title == song)) ? formatVersions(gameData.songs.find(item => item.title == song)) : 'None'}</td>
 							</th>
 						</tr>
 					`);

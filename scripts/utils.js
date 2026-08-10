@@ -37,3 +37,12 @@ export function formatVersions(song) {
 	let versions = [...new Set(song.sheets.map(sheet => sheet.version))];
 	return versions.join(', ');
 }
+
+
+export function hasVersions(song) {
+	return song.sheets.some(sheet => sheet.version);
+}
+
+export function hasCategories(song) {
+	return song.categories && song.categories.length > 0;
+}
