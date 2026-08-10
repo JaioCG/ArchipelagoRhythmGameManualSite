@@ -1,0 +1,10453 @@
+{
+    "gameName": "WACCA",
+    "sheetName": "Reverse Point",
+    "fillerItems": [
+        "Marvelous",
+        "Missless"
+    ],
+    "difficulties": [
+        {
+            "name": "Normal",
+            "color": "#14A0E4"
+        },
+        {
+            "name": "Hard",
+            "color": "#FDCF43"
+        },
+        {
+            "name": "Expert",
+            "color": "#F600A0"
+        },
+        {
+            "name": "Inferno",
+            "color": "#8E7CC3"
+        }
+    ],
+	"useTenths": true,
+    "diffFloor": 1.0,
+    "diffCeiling": 15.1,
+    "songs": [
+		{
+			"title": "Rainbow Dream",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 8.7,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 11.4,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C（オリジナル）"
+			]
+		},
+		{
+			"title": "Knight Rider",
+			"sheets": [
+				{
+					"difficulty": 6,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 10.9,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 13.3,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C（オリジナル）"
+			]
+		},
+		{
+			"title": "Poseidon",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 9.9,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 13.8,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C（オリジナル）"
+			]
+		},
+		{
+			"title": "PARALLEL★PRISM",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 7.7,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 10.8,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 13.7,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C（オリジナル）"
+			]
+		},
+		{
+			"title": "千本桜 | Senbonzakura",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 7.9,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 10.4,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "シュガーソングとビターステップ | Sugar Song and Bitter Step",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 7,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 10.4,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [
+				"Online"
+			],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "ピースサイン | Peace Sign",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 6.9,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 9.8,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [
+				"Online"
+			],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "Singin'☆Shine！",
+			"sheets": [
+				{
+					"difficulty": 1,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 5.3,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 9.6,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [
+				"Online"
+			],
+			"categories": [
+				"2.5次元"
+			]
+		},
+		{
+			"title": "MEMORiZE",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 8.1,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 10,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "illanai-assorted",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 8.9,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 12.9,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "ファティマ | Fatima",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 6.8,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 9.5,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "Soldiers",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 8.8,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 11.9,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "Fight for the CORE feat. Daisuke",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 10.7,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 12.6,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "回レ！雪月花 | Maware! Setsugekka",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 8,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 11,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 13.8,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "エイリアンエイリアン | Alien Alien",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 6.7,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 10.5,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "砂の惑星 feat. 初音ミク | Sand Planet feat. Hatsune Miku",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 8.7,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 10.5,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "マトリョシカ | Matryoshka",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 8.2,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 10.4,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 13.8,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "Let you DIVE!",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 9.7,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 11.8,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 13.4,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"オリジナル"
+			]
+		},
+		{
+			"title": "かくしん的☆めたまるふぉ～ぜっ! | Kakushinteki☆Metamorphose!",
+			"sheets": [
+				{
+					"difficulty": 1,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 5.2,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 9.5,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [
+				"Online"
+			],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "徒花ネクロマンシー | Adabana Necromancy",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 6.9,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 9.7,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "POP TEAM EPIC",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 7.8,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 11.4,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "ようこそジャパリパークへ | Welcome to Japari Park",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 7.6,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 10.7,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "ロキ | ROKI",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 9.4,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 11.6,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "ウマーベラス | Umarvelous",
+			"sheets": [
+				{
+					"difficulty": 1,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 6.8,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 9.8,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "ギミチョコ!! | Gimme Chocolate!!",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 10.3,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 12.9,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "ウミユリ海底譚 | Umiyuri Kaiteitan",
+			"sheets": [
+				{
+					"difficulty": 1,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 7.1,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 10.2,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 12.9,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "Seyana. ～何でも言うことを聞いてくれるアカネチャン～ | Seyana.~nandemo iu koto wo kiite kureru Akane-chan~",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 9.3,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 11.7,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "フラジール | Fragile",
+			"sheets": [
+				{
+					"difficulty": 1,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 7,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 10.3,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "EZ DO DANCE -K.O.P. REMIX-",
+			"sheets": [
+				{
+					"difficulty": 1,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 6,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 9.1,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [
+				"Online"
+			],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "ルーンファクトリー４スペシャルより「この想いを乗せて」 | Rune Factory 4 Special 'Kono Omoi wo Nosete'",
+			"sheets": [
+				{
+					"difficulty": 1,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 5.6,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 9,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "LEVATEiN feat. 野宮あゆみ | LEVATEiN feat. Ayumi Nomiya",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 9.1,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 12.5,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C（オリジナル）"
+			]
+		},
+		{
+			"title": "BIG HEAD BANGING",
+			"sheets": [
+				{
+					"difficulty": 6,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 11,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 13.8,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C（オリジナル）"
+			]
+		},
+		{
+			"title": "Quon",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 10.6,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 12.8,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 13.9,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C（オリジナル）"
+			]
+		},
+		{
+			"title": "HELL FLAME",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 10.4,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 12.7,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 13.9,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C（オリジナル）"
+			]
+		},
+		{
+			"title": "Gate One",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 9.5,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 12,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C（オリジナル）"
+			]
+		},
+		{
+			"title": "Are You Ready",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 10.1,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 12.5,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C（オリジナル）"
+			]
+		},
+		{
+			"title": "Over My Hand",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 9.2,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 11.1,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C（オリジナル）"
+			]
+		},
+		{
+			"title": "Sunshine",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 8.2,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 11.3,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "Try again",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 8.8,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 10.6,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "Ever Free(Raw Edit)",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 8.3,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 10.1,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "BOOM! BOOM!! BOOM!!!",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 10.6,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 12.3,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "BLUE SKY feat. 野宮あゆみ | BLUE SKY feat. Ayumi Nomiya",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 7.6,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 10.4,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "Sound Chimera",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 10.8,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 12.8,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 13.9,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "Nameless Story",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 7.5,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 10.3,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "TOMORROW",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 8,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 10.4,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "五等分の気持ち | Gotoubun no Kimochi",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 6.1,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 9.9,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "ゲームオーバー (feat. TORIENA) | Game Over (feat. TORIENA)",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 7.7,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 11.7,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "ファッとして桃源郷 | Fattoshite Tougenkyou",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 9.3,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 12,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "乙女解剖 | Otome Kaibou",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 7.3,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 9.2,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "スクランブル交際 | Scramble Kousai",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 8.4,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 11,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "Shining Harmony",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 9.6,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 12.2,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "Jingle",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 9.7,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 11.3,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "GRiDGALAXY",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 8.3,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 11.5,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 13.3,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "conflict",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 10.3,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 13.4,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "BATTLE NO.1",
+			"sheets": [
+				{
+					"difficulty": 6,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 10.5,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 13.7,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 14.3,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "こんにちは、ARuFaです。 | Hello, I am ARuFa.",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 7.5,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 10.4,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "ぼくの夢、メチャクソ無限湧き | My dreams were totally crushed!",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 9.6,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 12.6,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 13.8,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "EXCITE",
+			"sheets": [
+				{
+					"difficulty": 1,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 6.5,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 10,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "Exitium",
+			"sheets": [
+				{
+					"difficulty": 6,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 11,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 14.2,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C（オリジナル）"
+			]
+		},
+		{
+			"title": "Blaze",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 8.7,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 11.7,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "幸せになれる隠しコマンドがあるらしい | Shiawase ni Nareru Kakushi Command ga Arurashii",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 10.5,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 13.3,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 0,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "ATARAX1A",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 8.6,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 12.5,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 13.7,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C（オリジナル）"
+			]
+		},
+		{
+			"title": "13 Donkeys",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 8.4,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 12.2,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C（オリジナル）"
+			]
+		},
+		{
+			"title": "ADAM",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 10.2,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 13.4,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C（オリジナル）"
+			]
+		},
+		{
+			"title": "HiGHER",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 8.5,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 12.2,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 13.7,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "Source of Creation",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 8.1,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 11.3,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "気まぐれメルシィ feat. 初音ミク | Kimagure Mercy feat. Hatsune Miku",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 7.4,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 10.5,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "太陽系デスコ | Solar System Disco",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 7.4,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 10.7,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "アカリがやってきたぞっ | Akari ga Yatte Kita zo",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 8.5,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 11.2,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "Akareram",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 8.5,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 11.7,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "Galaxy Friends",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 8.9,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 12.7,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 13.9,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "Bad Apple!! feat. nomico",
+			"sheets": [
+				{
+					"difficulty": 1,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 5.5,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 9.3,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 12.5,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"東方アレンジ"
+			]
+		},
+		{
+			"title": "ナイト・オブ・ナイツ | Night of Nights",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 9,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 12,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"東方アレンジ"
+			]
+		},
+		{
+			"title": "WARNING×WARNING×WARNING",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 7.7,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 11.5,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"東方アレンジ"
+			]
+		},
+		{
+			"title": "Raise Your Heart!!",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 7.4,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 10.6,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "SHINY DAYS",
+			"sheets": [
+				{
+					"difficulty": 1,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 5.2,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 9,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "集結の華々 | Shuuketsu no Panapana",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 6.3,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 10.9,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "チルノのパーフェクトさんすう教室 | Cirno's Perfect Math Class",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 9.2,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 11.5,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"東方アレンジ"
+			]
+		},
+		{
+			"title": "taboo tears you up 2017",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 9.8,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 12.4,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"東方アレンジ"
+			]
+		},
+		{
+			"title": "待チ人ハ来ズ。 | Machibitohakozu.",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 6.4,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 10.5,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"東方アレンジ"
+			]
+		},
+		{
+			"title": "Chariot",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 8.6,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 12.4,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 13.8,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C（オリジナル）"
+			]
+		},
+		{
+			"title": "The Light",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 7.8,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 12.1,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "AIAIAI (feat. 中田ヤスタカ) | AIAIAI (feat. Yasutaka Nakata)",
+			"sheets": [
+				{
+					"difficulty": 1,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 6.4,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 9.4,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "Hello, Morning",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 7.1,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 11.2,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "ただ君に晴れ | Just a Sunny Day for You",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 7,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 9.6,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "VOX Diamond",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 7.9,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 12.6,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "残酷な天使のテーゼ | Cruel Angel's Thesis",
+			"sheets": [
+				{
+					"difficulty": 1,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 5.3,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 9.3,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "Pixel Galaxy",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 7.2,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 10.8,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "Utopia feat. shully",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 9.4,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 12.6,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 13.7,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"オリジナル"
+			]
+		},
+		{
+			"title": "You Only Live Once",
+			"sheets": [
+				{
+					"difficulty": 1,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 5.4,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 9.1,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "にめんせい☆ウラオモテライフ! | Nimensei☆Uraomote Life!",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 7.8,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 10.5,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [
+				"Online"
+			],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "劣等上等 | Rettou Joutou",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 8,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 11.9,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 13.7,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "Stratoliner",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 9.8,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 12.8,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 13.8,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"オリジナル"
+			]
+		},
+		{
+			"title": "Honey Panic!",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 9.4,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 12.1,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "初音ミクの消失 | Hatsune Miku no Shoushitsu",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 10.6,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 13.8,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "Invisible Frenzy",
+			"sheets": [
+				{
+					"difficulty": 7,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 11,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 14.2,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C（オリジナル）"
+			]
+		},
+		{
+			"title": "FREEDOM DiVE↓",
+			"sheets": [
+				{
+					"difficulty": 6,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 10.9,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 13.9,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "Jägermeister",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 8.8,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 11.2,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "『エキセントリック少年ボウイ』のテーマ | 'Eccentric Shounen Boy All Stars' Theme",
+			"sheets": [
+				{
+					"difficulty": 1,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 5.7,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 12.6,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "What's this?",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 6.3,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 10.2,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "JINGLE DEATH",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 10.4,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 13.2,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C（オリジナル）"
+			]
+		},
+		{
+			"title": "Over the sweat and tears",
+			"sheets": [
+				{
+					"difficulty": 1,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 5.6,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 9.4,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"2.5次元"
+			]
+		},
+		{
+			"title": "jacaranda",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 9.3,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 12.7,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"オリジナル"
+			]
+		},
+		{
+			"title": "CHECKER FLAG",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 7.2,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 12.9,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"オリジナル"
+			]
+		},
+		{
+			"title": "BLVST BEVT",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 10,
+					"version": "WACCA"
+				},
+				{
+					"difficulty": 12.6,
+					"version": "WACCA"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "only my railgun",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 6.7,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 9.5,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "ゴーストルール | Ghost Rule",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 9,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 11.6,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "Shiny Memory feat.Yukacco",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 9.8,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 12.5,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "オドループ | oddloop",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 7.9,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 10.4,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "燐廻 | Phosphorus",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 7.7,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 11.1,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "ロストワンの号哭 | Lost One's Weeping",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 8.3,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 12.2,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "いーあるふぁんくらぶ | Ii Aru Fanclub",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 6.5,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 10,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "悪戯センセーション | Mischievous Sensation",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 8.6,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 12.3,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"東方アレンジ"
+			]
+		},
+		{
+			"title": "Mami Mami Zone",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 9.2,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 11.4,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"東方アレンジ"
+			]
+		},
+		{
+			"title": "Demon's Rave",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 10,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 12.8,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"オリジナル"
+			]
+		},
+		{
+			"title": "Murasaki",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 7.5,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 12.4,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C（オリジナル）"
+			]
+		},
+		{
+			"title": "Mazy Metroplex",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 10.8,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 13.7,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C（オリジナル）"
+			]
+		},
+		{
+			"title": "ドラマツルギー | Dramaturgy",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 7.4,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 10.1,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "ナイト・オブ・ナイツ (かめりあ’s“ワンス・アポン・ア・ナイト”Remix) | Night of Nights (Carmelia's 'Once Upon a Night' Remix)",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 10.5,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 13.1,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"東方アレンジ"
+			]
+		},
+		{
+			"title": "†DOOF†SENC†",
+			"sheets": [
+				{
+					"difficulty": 6,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 10.4,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 13.6,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "LOSE CONTROL",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 8.1,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 11.3,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "ベースラインやってる？笑 | Can I Friend You on Bassbook? LOL",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 9.9,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 12.2,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "EU over Progress",
+			"sheets": [
+				{
+					"difficulty": 6,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 10.7,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 12.7,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "シャルル | Charles",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 7.1,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 10.3,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "Shiny Smily Story",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 6.5,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 10.4,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "Dream☆Story",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 7.5,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 11.2,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "without U",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 7.2,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 10.2,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "新宝島 | Shin Takarajima",
+			"sheets": [
+				{
+					"difficulty": 1,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 6.3,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 9.4,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "U.S.A.",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 7.1,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 10.2,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "セツナトリップ | Setsuna Trip",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 9,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 12.1,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "カゲロウデイズ | Kagerou Daze",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 9.5,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 11.3,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "天ノ弱 | Amanojaku",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 7.3,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 10.1,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "ケロ⑨Destiny | Kero ⑨ Destiny",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 6.2,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 11.7,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"東方アレンジ"
+			]
+		},
+		{
+			"title": "LOVE EAST",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 7.3,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 11,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"東方アレンジ"
+			]
+		},
+		{
+			"title": "天狗の落とし文 feat. ytr | Tengu no Otoshibumi feat. ytr",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 8.2,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 12.1,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"東方アレンジ"
+			]
+		},
+		{
+			"title": "神寂 | Kamisabi",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 10.8,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 13.5,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"東方アレンジ"
+			]
+		},
+		{
+			"title": "風に乗せた願い | Kaze ni Noseta Omoi",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 7.1,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 10.3,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"東方アレンジ"
+			]
+		},
+		{
+			"title": "GASHATT",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 10.1,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 12.4,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"オリジナル"
+			]
+		},
+		{
+			"title": "Strange Bar",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 10.2,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 12.8,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "輪廻転生 | Reincarnation",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 9.2,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 12.3,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "ストライク・ザ・ブラッド | Strike the Blood",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 8.7,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 11.7,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "Eyes on me feat. Such",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 7.7,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 12.4,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "GOODWORLD",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 9.1,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 12.6,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "Altale",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 9.3,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 12.3,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "君のStarlight Road | Kimi no Starlight Road",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 8.2,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 10.3,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "FUJIN Rumble",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 10.8,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 13.6,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "聖者の鼓動 | A Saint of Heartbeat",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 7.6,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 12.4,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "BUCHiGiRE Berserker",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 10.9,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 13.9,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "Brain Power",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 9.7,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 13,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "Ultra Red",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 9.6,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 12.8,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "サイクルヒット | Cycle Hit",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 10.5,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 13.5,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "ガンガン・ドンドン | GANGAN DONDON",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 6,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 9.7,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"2.5次元"
+			]
+		},
+		{
+			"title": "スマイル・アンド・ティアズ | Smile and Tears",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 6.1,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 9.5,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"2.5次元"
+			]
+		},
+		{
+			"title": "STILL HOT IN MY HEART",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 7.3,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 10.3,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"2.5次元"
+			]
+		},
+		{
+			"title": "ぼなぺてぃーと♡S | Bon Appétit♡S",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 7.7,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 11.5,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "デタラメなマイナスとプラスにおけるブレンド考 | Detarame na Minus to Plus ni Okeru Blend Ko",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 5.7,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 10,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "リアル初音ミクの消失 | Real Hatsune Miku no Shoushitsu",
+			"sheets": [
+				{
+					"difficulty": 6,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 10.2,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 13.7,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "チュルリラ・チュルリラ・ダッダッダ！ | Chururira Chururira Daddadda!",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 8.3,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 12.4,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "おばけのウケねらい | Ghosts Play to the Audience",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 8,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 11.7,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "ベノム | Venom",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 7.5,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 12.1,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "Metamorphose",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 10.3,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 12.7,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 13.9,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C（オリジナル）"
+			]
+		},
+		{
+			"title": "MAGiC4LG1RL M3GA S7R1KE!",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 10,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 13.1,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C（オリジナル）"
+			]
+		},
+		{
+			"title": "METEOR BURST",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 10.9,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 13.8,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C（オリジナル）"
+			]
+		},
+		{
+			"title": "XTREME",
+			"sheets": [
+				{
+					"difficulty": 6,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 11,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 12.9,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 14,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C（オリジナル）"
+			]
+		},
+		{
+			"title": "天使光輪 | Angel Halo",
+			"sheets": [
+				{
+					"difficulty": 7,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 11,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 13.2,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 14.1,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C（オリジナル）"
+			]
+		},
+		{
+			"title": "ツアー・ファイナル | Tour Final",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 9.4,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 12.3,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "青空のラプソディ | Aozora no Rhapsody",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 6.8,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 9.3,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 11,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "ダダダダ天使 | Dadadada Tenshi",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 7.8,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 12,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "Bravely You",
+			"sheets": [
+				{
+					"difficulty": 1,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 6.5,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 9.5,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "ダンシング☆サムライ | Dancing☆Samurai",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 7.7,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 10.5,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "WHITE",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 8,
+					"version": "WACCA S"
+				},
+				{
+					"difficulty": 10.5,
+					"version": "WACCA S"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "HOT LIMIT",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 7.9,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 10,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "ないものねだり | NAIMONONEDARI",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 7.7,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 11.1,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "While Shining feat.Yukacco",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 8.6,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 12.3,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "ブリキノダンス | Buriki no Dance",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 7.9,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 12.3,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "LETHAL;WEAPON",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 8,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 12.9,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 13.9,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"オリジナル"
+			]
+		},
+		{
+			"title": "RAGE OF DUST",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 8.4,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 9.6,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "秒針を噛む | Bite the Second Hand",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 6.8,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 11,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "ガヴリールドロップキック | Gabriel Dropkick",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 6.9,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 11,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "This game",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 7.6,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 10.7,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "ポジティブ☆ダンスタイム | Positive☆Dance Time",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 8.9,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 11.6,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "Gimme×Gimme feat. 初音ミク・鏡音リン | Gimme×Gimme feat. Hatsune Miku/Kagamine Rin",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 8.1,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 12,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "39みゅーじっく！ | 39 Music!",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 7.4,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 10.9,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "ゆけむり魂温泉 II | Yukemuri TamaOnSen II",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 7.5,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 12,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"東方アレンジ"
+			]
+		},
+		{
+			"title": "明星ロケット | Akeboshi Rocket",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 7.5,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 11.7,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"東方アレンジ"
+			]
+		},
+		{
+			"title": "Calamity Fortune",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 10,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 13.7,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"東方アレンジ"
+			]
+		},
+		{
+			"title": "インドア系ならトラックメイカー | Indoor Kei Nara Trackmaker",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 7.5,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 12.9,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "with U",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 7.9,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 11.8,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 13.6,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"オリジナル"
+			]
+		},
+		{
+			"title": "Tell Me",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 7.9,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 11.8,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 13.9,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"オリジナル"
+			]
+		},
+		{
+			"title": "THE MUZZLE FACING",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 9.8,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 13.8,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"オリジナル"
+			]
+		},
+		{
+			"title": "SUPER REACTOR",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 8.2,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 13,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C（オリジナル）"
+			]
+		},
+		{
+			"title": "ONOMATO Pairing!!!",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 8.5,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 12.4,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C（オリジナル）"
+			]
+		},
+		{
+			"title": "GENOCIDER",
+			"sheets": [
+				{
+					"difficulty": 6,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 11,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 14.1,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C（オリジナル）"
+			]
+		},
+		{
+			"title": "ALiVE",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 7.8,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 11,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "キラメキライダー☆ | Kirameki Rider ☆",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 7,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 11.5,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "キラッとスタート (USAO Remix) | Kiratto Start (USAO Remix)",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 8.2,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 12.5,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "Make it！ (DJ Genki Remix)",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 7.8,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 11.6,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "ハート♥イロ♥トリドリ〜ム | Heart♥Iro♥Tridream",
+			"sheets": [
+				{
+					"difficulty": 1,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 6,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 10.1,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "Make it！",
+			"sheets": [
+				{
+					"difficulty": 1,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 5.1,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 9.4,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "キラッとスタート | Kiratto Start",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 7.4,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 10.2,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "ニュー・ウェーブ | New Wave",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 6.1,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 9.3,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"2.5次元"
+			]
+		},
+		{
+			"title": "アスノヨゾラ哨戒班 | Night Sky Patrol of Tomorrow",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 7.6,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 11.9,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "ヒビカセ | Hibikase",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 8.4,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 12.3,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "脳漿炸裂ガール | Noushou Sakuretsu Girl",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 9.5,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 13.5,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "Grayed Out-Antifront-",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 9.6,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 13.2,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "ARTEMiS",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 10.6,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 13.9,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"オリジナル"
+			]
+		},
+		{
+			"title": "Poppin' Shower",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 9.8,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 12.5,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 13.5,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "進捗どうですか？ | How is the Progress Going!?",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 8.6,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 12.5,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"東方アレンジ"
+			]
+		},
+		{
+			"title": "Sweet Requiem",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 9.2,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 12.7,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"東方アレンジ"
+			]
+		},
+		{
+			"title": "Help me, ERINNNNNN!!",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 7.7,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 11.6,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"東方アレンジ"
+			]
+		},
+		{
+			"title": "HELLO to DREAM",
+			"sheets": [
+				{
+					"difficulty": 1,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 6.5,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 9.7,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "over and over",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 7.5,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 10.4,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "トロピカッ☆バケーション | Tropica☆Vacation",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 7.5,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 10.7,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "お願いマッスル | Onegai Muscle",
+			"sheets": [
+				{
+					"difficulty": 1,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 7.7,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 10.7,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "マッチョアネーム？ | Macho Man?",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 6.6,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 12.7,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "ぺこみこ大戦争！！ | Pekomiko Great War!!",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 8.4,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 11.2,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 13.2,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "Say!ファンファーレ! | Say! Fanfare!",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 8.6,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 12.5,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "夢見る空へ | Yumemiru Sora He",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 7.7,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 11.3,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "NEXT COLOR PLANET",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 7.5,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 12.6,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "パニックポップ☆フェスティバル!!! | PanicPop☆Festival!!!",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 10,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 13.3,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C（オリジナル）"
+			]
+		},
+		{
+			"title": "Stasis feat.motoko -WACCA EDiT-",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 7.9,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 12.7,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "RAV#GIRL",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 7.8,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 12.6,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "KALACAKLA",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 8,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 12.7,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "Good Night, Bad Luck.",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 10.7,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 13.7,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "Got more raves?",
+			"sheets": [
+				{
+					"difficulty": 6,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 10.9,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 13.5,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "グルーヴ・ザ・ハート | Groove The Heart",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 8.5,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 12.5,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "QiXiN MAdN3ss 2153",
+			"sheets": [
+				{
+					"difficulty": 6,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 11,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 13.9,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"オリジナル"
+			]
+		},
+		{
+			"title": "恋メタル | Koi Metal",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 8.8,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 12.7,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "Fish Fight!",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 9,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 11.6,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "THERAPY",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 9.1,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 12.7,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "はげしこの夜 -Psylent Crazy Night- | Hageshi Kono Yoru -Psylent Crazy Night-",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 8.8,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 13.7,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C（オリジナル）"
+			]
+		},
+		{
+			"title": "シャカリキ・ファイト・ブンブン | Shakariki Fight Boom-Boom",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 6.7,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 11.7,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"2.5次元"
+			]
+		},
+		{
+			"title": "進捗どうですか！ | How is the Progress Going!?",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 7.3,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 12.8,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "ワールドイズマイン | World is Mine",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 8.3,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 11.6,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "ぼくらの16bit戦争 | Our 16bit Wars",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 9.1,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 13.4,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "隔絶≡タナトス | Kakuzetsu ≡ Thanatos",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 8.5,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 13.5,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "From Zero feat. 利香 | From Zero feat. Rika",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 7.7,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 11.8,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "PRESS START!",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 8.7,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 12.7,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "TWISTSTEP",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 8.8,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 12.7,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "Future Cαndy",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 9.1,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 12.7,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "猫娘 | Neko Musume",
+			"sheets": [
+				{
+					"difficulty": 6,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 10.6,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 13.7,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"オリジナル"
+			]
+		},
+		{
+			"title": "フリーフォール | Freefall",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 8.8,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 12.7,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 13.8,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"オリジナル"
+			]
+		},
+		{
+			"title": "Liberate",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 9.5,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 13.1,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C（オリジナル）"
+			]
+		},
+		{
+			"title": "Animosity",
+			"sheets": [
+				{
+					"difficulty": 6,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 10.9,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 13.8,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C（オリジナル）"
+			]
+		},
+		{
+			"title": "Big Bang",
+			"sheets": [
+				{
+					"difficulty": 7,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 11,
+					"version": "LILY"
+				},
+				{
+					"difficulty": 14.2,
+					"version": "LILY"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C（オリジナル）"
+			]
+		},
+		{
+			"title": "六兆年と一夜物語 | Rokuchonen to Ichiya Monogatari",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 8.9,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 12.5,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "サクリファイス | Sacrifice",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 9.1,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 12.2,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "進捗WARS feat．ビートまりお | Shinchoku WARS feat. Beat Mario",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 7,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 11.5,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "sister's noise",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 6,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 10.1,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "Weg",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 8.6,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 12.3,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "Apocalypse",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 7.6,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 12.4,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "Rainmaker",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 9.9,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 13.5,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "You are the Miserable",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 10,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 13.9,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "Stasis",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 10.2,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 13.6,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "ホイホイ☆幻想ホロイズム | HOI-HOI☆Illusory Holoism",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 7.7,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 12.7,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"東方アレンジ"
+			]
+		},
+		{
+			"title": "なだめスかし Negotiation",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 7.7,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 11.9,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "非実在系女子たちはどうすりゃいいですか？ | What Should I Do for Non-Existent Girls?",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 8.5,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 12.6,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "Scream out!",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 8.1,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 12.8,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"東方アレンジ"
+			]
+		},
+		{
+			"title": "MAGENTA POTION",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 8.1,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 12.6,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "Megaton Killer",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 10,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 13.6,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "ATAMA WARUI",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 9.1,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 12.9,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 14.2,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "LIN NE KRO NE feat. lasah",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 9,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 13.7,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"オリジナル"
+			]
+		},
+		{
+			"title": "Lhaksha",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 9.6,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 12.5,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"オリジナル"
+			]
+		},
+		{
+			"title": "SHAKE!",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 9.5,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 12.7,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C（オリジナル）"
+			]
+		},
+		{
+			"title": "DUAL BREAKER XX",
+			"sheets": [
+				{
+					"difficulty": 6,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 10.8,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 13.8,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C（オリジナル）"
+			]
+		},
+		{
+			"title": "テレキャスタービーボーイ | Telecaster B-Boy",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 8.9,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 11.9,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "バレリーコ | Barerii Ko",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 8.2,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 11.6,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "フィクサー | Fixer",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 7.3,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 12.9,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "だれかの心臓になれたなら | Darekano Shinzou ni Naretanara",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 7.8,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 12.1,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "患部で止まってすぐ溶ける ～ 狂気の優曇華院 | Kanbu de Tomatte Sugu Tokeru - Kyouki no Udongein",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 9.8,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 13.2,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"東方アレンジ"
+			]
+		},
+		{
+			"title": "物凄い勢いでけーねが物凄いうた | Monosugoi Ikioi de Keine ga Monosugoi Uta",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 9.9,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 12.2,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"東方アレンジ"
+			]
+		},
+		{
+			"title": "PUPA",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 8.6,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 13.7,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "Destr0yer",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 8.7,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 13,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "もぺもぺ | Mope Mope",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 8.2,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 12.7,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "Popping Happiness!",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 8.5,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 12.4,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "Madwing",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 9.9,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 12.8,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "TRICKL4SH 220",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 10.9,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 13.8,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "チルノは覚醒サマーデイズ！ | Cirno Awakens to Summer Days!",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 8.6,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 12.3,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"東方アレンジ"
+			]
+		},
+		{
+			"title": "エピクロスの虹はもう見えない | Epicross no Niji wa mo Mienai",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 8.4,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 11.3,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"東方アレンジ"
+			]
+		},
+		{
+			"title": "ARROW RAIN feat.ayame",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 9.2,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 12.6,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"東方アレンジ"
+			]
+		},
+		{
+			"title": "四次元跳躍機関 | Yon Jigen Choyaku Kikan [4D Jump Engine]",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 9.1,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 12.7,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"東方アレンジ"
+			]
+		},
+		{
+			"title": "Destructive Little Sister",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 10.9,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 13.9,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"東方アレンジ"
+			]
+		},
+		{
+			"title": "LOVE!HUG!GROOVY!!",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 8.7,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 12.4,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 13.5,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "Dig Delight!",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 8.3,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 11.4,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "電乱★カウントダウン | Electric Chaos★Countdown",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 7.8,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 12.5,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "Photon Melodies",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 7.7,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 11.5,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "ぐるぐるDJ TURN!! | Guru Guru DJ TURN!!",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 10.1,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 12.8,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "やけにインザレイン feat. 小林私 | YAKENI in the Rain feat. Kobayashi Watashi",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 10.3,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 13.1,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "Traveller feat.moimoi",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 8.4,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 12.4,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "FLVSH OUT",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 9.8,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 13.5,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "BSCS",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 8.8,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 13.3,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "Night Club Junkie",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 6.8,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 12.5,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "Cauliflower",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 8.7,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 12.8,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"オリジナル"
+			]
+		},
+		{
+			"title": "Purple Skies",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 8.4,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 12.4,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 13.8,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"オリジナル"
+			]
+		},
+		{
+			"title": "ソロモン・ナイト | Solomon Night",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 7.8,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 13.4,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "cœur",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 8.7,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 12.7,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "私はNo 1！ | I am No 1",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 8.4,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 12.3,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "EVE",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 9.2,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 13.1,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C（オリジナル）"
+			]
+		},
+		{
+			"title": "Lost Illusion",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 10.7,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 12.7,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"オリジナル"
+			]
+		},
+		{
+			"title": "eden",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 10.5,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 13.3,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 14.2,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C（オリジナル）"
+			]
+		},
+		{
+			"title": "Silentphobia",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 10.3,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 13.6,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 14,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C（オリジナル）"
+			]
+		},
+		{
+			"title": "Eternal Ending",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 10.9,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 13.4,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "さんさーら！ | Samsara!",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 7.9,
+					"version": "LILY R"
+				},
+				{
+					"difficulty": 12.4,
+					"version": "LILY R"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "トリノコシティ | Torinoko City",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 7.7,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 12.2,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "Fam☆Fam☆Time!",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 8.2,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 11.9,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "KING",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 8,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 11.6,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "ダーリンダンス | Darling Dance",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 8.7,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 12.8,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "サマータイムレコード | Summertime Record",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 7.8,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 11.9,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "Machinery of Avoid",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 8.5,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 12.7,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "Datamania (tpz Overheat Remix)",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 7.8,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 12.6,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "Ouvertüre",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 9.6,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 13.3,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 14.2,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"オリジナル"
+			]
+		},
+		{
+			"title": "Love Kills U",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 8.4,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 12.5,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 13.8,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"オリジナル"
+			]
+		},
+		{
+			"title": "超MANJIラッシュ | Super Manji Rush",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 9.7,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 13.7,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C（オリジナル）"
+			]
+		},
+		{
+			"title": "YOG",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 9.7,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 13.8,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"オリジナル"
+			]
+		},
+		{
+			"title": "Meta-Mysteria",
+			"sheets": [
+				{
+					"difficulty": 6,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 11,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 14.1,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C（オリジナル）"
+			]
+		},
+		{
+			"title": "Avant Raze",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 8,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 12.6,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "#1f1e33",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 10.9,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 13.9,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "Arcahv",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 10.5,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 13.6,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "最強STRONGER | SAIKYOSTRONGER",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 10.6,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 14,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "Sheriruth (Laur Remix)",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 10.3,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 13.3,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "Let you DIVE! (nitro rmx)",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 8.7,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 12.7,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "うっせぇわ | Usseewa",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 9.6,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 12.2,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 13.2,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "Kira☆Kira☆Night",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 9.6,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 12.9,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"オリジナル"
+			]
+		},
+		{
+			"title": "Crime Wave",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 8.1,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 12.7,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"東方アレンジ"
+			]
+		},
+		{
+			"title": "叩ケ　叩ケ　手ェ叩ケ | Clap, Clap, Clap Your Hands (Tatake Tatake Tetatake)",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 7.3,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 12.3,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 13.8,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "透明声彩 | Toumei Seisai",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 7.6,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 11.8,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "Fly to NEW WORLD",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 8.3,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 12.2,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "Break Through Myself feat. Risa Yuzuki",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 10.2,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 13.4,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "Chobit Flavor",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 9.2,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 12.6,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "D3LTA QOMPLEX",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 9.9,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 13.1,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "メニメニマニマニ | Menimeni Manimani",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 7.8,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 12.3,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "怪盗Fの台本（シナリオ）〜消えたダイヤの謎〜 | Phantom Thief F's Scenario ~Mystery of the Missing Diamond~",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 9.1,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 13.7,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "おねがいダーリン | Onegai Darling",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 9.3,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 11.6,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "ちがう!!! | We Are Different!!! (or Same)",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 9.7,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 12.4,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "ワールズエンド・ダンスホール | World's End Dancehall",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 8.6,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 12.5,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "炉心融解 | Meltdown",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 8.6,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 12.2,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "∞(2018Remake)",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 8.7,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 13.8,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "Lights of Muse",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 9.9,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 12,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "粉骨砕身カジノゥ | Funkotsu Saishin Casino",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 8.1,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 13.6,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "The 90's Decision",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 9.5,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 13.5,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "XODUS",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 11,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 14.4,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "Comet Coaster",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 9.9,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 13.3,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "恋のMoonlight | Koi no Moonlight",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 8,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 11.8,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "花たちに希望を | Hanatachi ni Kibou o",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 9.8,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 12.4,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "NightTheater",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 10,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 13,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "ヒトガタ | HITOGATA",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 9.7,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 12.6,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "DANGEROOOOUS JUNGLE",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 10.6,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 13.4,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 14.3,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C（オリジナル）"
+			]
+		},
+		{
+			"title": "Dimension Hacker",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 10.8,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 13.4,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 14.3,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C（オリジナル）"
+			]
+		},
+		{
+			"title": "EPHMR",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 10.7,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 13.2,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 14.1,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C（オリジナル）"
+			]
+		},
+		{
+			"title": "クリムゾン帝王 | Crimson Emperor",
+			"sheets": [
+				{
+					"difficulty": 8,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 11.7,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 13.7,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 14.5,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C（オリジナル）"
+			]
+		},
+		{
+			"title": "メルト | Melt",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 8.7,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 12.6,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "天樂 | Tengaku",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 8.6,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 12.7,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "吉原ラメント | Yoshiwara Lament",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 8.3,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 12.4,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "アゲナゲン | Again And Again",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 10.5,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 13.5,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "ファムファタール | Femme Fatale",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 8,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 11.1,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "cloud IX",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 10.5,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 13.6,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"オリジナル"
+			]
+		},
+		{
+			"title": "Grip & Break down !!",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 8.5,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 12,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"東方アレンジ"
+			]
+		},
+		{
+			"title": "CENSORED!!",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 8.7,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 13.4,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"東方アレンジ"
+			]
+		},
+		{
+			"title": "神 | Kami",
+			"sheets": [
+				{
+					"difficulty": 6,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 10.9,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 13.7,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 14.4,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"オリジナル"
+			]
+		},
+		{
+			"title": "Candy Star",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 9.5,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 13.2,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "Onigami",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 9,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 13.2,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "Invisible Frenzy (Camellia's '593: Insanely Fluctuated' Remix)",
+			"sheets": [
+				{
+					"difficulty": 6,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 11.2,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 14.3,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "GENOCIDER (Kobaryo's FTN-Remix)",
+			"sheets": [
+				{
+					"difficulty": 6,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 10.7,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 14.3,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "Möbius",
+			"sheets": [
+				{
+					"difficulty": 8,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 10.8,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 14.4,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 15.1,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C（オリジナル）"
+			]
+		},
+		{
+			"title": "You & DIE",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 10.7,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 13.6,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "Reach My Voice",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 8.8,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 12.8,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "Ready Go feat. Yukacco",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 8.6,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 12.3,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "Big Daddy",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 8.7,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 13.3,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "N3XTAGE",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 10.4,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 12.7,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 13.7,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "NIGHTWAVE FRAGMENTS",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 10.6,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 13.7,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "GAKKY",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 10.7,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 13.7,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "SUPER EMULATOR",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 11,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 14.3,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "Brand New World feat. Yukacco",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 7.5,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 11.8,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "T+ VS SHARK",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 10.9,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 13.8,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "えくすとりーむ↑↑おんがくスクール feat. ななひら | Extreme Music School feat. Nanahira",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 10.9,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 13.8,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "Avenue",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 7.9,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 12.9,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "Middle",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 7.6,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 12.9,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "Obtain An Unused Whale In The Abstract Sea",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 6,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 13.3,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "EXTRA HARD",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 11,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 14.1,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "Odin",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 10.7,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 13.6,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "Viyella's Nightmare",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 11,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 13.8,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "1BPM",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 10.5,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 13.7,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "BPM=RT",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 10.8,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 13.9,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "最先端坊将軍３ | Top Shogun 3",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 8.8,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 13.8,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "We are the Massive New Krew (2020Edit)",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 8.6,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 13,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 14.1,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "To the sky -wacca edit- feat.motoko",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 8.9,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 12.5,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "Keep on Groovin' feat. mow*2",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 9.9,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 12.5,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "Crush Out",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 10.2,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 12.9,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "Everybody Say HARDCORE TANO*C",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 9.1,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 13.4,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "Scramble TANO*C",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 9.6,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 12.8,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "DIVE With Ü",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 9.6,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 13.3,
+					"version": "REVERSE"
+				},
+				{
+					"difficulty": 12,
+					"version": "REVERSE"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"オリジナル"
+			]
+		},
+		{
+			"title": "ぼくの夢、メチャクソ無限湧き (ななひら ver.) | My dreams were totally crushed! (Nanahira ver.)",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 10.7,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.7,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "Blossom",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 9,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.2,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "BULK UP (GAME EXCLUSIVE EDIT)",
+			"sheets": [
+				{
+					"difficulty": 7,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 10,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.8,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "春を告げる | Haru wo tsugeru",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 7,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 12.2,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "君のせい | Kimi no Sei",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 8,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 12.5,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "君のせい | Seisyun Complex",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 7,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 11.5,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "Chakra",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 9.3,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.1,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "ÅMARA(大未来電脳)",
+			"sheets": [
+				{
+					"difficulty": 6,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 9.7,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 12.1,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 14,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "caesura.",
+			"sheets": [
+				{
+					"difficulty": 7,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 10.6,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.5,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 14.5,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "ラグトレイン | Lagtrain",
+			"sheets": [
+				{
+					"difficulty": 1,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 8,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 11.8,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.2,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "Hainuwele",
+			"sheets": [
+				{
+					"difficulty": 7,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 10.7,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.9,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "Gestalt",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 8.4,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 12.7,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "Rebuff",
+			"sheets": [
+				{
+					"difficulty": 6,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 10.7,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.7,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "Colors",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 8.7,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 11,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"東方アレンジ"
+			]
+		},
+		{
+			"title": "Joe Fight",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 10.7,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 14,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "ラビットホール | Rabbit Hole",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 9.4,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.3,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "Make Up Your World feat. キョンシーのCiちゃん & らっぷびと",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 9.9,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 12.6,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "Asteroid [feat. blaxervant]",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 8,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 12.5,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "B.B.K.K.B.K.K.",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 9,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.1,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 0,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "Caramelldansen (Speedycake Remix)",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 9.7,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 12.7,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "Cheatreal",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 10.7,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.6,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "IMPULSE // WEAVER",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 8,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 12.3,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"オリジナル"
+			]
+		},
+		{
+			"title": "INTERNET YAMERO",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 9.9,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.5,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "唱 | Show",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 8,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 12.4,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.4,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "Blows Up Everything",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 9,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.7,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "Confessions of a Rotten Girl ft. Hatsune Miku",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 9,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.2,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "Got It Bad",
+			"sheets": [
+				{
+					"difficulty": 7,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 10.5,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 14,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "強風オールバック (feat.歌愛ユキ) | Kyoufuu All Back (feat. Kaai Yuki)",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 7,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 11.9,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.1,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "my flow",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 8.7,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.4,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "N3V3R G3T OV3R",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 10,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 12.8,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "POWER OF UNITY",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 10,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.8,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "Straight into the lights",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 9.7,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.4,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 14.2,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "Happy Synthesizer",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 7,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 10.7,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 12.3,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "Latent Kingdom",
+			"sheets": [
+				{
+					"difficulty": 8,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 11,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.3,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 14.3,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "� | Null",
+			"sheets": [
+				{
+					"difficulty": 8,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 11.6,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 14.3,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 15,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"オリジナル"
+			]
+		},
+		{
+			"title": "egoIST",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 9.8,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 12.7,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 14,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"オリジナル"
+			]
+		},
+		{
+			"title": "ミラクルポップ☆アドベンチャー!!!!! | MIRACLE POP ADVENTURE!!!!!",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 10,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.7,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "How To Make 音ゲ~曲!",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 9,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.5,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "Feels So Right feat. Renko",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 8.8,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 10.6,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.1,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "Distorted Fate",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 9.8,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.8,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "Rrhar'il",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 8.9,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.5,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 14.2,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "Chronomia",
+			"sheets": [
+				{
+					"difficulty": 6,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 11,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.7,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "Get Your Wish",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 6.8,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 10,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "Mãos para cima! ~手を上げな~",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 9,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 12.8,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "Mujinku-Vacuum Track#ADD8E6-",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 10,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.9,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "Twisted Drop Party",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 10.1,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.1,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "惑星ループ | Planet Loop",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 10.7,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 12.7,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"ボカロ"
+			]
+		},
+		{
+			"title": "DAWNBREAKER",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 9.7,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 12.3,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "ICEBURN",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 9.8,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.8,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "Random Access Emotions",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 10,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 12,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.5,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "STARTLINER",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 8.7,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 11.6,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "Stellar:Dream",
+			"sheets": [
+				{
+					"difficulty": 6,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 10,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.8,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 14.2,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "Titania",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 11,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.7,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 14.3,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "Y.Y.Y.計画!!!!",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 8.8,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 12.5,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "WakeUP MakeUP FEVER!",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 8,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 12.6,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "Last Kingdom",
+			"sheets": [
+				{
+					"difficulty": 6,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 10.5,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.6,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "Good bye, Merry-Go-Round.",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 10.8,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 12.8,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 14,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "Don't Fight The Music",
+			"sheets": [
+				{
+					"difficulty": 6,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 10.7,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.4,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 14.4,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "Pop Sequence",
+			"sheets": [
+				{
+					"difficulty": 1,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 5.7,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 11.7,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "Crossing Delta",
+			"sheets": [
+				{
+					"difficulty": 6,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 10.8,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.8,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "Paved Garden",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 8.3,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 12.6,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "Shadow Bang",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 10,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.4,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "Slapstick Parfait",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 9.9,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.5,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "Kirakira Noel Story!!",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 8.9,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 12.9,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "GIGA FLARE VIP",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 10.8,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.6,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "SWAG!!",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 9.7,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 12.7,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "ビビデバ | BIBBIDIBA",
+			"sheets": [
+				{
+					"difficulty": 1,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 6.5,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 10.5,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "Maholova",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 10.4,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.3,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "MVURBD",
+			"sheets": [
+				{
+					"difficulty": 6,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 10.7,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 14,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "Burned Out",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 9.8,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.6,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "MEGA TSKR",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 10.8,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.9,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "The Rebellion of Phantom (feat. Valkyria)",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 9.8,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.2,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "sys_dei/cide",
+			"sheets": [
+				{
+					"difficulty": 7,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 11.7,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 14.3,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 14.8,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"オリジナル"
+			]
+		},
+		{
+			"title": "B2GFM",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 8.9,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 12.4,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "BATTLE NO.1 (DJ Myosuke Remix)",
+			"sheets": [
+				{
+					"difficulty": 6,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 11,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 14.2,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "Drive Thrust",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 10.9,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 14.1,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "LUMIS:ETHER* feat.M1shamo & □□□□□□",
+			"sheets": [
+				{
+					"difficulty": 6,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 10.8,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.3,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "Super Rotation",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 8.9,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.4,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
+			]
+		},
+		{
+			"title": "Super Abnormia",
+			"sheets": [
+				{
+					"difficulty": 6,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 11,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 14,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 14.6,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"オリジナル"
+			]
+		},
+		{
+			"title": "桜華月想-SDVX EDIT- | Ouka Getsusou -SDVX EDIT-",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 9.4,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 12.9,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"東方アレンジ"
+			]
+		},
+		{
+			"title": "Ghost Shout",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 9.4,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.3,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"東方アレンジ"
+			]
+		},
+		{
+			"title": "HELLOHELL",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 9.3,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.3,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"東方アレンジ"
+			]
+		},
+		{
+			"title": "Goddess Destroyed U",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 9.7,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 12.4,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"東方アレンジ"
+			]
+		},
+		{
+			"title": "MERMAID",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 8.7,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 11.9,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"東方アレンジ"
+			]
+		},
+		{
+			"title": "Help me, ERINNNNNN!! たすけてえーりん!!",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 10.8,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.5,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"東方アレンジ"
+			]
+		},
+		{
+			"title": "Ultimate Taste",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 10.9,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.7,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"東方アレンジ"
+			]
+		},
+		{
+			"title": "Necromantic",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 8,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 11.8,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.7,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"東方アレンジ"
+			]
+		},
+		{
+			"title": "Fragmentary Specter Blade",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 9.8,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.2,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"東方アレンジ"
+			]
+		},
+		{
+			"title": "Chatter Chatter",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 9,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 12.6,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 0,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "radio galaxy",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 9,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.3,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C（オリジナル）"
+			]
+		},
+		{
+			"title": "Shelter",
+			"sheets": [
+				{
+					"difficulty": 2,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 6.2,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 11,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 12,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"アニメ／ＰＯＰ"
+			]
+		}
+	]
+}
