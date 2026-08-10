@@ -1,0 +1,36 @@
+/* Utility Styles */
+.hidden {
+	display: none;
+}
+
+body {
+	padding: 16px;
+	max-width: 64rem;
+	margin: auto;
+}
+
+#login-container {
+	max-width: 28rem;
+	margin: auto;
+}
+
+#chat-container {
+	display: flex;
+	flex-direction: column;
+	gap: 8px;
+}
+
+.fake-textarea {
+	border: 1px solid #202632;
+	background-color: #1C212C;
+	border-radius: 4px;
+	padding: 10px;
+	font-family: sans-serif;
+	min-height: 8rem;
+	max-height: 24rem;
+	resize: vertical;
+	overflow-y: scroll;
+
+	display: flex;
+	flex-direction: column;
+}
