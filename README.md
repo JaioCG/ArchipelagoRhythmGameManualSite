@@ -4,7 +4,7 @@ A website built to allow for playing various rhythm games with [Archipelago](htt
 
 ## Supported Games List
 
-- CHUNITHM (Through X-VERSE-X)
+- CHUNITHM (Up through X-VERSE-X)
 - maimai DX (Up through CiRCLE PLUS, last updated 8/10)
 - Project Sekai: Colorful Stage (Last updated 8/10)
 - SOUND VOLTEX (Up through Nabla, Last updated 8/10)
@@ -26,11 +26,11 @@ Logic works similarly to other rhythm game Archipelago implementations (most not
 
 No. While these worlds effectively work like a standard Manual, they are not built for use with the Archipelago Text/Manual Client. With lots of rhythm game songs not being localized to English, and the Archipelago application not supporting Japanense characters, the majority of locations for games will be entirely unreadable.
 
-## Can you add support for X game?
+### Can you add support for X game?
 
 Absolutely! You can suggest new games to add via GitHub Issues or directly on Discord (@jaiocg or @studkid), and preferrably include an update data source with song information to make generation easier.
 
-## Do you need access to any specific version/regional release of a game?
+### Do you need access to any specific version/regional release of a game?
 
 No, you can exclude specific versions or regions in the YAML, along with specific songs.
 
@@ -41,7 +41,7 @@ Specific Region Excludes:
 - SOUND VOLTEX: N/A
 - WACCA: "Online"
 
-## Help! It's expecting me to play a song that is not accessible on my game!
+### Help! It's expecting me to play a song that is not accessible on my game!
 
 Well, it's a Manual so... Just click the button, nobody has to know ;).
 
