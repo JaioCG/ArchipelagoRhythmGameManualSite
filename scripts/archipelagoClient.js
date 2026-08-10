@@ -12,7 +12,7 @@ let missingLocations = null;
 
 // Get songs data for selected game
 export async function getGameData() {
-	let json = `data/${sessionStorage.getItem('game')}.json`;
+	let json = `gameData/${sessionStorage.getItem('game')}.json`;
 	try {
 		const response = await fetch(json);
 		gameData = await response.json();

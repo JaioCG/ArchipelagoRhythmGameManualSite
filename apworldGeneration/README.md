@@ -26,7 +26,7 @@ Do note that custom apworlds will not work on the site without first placing the
             "color": "#14A0E4" // Used on website
         }
     ],
-	"useTenths": true, // Replaces normal scale with a *10 integer scale
+	"useTenths": true, // Replaces normal scale with a *10 integer scale in the apworld
     "diffFloor": 1,
     "diffCeiling": 15.1,
     "songs": [
