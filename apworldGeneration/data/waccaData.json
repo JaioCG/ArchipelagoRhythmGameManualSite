@@ -1648,6 +1648,10 @@
 				{
 					"difficulty": 11.5,
 					"version": "WACCA"
+				},
+				{
+					"difficulty": 13.4,
+					"version": "PLUS"
 				}
 			],
 			"exclusivities": [],
@@ -2170,6 +2174,10 @@
 				{
 					"difficulty": 11.2,
 					"version": "WACCA"
+				},
+				{
+					"difficulty": 13.6,
+					"version": "PLUS"
 				}
 			],
 			"exclusivities": [],
@@ -3031,6 +3039,10 @@
 				{
 					"difficulty": 12.8,
 					"version": "WACCA S"
+				},
+				{
+					"difficulty": 13.8,
+					"version": "PLUS"
 				}
 			],
 			"exclusivities": [],
@@ -8112,6 +8124,10 @@
 				{
 					"difficulty": 12.9,
 					"version": "REVERSE"
+				},
+				{
+					"difficulty": 13.6,
+					"version": "PLUS"
 				}
 			],
 			"exclusivities": [],
@@ -9089,6 +9105,10 @@
 				{
 					"difficulty": 12.8,
 					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.9,
+					"version": "PLUS"
 				}
 			],
 			"exclusivities": [],
@@ -9796,27 +9816,6 @@
 			]
 		},
 		{
-			"title": "Shadow Bang",
-			"sheets": [
-				{
-					"difficulty": 5,
-					"version": "PLUS"
-				},
-				{
-					"difficulty": 10,
-					"version": "PLUS"
-				},
-				{
-					"difficulty": 13.4,
-					"version": "PLUS"
-				}
-			],
-			"exclusivities": [],
-			"categories": [
-				"TANO*C"
-			]
-		},
-		{
 			"title": "Slapstick Parfait",
 			"sheets": [
 				{
@@ -9835,6 +9834,27 @@
 			"exclusivities": [],
 			"categories": [
 				"バラエティ"
+			]
+		},
+		{
+			"title": "Shadow Bang",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 10,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.4,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"TANO*C"
 			]
 		},
 		{
@@ -10186,18 +10206,22 @@
 			]
 		},
 		{
-			"title": "桜華月想-SDVX EDIT- | Ouka Getsusou -SDVX EDIT-",
+			"title": "Fragmentary Specter Blade",
 			"sheets": [
 				{
-					"difficulty": 3,
+					"difficulty": 5,
 					"version": "PLUS"
 				},
 				{
-					"difficulty": 9.4,
+					"difficulty": 9.8,
 					"version": "PLUS"
 				},
 				{
-					"difficulty": 12.9,
+					"difficulty": 13.2,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.8,
 					"version": "PLUS"
 				}
 			],
@@ -10215,27 +10239,6 @@
 				},
 				{
 					"difficulty": 9.4,
-					"version": "PLUS"
-				},
-				{
-					"difficulty": 13.3,
-					"version": "PLUS"
-				}
-			],
-			"exclusivities": [],
-			"categories": [
-				"東方アレンジ"
-			]
-		},
-		{
-			"title": "HELLOHELL",
-			"sheets": [
-				{
-					"difficulty": 4,
-					"version": "PLUS"
-				},
-				{
-					"difficulty": 9.3,
 					"version": "PLUS"
 				},
 				{
@@ -10270,18 +10273,18 @@
 			]
 		},
 		{
-			"title": "MERMAID",
+			"title": "HELLOHELL",
 			"sheets": [
 				{
 					"difficulty": 4,
 					"version": "PLUS"
 				},
 				{
-					"difficulty": 8.7,
+					"difficulty": 9.3,
 					"version": "PLUS"
 				},
 				{
-					"difficulty": 11.9,
+					"difficulty": 13.3,
 					"version": "PLUS"
 				}
 			],
@@ -10303,27 +10306,6 @@
 				},
 				{
 					"difficulty": 13.5,
-					"version": "PLUS"
-				}
-			],
-			"exclusivities": [],
-			"categories": [
-				"東方アレンジ"
-			]
-		},
-		{
-			"title": "Ultimate Taste",
-			"sheets": [
-				{
-					"difficulty": 5,
-					"version": "PLUS"
-				},
-				{
-					"difficulty": 10.9,
-					"version": "PLUS"
-				},
-				{
-					"difficulty": 13.7,
 					"version": "PLUS"
 				}
 			],
@@ -10358,18 +10340,60 @@
 			]
 		},
 		{
-			"title": "Fragmentary Specter Blade",
+			"title": "桜華月想-SDVX EDIT- | Ouka Getsusou -SDVX EDIT-",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 9.4,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 12.9,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"東方アレンジ"
+			]
+		},
+		{
+			"title": "Ultimate Taste",
 			"sheets": [
 				{
 					"difficulty": 5,
 					"version": "PLUS"
 				},
 				{
-					"difficulty": 9.8,
+					"difficulty": 10.9,
 					"version": "PLUS"
 				},
 				{
-					"difficulty": 13.2,
+					"difficulty": 13.7,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"東方アレンジ"
+			]
+		},
+		{
+			"title": "MERMAID",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 8.7,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 11.9,
 					"version": "PLUS"
 				}
 			],
@@ -10447,6 +10471,111 @@
 			"exclusivities": [],
 			"categories": [
 				"アニメ／ＰＯＰ"
+			]
+		},
+		{
+			"title": "SUPER☆HARAGURO☆POP",
+			"sheets": [
+				{
+					"difficulty": 3,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 8.7,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 12.8,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"バラエティ"
+			]
+		},
+		{
+			"title": "Eden",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 9.8,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 12.5,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"東方アレンジ"
+			]
+		},
+		{
+			"title": "Imperishable Night 2006 (2016 Refine)",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 10.2,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.9,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"東方アレンジ"
+			]
+		},
+		{
+			"title": "サドマミホリック | SadoMamiHolic",
+			"sheets": [
+				{
+					"difficulty": 5,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 10.6,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 13.7,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"東方アレンジ"
+			]
+		},
+		{
+			"title": "つるぺったん | Tsurupettan",
+			"sheets": [
+				{
+					"difficulty": 4,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 8.8,
+					"version": "PLUS"
+				},
+				{
+					"difficulty": 12.7,
+					"version": "PLUS"
+				}
+			],
+			"exclusivities": [],
+			"categories": [
+				"東方アレンジ"
 			]
 		}
 	]
